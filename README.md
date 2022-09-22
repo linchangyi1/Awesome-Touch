@@ -1,6 +1,6 @@
 # Awesome Tactility [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-This is a list
+Owing to my personal interest, this collection may focus more on vision-based tactile sensors.
 
 ## Table of Contents
 
