@@ -1,5 +1,24 @@
 # Awesome Tactility [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+This is a list
+
+## Table of Contents
+
+- [Sensors](#sensors)
+  - [Vision-Based](#vision-based)
+  - [Visual-Tactile (Multimodals)](#visual-tactile)
+  - [Non-Vision-Based](#non-vision-based)
+- [Applications](#applications)
+  - [Manipulation/Grasping](#manipulationgrasping)
+  - [Classification/Recognition](#classificationrecognition)
+  - [Mapping/Localization](#mappinglocalization)
+  - [Others](#others)
+- [Software](#software)
+  - [Simulator](#simulator)
+  - [Library](#library)
+- [Review](#review)
+
+
 
 ## Sensors
 
@@ -82,7 +101,7 @@
 -->
 
 
-### Visual-Tactile (Multimodals)
+### Visual-Tactile
 
 - [Combining Finger Vision and Optical Tactile Sensing: Reducing and Handling Errors While Cutting Vegetables](https://ieeexplore.ieee.org/abstract/document/7803400), Yamaguchi et al., Humanoids 2016
 
