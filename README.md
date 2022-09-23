@@ -17,6 +17,7 @@ Owing to my personal interest, this collection may focus more on vision-based ta
   - [Simulator](#simulator)
   - [Library](#library)
 - [Review](#review)
+- [Products](#products)
 
 
 
@@ -225,5 +226,11 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 - [On the Design and Development of Vision-based Tactile Sensors](https://link.springer.com/article/10.1007/s10846-021-01431-0), Shah et al., JINT 2021
 
 - [A survey of visuotactile sensing technologies for robotic manipulation](http://www.infocomm-journal.com/znkx/CN/10.11959/j.issn.2096-6652.202222), Cui et al., Chinese Journal of Intelligent Science and Technology 2022
+
+## Products
+- [DIGIT](https://www.gelsight.com/product/digit-tactile-sensor/)
+- [GelSight Mini](https://www.gelsight.com/product/gelsight-mini-system/)
+
+
 
 
