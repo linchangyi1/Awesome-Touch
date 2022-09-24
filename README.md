@@ -93,9 +93,11 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 
 - [DigiTac: A DIGIT-TacTip Hybrid Tactile Sensor for Comparing Low-Cost High-Resolution Robot Touch](https://ieeexplore.ieee.org/abstract/document/9829271), Lepora et al., RAL 2022
 
+- [Model-Based 3D Contact Geometry Perception for Visual Tactile Sensor](https://www.mdpi.com/1424-8220/22/17/6470), Ji et al., Sensors 2022
+
 - [DenseTact: Optical Tactile Sensor for Dense Shape Reconstruction](https://ieeexplore.ieee.org/abstract/document/9811966), Do et al., ICRA 2022
 
-- [Model-Based 3D Contact Geometry Perception for Visual Tactile Sensor](https://www.mdpi.com/1424-8220/22/17/6470), Ji et al., Sensors 2022
+- [DenseTact 2.0: Optical Tactile Sensor for Shape and Force Reconstruction](https://arxiv.org/abs/2209.10122), Do et al., arxiv 2022
 
 <!---
 - [](), xxx et al., yyy 20
