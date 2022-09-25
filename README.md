@@ -171,6 +171,8 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 
 - [Improving Grasp Stability with Rotation Measurement from Tactile Sensing](https://ieeexplore.ieee.org/abstract/document/9636488), Kolamuri et al., IROS 2021
 
+- [Dynamic Modeling of Hand-Object Interactions via Tactile Sensing](https://ieeexplore.ieee.org/abstract/document/9636361), Zhang et al., IROS 2021
+
 - [Meta-Residual Policy Learning: Zero-Trial Robot Skill Adaptation via Knowledge Fusion](https://ieeexplore.ieee.org/abstract/document/9697332), Hao et al., RAL 2022
 
 - [Tactile Pose Estimation and Policy Learning for Unknown Object Manipulation](https://arxiv.org/abs/2203.10685), Kelestemur et al., arxiv 2022
