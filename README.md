@@ -95,6 +95,8 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 
 - [Model-Based 3D Contact Geometry Perception for Visual Tactile Sensor](https://www.mdpi.com/1424-8220/22/17/6470), Ji et al., Sensors 2022
 
+- [TaTa: A Universal Jamming Gripper with High-Quality Tactile Perception and Its Application to Underwater Manipulation](https://ieeexplore.ieee.org/document/9811806), Li et al., ICRA 2022
+
 - [DenseTact: Optical Tactile Sensor for Dense Shape Reconstruction](https://ieeexplore.ieee.org/abstract/document/9811966), Do et al., ICRA 2022
 
 - [DenseTact 2.0: Optical Tactile Sensor for Shape and Force Reconstruction](https://arxiv.org/abs/2209.10122), Do et al., arxiv 2022
