@@ -53,6 +53,8 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 
 - [Soft-bubble: A highly compliant dense geometry tactile sensor for robot manipulation](https://ieeexplore.ieee.org/abstract/document/8722713), Alspach et al., RoboSoft 2019
 
+- [Soft-Bubble grippers for robust and perceptive manipulation](https://ieeexplore.ieee.org/abstract/document/9341534), Kuppuswamy et al., IROS 2020
+
 - [GelTip: A Finger-shaped Optical Tactile Sensor for Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/9340881), Gomes et al., IROS 2020
 
 - [A Novel Dynamic-Vision-Based Approach for Tactile Sensing Applications](https://ieeexplore.ieee.org/abstract/document/8723387), Naeini et al., Trans. Instrum. Meas. 2020
@@ -70,6 +72,12 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 - [Exoskeleton-covered soft finger with vision-based proprioception and tactile sensing](https://ieeexplore.ieee.org/abstract/document/9197369), She et al., ICRA 2020
 
 - [TouchRoller: A Rolling Optical Tactile Sensor for Rapid Assessment of Large Surfaces](https://arxiv.org/abs/2103.00595), Cao et al., arxiv 2021
+
+- [Variable compliance and geometry regulation of Soft-Bubble grippers with active pressure control](https://ieeexplore.ieee.org/abstract/document/9479228), Joonhigh et al., RoboSoft 2021
+
+- [Monocular Depth Estimation for Soft Visuotactile Sensors](https://ieeexplore.ieee.org/abstract/document/9479234), Ambrus et al., RoboSoft 2021
+
+- [SEED: Series Elastic End Effectors in 6D for Visuotactile Tool Use](https://arxiv.org/abs/2111.01376), Suh et al., arxiv 2021
 
 - [Viko: An Adaptive Gecko Gripper with Vision-based Tactile Sensor](https://ieeexplore.ieee.org/abstract/document/9561606), Pang et al., ICRA 2021
 
@@ -200,9 +208,13 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 
 - [Tactile Mapping and Localization from High-Resolution Tactile Imprints](https://ieeexplore.ieee.org/abstract/document/8794298), Bauza et al., ICRA 2019
 
+- [Fast Model-Based Contact Patch and Pose Estimation for Highly Deformable Dense-Geometry Tactile Sensors](https://ieeexplore.ieee.org/document/8936859), Kuppuswamy et al., RAL 2020
+
 - [Tactile SLAM: Real-time inference of shape and pose from planar pushing](https://ieeexplore.ieee.org/abstract/document/9562060), Suresh et al., ICRA 2021
 
 - [ShapeMap 3-D: Efficient shape mapping through dense touch and vision](https://ieeexplore.ieee.org/abstract/document/9812040), Suresh et al., ICRA 2022
+
+- [Manipulation via Membranes: High-Resolution and Highly Deformable Tactile Sensing and Control](https://arxiv.org/abs/2209.13432), Oller et al., arxiv 2022
 
 ### Others
 - [Extended Tactile Perception: Vibration Sensing through Tools and Grasped Objects](https://ieeexplore.ieee.org/abstract/document/9636677), Taunyazov et al., IROS 2021
