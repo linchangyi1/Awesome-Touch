@@ -25,7 +25,7 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 
 ### Vision-Based
 
-- [Retrographic sensing for the measurement of surface texture and shape](https://ieeexplore.ieee.org/abstract/document/5206534), Johnson et al., CVPR 2009
+- [Retrographic sensing for the measurement of surface texture and shape](https://ieeexplore.ieee.org/abstract/document/5206534){:target="_blank"}, Johnson et al., CVPR 2009
 
 - [Finger-Shaped GelForce: Sensor for Measuring Surface Traction Fields for Robotic Hand](https://ieeexplore.ieee.org/abstract/document/5306070), Sato et al., TOH 2010
 
