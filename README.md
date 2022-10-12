@@ -220,6 +220,8 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 
 - [Manipulation via Membranes: High-Resolution and Highly Deformable Tactile Sensing and Control](https://arxiv.org/abs/2209.13432), Oller et al., arxiv 2022
 
+- [Enhancing Generalizable 6D Pose Tracking of an In-Hand Object with Tactile Sensing](https://arxiv.org/abs/2210.04026), Xu et al., arxiv 2022
+
 ### Others
 - [Extended Tactile Perception: Vibration Sensing through Tools and Grasped Objects](https://ieeexplore.ieee.org/abstract/document/9636677), Taunyazov et al., IROS 2021
 
@@ -228,6 +230,8 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 - [MidasTouch: Monte-Carlo inference over distributions across sliding touch](https://openreview.net/forum?id=JWROnOf4w-K), Suresh et al., CoRL 2022
 
 - [Understanding Dynamic Tactile Sensing for Liquid Property Estimation](https://arxiv.org/abs/2205.08771), Huang et al., arxiv 2022
+
+- [SLURP! Spectroscopy of Liquids Using Robot Pre-Touch Sensing](https://arxiv.org/abs/2210.04941), Hanson et al., arxiv 2022
 
 ## Software
 
