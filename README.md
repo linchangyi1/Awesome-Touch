@@ -159,7 +159,7 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 
 ## Applications
 <!---
-- [](), xxx et al., yyy 20
+- [](), xxx et al., yyy 2022
 -->
 
 ### Manipulation/Grasping
@@ -184,6 +184,8 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 - [Dynamic Modeling of Hand-Object Interactions via Tactile Sensing](https://ieeexplore.ieee.org/abstract/document/9636361), Zhang et al., IROS 2021
 
 - [Meta-Residual Policy Learning: Zero-Trial Robot Skill Adaptation via Knowledge Fusion](https://ieeexplore.ieee.org/abstract/document/9697332), Hao et al., RAL 2022
+
+- [Autonomous Learning of Page Flipping Movements via Tactile Feedback](https://ieeexplore.ieee.org/abstract/document/9786532), Zheng et al., TRO 2022
 
 - [Tactile Pose Estimation and Policy Learning for Unknown Object Manipulation](https://arxiv.org/abs/2203.10685), Kelestemur et al., arxiv 2022
 
