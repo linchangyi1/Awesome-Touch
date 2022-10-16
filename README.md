@@ -175,6 +175,8 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 
 - [Swingbot: Learning physical features from in-hand tac?tile exploration for dynamic swing-up manipulation](https://ieeexplore.ieee.org/abstract/document/9341006), Wang et al., IROS 2020
 
+- [Tactile Dexterity: Manipulation Primitives with Tactile Feedback](https://ieeexplore.ieee.org/abstract/document/9196976), Hogan et al., ICRA 2020
+
 - [Cable manipulation with a tactile-reactive gripper](https://journals.sagepub.com/doi/full/10.1177/02783649211027233), She et al., IJRR 2021
 
 - [A Robust Controller for Stable 3D Pinching Using Tactile Sensing](https://ieeexplore.ieee.org/abstract/document/9511836), Psomopoulou et al., RAL 2021
