@@ -37,7 +37,7 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 
 - [Improved GelSight Tactile Sensor for Measuring Geometry and Slip](https://ieeexplore.ieee.org/abstract/document/8202149), Dong et al., IROS 2017
 
-- [GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force](https://www.mdpi.com/1424-8220/17/12/2762), Yuan et al., Sensors 2017
+- [GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force](https://www.mdpi.com/1424-8220/17/12/2762), Yuan et al., MDPI Sensors 2017
 
 - [FingerVision Tactile Sensor Design and Slip Detection Using Convolutional LSTM Network](https://arxiv.org/abs/1810.02653), Zhang et al., arxiv 2018
 
@@ -47,7 +47,7 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 
 - [Development of a Vision-Based Soft Tactile Muscularis](https://ieeexplore.ieee.org/abstract/document/8722814), Duong et al., RoboSoft 2019
 
-- [Design, Motivation and Evaluation of a Full-Resolution Optical Tactile Sensor](https://www.mdpi.com/1424-8220/19/4/928), Sferrazza et al., Sensors 2019
+- [Design, Motivation and Evaluation of a Full-Resolution Optical Tactile Sensor](https://www.mdpi.com/1424-8220/19/4/928), Sferrazza et al., MDPI Sensors 2019
 
 - [Transfer learning for vision-based tactile sensing](https://ieeexplore.ieee.org/abstract/document/8967571), Sferrazza et al., IROS 2019
 
@@ -70,6 +70,10 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 - [Towards vision-based robotic skins: a data-driven, multi-camera tactile sensor](https://ieeexplore.ieee.org/abstract/document/9116060), Trueeb et al., RoboSoft 2020
 
 - [Exoskeleton-covered soft finger with vision-based proprioception and tactile sensing](https://ieeexplore.ieee.org/abstract/document/9197369), She et al., ICRA 2020
+
+- [F-TOUCH Sensor for Three-Axis Forces Measurement and Geometry Observation](https://ieeexplore.ieee.org/document/9278600), Li et al., IEEE SENSORS 2020
+
+- [Design of a Fully Actuated Robotic Hand With Multiple Gelsight Tactile Sensors](https://arxiv.org/abs/2002.02474), Wilson et al., arxiv 2020
 
 - [TouchRoller: A Rolling Optical Tactile Sensor for Rapid Assessment of Large Surfaces](https://arxiv.org/abs/2103.00595), Cao et al., arxiv 2021
 
@@ -101,7 +105,7 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 
 - [DigiTac: A DIGIT-TacTip Hybrid Tactile Sensor for Comparing Low-Cost High-Resolution Robot Touch](https://ieeexplore.ieee.org/abstract/document/9829271), Lepora et al., RAL 2022
 
-- [Model-Based 3D Contact Geometry Perception for Visual Tactile Sensor](https://www.mdpi.com/1424-8220/22/17/6470), Ji et al., Sensors 2022
+- [Model-Based 3D Contact Geometry Perception for Visual Tactile Sensor](https://www.mdpi.com/1424-8220/22/17/6470), Ji et al., MDPI Sensors 2022
 
 - [TaTa: A Universal Jamming Gripper with High-Quality Tactile Perception and Its Application to Underwater Manipulation](https://ieeexplore.ieee.org/document/9811806), Li et al., ICRA 2022
 
@@ -191,6 +195,8 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 
 - [Autonomous Learning of Page Flipping Movements via Tactile Feedback](https://ieeexplore.ieee.org/abstract/document/9786532), Zheng et al., TRO 2022
 
+- [Where Shall I Touch? Vision-Guided Tactile Poking for Transparent Object Grasping](https://ieeexplore.ieee.org/abstract/document/9882387), Jiang et al., Transactions on Mechatronics 2022
+
 - [Tactile Pose Estimation and Policy Learning for Unknown Object Manipulation](https://arxiv.org/abs/2203.10685), Kelestemur et al., arxiv 2022
 
 - [Visuo-Tactile Transformers for Manipulation](https://arxiv.org/abs/2210.00121), Chen et al., arxiv 2022
@@ -261,11 +267,13 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 
 
 ## Review
-- [Tactile Image Sensors Employing Camera: A Review](https://www.mdpi.com/1424-8220/19/18/3933), Shimonomura et al., Sensors 2019
+- [Tactile Image Sensors Employing Camera: A Review](https://www.mdpi.com/1424-8220/19/18/3933), Shimonomura et al., MDPI Sensors 2019
 
 - [On the Design and Development of Vision-based Tactile Sensors](https://link.springer.com/article/10.1007/s10846-021-01431-0), Shah et al., JINT 2021
 
 - [A survey of visuotactile sensing technologies for robotic manipulation](http://www.infocomm-journal.com/znkx/CN/10.11959/j.issn.2096-6652.202222), Cui et al., Chinese Journal of Intelligent Science and Technology 2022
+
+- [Hardware Technology of Vision-Based Tactile Sensor: A Review](https://ieeexplore.ieee.org/abstract/document/9911183), Zhang et al., IEEE SENSORS 2022
 
 ## Products
 - [DIGIT](https://www.gelsight.com/product/digit-tactile-sensor/)
