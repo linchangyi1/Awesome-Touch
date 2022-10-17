@@ -97,6 +97,12 @@ Keep updating! ! !
 
 - [StRETcH: a Soft to Resistive Elastic Tactile Hand](https://ieeexplore.ieee.org/abstract/document/9561822), Matl et al., ICRA 2021
 
+- [FingerVision with Whiskers: Light Touch Detection with Vision-based Tactile Sensors](https://ieeexplore.ieee.org/abstract/document/9699987), Yamaguchi et al., IRC 2021
+
+- [Visiflex: A Low-Cost Compliant Tactile Fingertip for Force, Torque, and Contact Sensing](https://ieeexplore.ieee.org/abstract/document/9361260), Fernandez et al., RAL 2021
+
+- [Vision-Based Tactile Sensor Mechanism for the Estimation of Contact Position and Force Distribution Using Deep Learning](https://www.mdpi.com/1424-8220/21/5/1920/htm), Kakani et al., MDPI Sensors 2021
+
 - [GelSlim 3.0: High-Resolution Measurement of Shape, Force and Slip in a Compact Tactile-Sensing Finger](https://ieeexplore.ieee.org/abstract/document/9811832), Taylor et al., ICRA 2022
 
 - [In-Hand Object Localization Using a Novel High-Resolution Visuotactile Sensor](https://ieeexplore.ieee.org/abstract/document/9464700), Cui et al., Trans. Ind. Electron. 2022
@@ -112,6 +118,8 @@ Keep updating! ! !
 - [Model-Based 3D Contact Geometry Perception for Visual Tactile Sensor](https://www.mdpi.com/1424-8220/22/17/6470), Ji et al., MDPI Sensors 2022
 
 - [TaTa: A Universal Jamming Gripper with High-Quality Tactile Perception and Its Application to Underwater Manipulation](https://ieeexplore.ieee.org/document/9811806), Li et al., ICRA 2022
+
+- [HaptiTemp: A Next-Generation Thermosensitive GelSight-Like Visuotactile Sensor](https://ieeexplore.ieee.org/abstract/document/9652522), Abad et al., IEEE Sensors 2022
 
 - [DenseTact: Optical Tactile Sensor for Dense Shape Reconstruction](https://ieeexplore.ieee.org/abstract/document/9811966), Do et al., ICRA 2022
 
