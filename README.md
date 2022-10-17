@@ -52,6 +52,8 @@ Keep updating! ! !
 
 - [Transfer learning for vision-based tactile sensing](https://ieeexplore.ieee.org/abstract/document/8967571), Sferrazza et al., IROS 2019
 
+- [Dense Tactile Force Estimation using GelSlim and inverse FEM](https://ieeexplore.ieee.org/abstract/document/8794113), Ma et al., ICRA 2019
+
 - [Soft-bubble: A highly compliant dense geometry tactile sensor for robot manipulation](https://ieeexplore.ieee.org/abstract/document/8722713), Alspach et al., RoboSoft 2019
 
 - [Soft-Bubble grippers for robust and perceptive manipulation](https://ieeexplore.ieee.org/abstract/document/9341534), Kuppuswamy et al., IROS 2020
@@ -60,7 +62,7 @@ Keep updating! ! !
 
 - [A Novel Dynamic-Vision-Based Approach for Tactile Sensing Applications](https://ieeexplore.ieee.org/abstract/document/8723387), Naeini et al., Trans. Instrum. Meas. 2020
 
-- [OmniTact: A Multi-Directional High-Resolution Touch Sensor](https://ieeexplore.ieee.org/abstract/document/9196712), v et al., ICRA 2020
+- [OmniTact: A Multi-Directional High-Resolution Touch Sensor](https://ieeexplore.ieee.org/abstract/document/9196712), Padmanabha1 et al., ICRA 2020
 
 - [DIGIT: A Novel Design for a Low-Cost Compact High-Resolution Tactile Sensor with Application to In-Hand Manipulation](https://ieeexplore.ieee.org/abstract/document/9018215), Lambeta et al., RAL 2020
 
@@ -176,7 +178,7 @@ Keep updating! ! !
 
 - [Manipulation by feel: Touch-based control with deep predictive models](https://ieeexplore.ieee.org/abstract/document/8793538), Tian et al., ICRA 2019
 
-- [MMaintaining Grasps within Slipping Bounds by Monitoring Incipient Slip](https://ieeexplore.ieee.org/abstract/document/8794219), Dong et al., ICRA 2019
+- [Maintaining Grasps within Slipping Bounds by Monitoring Incipient Slip](https://ieeexplore.ieee.org/abstract/document/8794219), Dong et al., ICRA 2019
 
 - [Self-Attention Based Visual-Tactile Fusion Learning for Predicting Grasp Outcomes](https://ieeexplore.ieee.org/abstract/document/9145654), Cui et al., RAL 2020
 
