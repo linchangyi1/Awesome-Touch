@@ -113,6 +113,8 @@ Owing to my personal interest, this collection may focus more on vision-based ta
 
 - [DenseTact 2.0: Optical Tactile Sensor for Shape and Force Reconstruction](https://arxiv.org/abs/2209.10122), Do et al., arxiv 2022
 
+- [Implementing Monocular Visual-Tactile Sensors for Robust Manipulation](https://spj.sciencemag.org/journals/cbsystems/2022/9797562/), Li et al., CBS 2022
+
 - [DTact: A Vision-Based Tactile Sensor that Measures High-Resolution 3D Geometry Directly from Darkness](https://arxiv.org/abs/2209.13916), Lin et al., arxiv 2022
 
 <!---
