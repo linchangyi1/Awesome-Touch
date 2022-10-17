@@ -25,6 +25,7 @@ Keep updating! ! !
 ## Sensors
 
 ### Vision-Based
+- [Planar and finger-shaped optical tactile sensors for robotic applications](https://ieeexplore.ieee.org/abstract/document/20431), Begej et al., IEEE Journal on Robotics and Automation 1988
 
 - [Retrographic sensing for the measurement of surface texture and shape](https://ieeexplore.ieee.org/abstract/document/5206534){:target="_blank"}, Johnson et al., CVPR 2009
 
