@@ -177,7 +177,7 @@ Keep updating! ! !
 
 - [Learning Human-environment Interactions using Conformal Tactile Textiles](https://www.nature.com/articles/s41928-021-00558-0), Luo et al., Nature Electronics 2021
 
-
+- [Design of a 3D-Printed Soft Robotic Hand With Integrated Distributed Tactile Sensing](https://ieeexplore.ieee.org/abstract/document/9706272), Shorthose et al., RAL 2022
 
 
 
@@ -268,6 +268,8 @@ Keep updating! ! !
 - [SLURP! Spectroscopy of Liquids Using Robot Pre-Touch Sensing](https://arxiv.org/abs/2210.04941), Hanson et al., arxiv 2022
 
 - [Neural Contact Fields: Tracking Extrinsic Contact with Tactile Sensing](http://arxiv.org/abs/2210.09297), Higuera et al., arxiv 2022
+
+- [Touching a NeRF: Leveraging Neural Radiance Fields for Tactile Sensory Data Generation](https://openreview.net/pdf?id=No3mbanRlZJ), Zhong et al., CoRL 2022
 
 ## Software
 
