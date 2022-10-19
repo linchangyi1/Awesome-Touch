@@ -161,6 +161,8 @@ Keep updating! ! !
 
 - [Learning the Signatures of the Human Grasp Using a Scalable Tactile Glove](https://www.nature.com/articles/s41586-019-1234-z), Sundaram et al., Nature 2019
 
+- [A Sensorized Multicurved Robot Finger With Data-Driven Touch Sensing via Overlapping Light Signals](https://ieeexplore.ieee.org/document/9006916), Piacenza et al., Transactions on Mechatronics 2020
+
 - [Skin-inspired quadruple tactile sensors integrated on a robot hand enable object recognition](https://www.science.org/doi/abs/10.1126/scirobotics.abc8134), Li et al., Science Robotics 2020
 
 - [Event-Driven Visual-Tactile Sensing and Learning for Robots](https://arxiv.org/abs/2009.07083), Taunyazov et al., arxiv 2020
