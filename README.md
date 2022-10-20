@@ -247,6 +247,8 @@ Keep updating! ! !
 
 
 ### Mapping/Localization
+- [3D Shape Perception from Monocular Vision, Touch, and Shape Priors](https://ieeexplore.ieee.org/abstract/document/8593430), Wang et al., IROS 2018
+
 - [From Pixels to Percepts: Highly Robust Edge Perception and Contour Following Using Deep Learning and an Optical Biomimetic Tactile Sensor](https://ieeexplore.ieee.org/abstract/document/8641397), Lepora et al., RAL 2019
 
 - [Convolutional Autoencoder for Feature Extraction in Tactile Sensing](https://ieeexplore.ieee.org/abstract/document/8758942), Polic et al., RAL 2019
