@@ -27,11 +27,11 @@ Keep updating! ! !
 ### Vision-Based
 - [Planar and finger-shaped optical tactile sensors for robotic applications](https://ieeexplore.ieee.org/abstract/document/20431), Begej et al., IEEE Journal on Robotics and Automation 1988
 
-- [Vision-based sensor for real-time measuring of surface traction fields](https://ieeexplore.ieee.org/abstract/document/1381228){:target="_blank"}, Kamiyama et al., CG&A 2005
+- [Vision-based sensor for real-time measuring of surface traction fields](https://ieeexplore.ieee.org/abstract/document/1381228), Kamiyama et al., CG&A 2005
 
-- [Measurement of force vector field of robotic finger using vision-based haptic sensor](https://ieeexplore.ieee.org/abstract/document/4650712){:target="_blank"}, Sato et al., IROS 2008
+- [Measurement of force vector field of robotic finger using vision-based haptic sensor](https://ieeexplore.ieee.org/abstract/document/4650712), Sato et al., IROS 2008
 
-- [Retrographic sensing for the measurement of surface texture and shape](https://ieeexplore.ieee.org/abstract/document/5206534){:target="_blank"}, Johnson et al., CVPR 2009
+- [Retrographic sensing for the measurement of surface texture and shape](https://ieeexplore.ieee.org/abstract/document/5206534), Johnson et al., CVPR 2009
 
 - [Finger-Shaped GelForce: Sensor for Measuring Surface Traction Fields for Robotic Hand](https://ieeexplore.ieee.org/abstract/document/5306070), Sato et al., TOH 2010
 
