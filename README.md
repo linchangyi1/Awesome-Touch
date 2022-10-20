@@ -247,6 +247,8 @@ Keep updating! ! !
 
 
 ### Mapping/Localization
+- [Tracking objects with point clouds from vision and touch](https://ieeexplore.ieee.org/abstract/document/7989460), Izatt et al., ICRA 2017
+
 - [3D Shape Perception from Monocular Vision, Touch, and Shape Priors](https://ieeexplore.ieee.org/abstract/document/8593430), Wang et al., IROS 2018
 
 - [From Pixels to Percepts: Highly Robust Edge Perception and Contour Following Using Deep Learning and an Optical Biomimetic Tactile Sensor](https://ieeexplore.ieee.org/abstract/document/8641397), Lepora et al., RAL 2019
