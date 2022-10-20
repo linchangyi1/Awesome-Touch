@@ -213,7 +213,11 @@ Keep updating! ! !
 
 - [Dynamic Modeling of Hand-Object Interactions via Tactile Sensing](https://ieeexplore.ieee.org/abstract/document/9636361), Zhang et al., IROS 2021
 
+- [SEED: Series Elastic End Effectors in 6D for Visuotactile Tool Use](https://arxiv.org/abs/2111.01376), Suh et al., arxiv 2021
+
 - [Meta-Residual Policy Learning: Zero-Trial Robot Skill Adaptation via Knowledge Fusion](https://ieeexplore.ieee.org/abstract/document/9697332), Hao et al., RAL 2022
+
+- [Active Visuo-Tactile Interactive Robotic Perception for Accurate Object Pose Estimation in Dense Clutter](https://ieeexplore.ieee.org/abstract/document/9709520), Murali et al., RAL 2022
 
 - [Autonomous Learning of Page Flipping Movements via Tactile Feedback](https://ieeexplore.ieee.org/abstract/document/9786532), Zheng et al., TRO 2022
 
@@ -224,6 +228,9 @@ Keep updating! ! !
 - [Visuo-Tactile Transformers for Manipulation](https://arxiv.org/abs/2210.00121), Chen et al., arxiv 2022
 
 - [Grasp Stability Prediction with Sim-to-Real Transfer from Tactile Sensing](https://arxiv.org/abs/2208.02885), Si et al., arxiv 2022
+
+- [Safely Learning Visuo-Tactile Feedback Policies in Real For Industrial Insertion](https://arxiv.org/abs/2210.01340), Fu et al., arxiv 2022
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
@@ -248,9 +255,14 @@ Keep updating! ! !
 
 - [Fast Model-Based Contact Patch and Pose Estimation for Highly Deformable Dense-Geometry Tactile Sensors](https://ieeexplore.ieee.org/document/8936859), Kuppuswamy et al., RAL 2020
 
+- [Deep Gated Multi-modal Learning: In-hand Object Pose Changes Estimation using Tactile and Image Data](https://ieeexplore.ieee.org/abstract/document/9341799), Anzai et al., IROS 2020
+
 - [Tactile SLAM: Real-time inference of shape and pose from planar pushing](https://ieeexplore.ieee.org/abstract/document/9562060), Suresh et al., ICRA 2021
 
 - [Tactile Object Pose Estimation from the First Touch with Geometric Contact Rendering](https://proceedings.mlr.press/v155/villalonga21a.html), Bauza et al., CoRL 2021
+
+- [Active Visuo-Tactile Point Cloud Registration for Accurate Pose Estimation of Objects in an Unknown Workspace
+](https://arxiv.org/abs/2108.04015), Murali et al., arxiv 2021
 
 - [Tac2Pose: Tactile Object Pose Estimation from the First Touch](https://arxiv.org/abs/2204.11701), Bauza et al., arxiv 2022
 
@@ -259,6 +271,13 @@ Keep updating! ! !
 - [Manipulation via Membranes: High-Resolution and Highly Deformable Tactile Sensing and Control](https://arxiv.org/abs/2209.13432), Oller et al., arxiv 2022
 
 - [Enhancing Generalizable 6D Pose Tracking of an In-Hand Object with Tactile Sensing](https://arxiv.org/abs/2210.04026), Xu et al., arxiv 2022
+
+- [Using Collocated Vision and Tactile Sensors for Visual Servoing and Localization](https://arxiv.org/abs/2204.11686), Chaudhury et al., arxiv 2022
+
+
+- [Simultaneous Contact Location and Object Pose Estimation Using Proprioception and Tactile Feedback
+](https://arxiv.org/abs/2206.01245), Sipos et al., arxiv 2022
+
 
 
 ### Others
