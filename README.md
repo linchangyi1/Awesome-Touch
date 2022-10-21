@@ -261,6 +261,8 @@ Keep updating! ! !
 
 - [Deep Gated Multi-modal Learning: In-hand Object Pose Changes Estimation using Tactile and Image Data](https://ieeexplore.ieee.org/abstract/document/9341799), Anzai et al., IROS 2020
 
+- [3D Shape Reconstruction from Vision and Touch](https://proceedings.neurips.cc/paper/2020/hash/a3842ed7b3d0fe3ac263bcabd2999790-Abstract.html), Smith et al., NeurIPS 2020
+
 - [Tactile SLAM: Real-time inference of shape and pose from planar pushing](https://ieeexplore.ieee.org/abstract/document/9562060), Suresh et al., ICRA 2021
 
 - [Tactile Object Pose Estimation from the First Touch with Geometric Contact Rendering](https://proceedings.mlr.press/v155/villalonga21a.html), Bauza et al., CoRL 2021
@@ -272,12 +274,13 @@ Keep updating! ! !
 
 - [ShapeMap 3-D: Efficient shape mapping through dense touch and vision](https://ieeexplore.ieee.org/abstract/document/9812040), Suresh et al., ICRA 2022
 
+- [PatchGraph: In-hand tactile tracking with learned surface normals](https://ieeexplore.ieee.org/abstract/document/9811953), Sodhi et al., ICRA 2022
+
 - [Manipulation via Membranes: High-Resolution and Highly Deformable Tactile Sensing and Control](https://arxiv.org/abs/2209.13432), Oller et al., arxiv 2022
 
 - [Enhancing Generalizable 6D Pose Tracking of an In-Hand Object with Tactile Sensing](https://arxiv.org/abs/2210.04026), Xu et al., arxiv 2022
 
 - [Using Collocated Vision and Tactile Sensors for Visual Servoing and Localization](https://arxiv.org/abs/2204.11686), Chaudhury et al., arxiv 2022
-
 
 - [Simultaneous Contact Location and Object Pose Estimation Using Proprioception and Tactile Feedback
 ](https://arxiv.org/abs/2206.01245), Sipos et al., arxiv 2022
