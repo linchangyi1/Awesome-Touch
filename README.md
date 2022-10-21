@@ -197,6 +197,8 @@ Keep updating! ! !
 
 - [Manipulation by feel: Touch-based control with deep predictive models](https://ieeexplore.ieee.org/abstract/document/8793538), Tian et al., ICRA 2019
 
+- [Building a Library of Tactile Skills Based on FingerVision](https://ieeexplore.ieee.org/abstract/document/9035000), Belousov et al., Humanoids 2019
+
 - [Self-Attention Based Visual-Tactile Fusion Learning for Predicting Grasp Outcomes](https://ieeexplore.ieee.org/abstract/document/9145654), Cui et al., RAL 2020
 
 - [Deep Reinforcement Learning for Tactile Robotics: Learning to Type on a Braille Keyboard](https://ieeexplore.ieee.org/abstract/document/9144378), Church et al., RAL 2020
