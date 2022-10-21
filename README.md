@@ -191,9 +191,11 @@ Keep updating! ! !
 ### Manipulation/Grasping
 - [Localization and manipulation of small parts using GelSight tactile sensing](https://ieeexplore.ieee.org/abstract/document/6943123), Li et al., IROS 2014
 
-- [Manipulation by feel: Touch-based control with deep predictive models](https://ieeexplore.ieee.org/abstract/document/8793538), Tian et al., ICRA 2019
+- [Tactile-Based Insertion for Dense Box-Packing](https://ieeexplore.ieee.org/abstract/document/8968204), Dong et al., IROS 2019
 
 - [Maintaining Grasps within Slipping Bounds by Monitoring Incipient Slip](https://ieeexplore.ieee.org/abstract/document/8794219), Dong et al., ICRA 2019
+
+- [Manipulation by feel: Touch-based control with deep predictive models](https://ieeexplore.ieee.org/abstract/document/8793538), Tian et al., ICRA 2019
 
 - [Self-Attention Based Visual-Tactile Fusion Learning for Predicting Grasp Outcomes](https://ieeexplore.ieee.org/abstract/document/9145654), Cui et al., RAL 2020
 
