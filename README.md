@@ -335,6 +335,8 @@ Keep updating! ! !
 
 - [Tactile Image Sensors Employing Camera: A Review](https://www.mdpi.com/1424-8220/19/18/3933), Shimonomura et al., MDPI Sensors 2019
 
+- [Tactile Sensors for Advanced Intelligent Systems](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.201900090), Wang et al., Advanced Intelligent Systems 2019
+
 - [On the Design and Development of Vision-based Tactile Sensors](https://link.springer.com/article/10.1007/s10846-021-01431-0), Shah et al., JINT 2021
 
 - [A survey of visuotactile sensing technologies for robotic manipulation](http://www.infocomm-journal.com/znkx/CN/10.11959/j.issn.2096-6652.202222), Cui et al., Chinese Journal of Intelligent Science and Technology 2022
