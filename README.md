@@ -227,6 +227,8 @@ Keep updating! ! !
 
 - [Where Shall I Touch? Vision-Guided Tactile Poking for Transparent Object Grasping](https://ieeexplore.ieee.org/abstract/document/9882387), Jiang et al., Transactions on Mechatronics 2022
 
+- [Efficient Tactile Simulation with Differentiability for Robotic Manipulation](https://openreview.net/forum?id=6BIffCl6gsM), Xu et al., CoRL 2022
+
 - [Tactile Pose Estimation and Policy Learning for Unknown Object Manipulation](https://arxiv.org/abs/2203.10685), Kelestemur et al., arxiv 2022
 
 - [Visuo-Tactile Transformers for Manipulation](https://arxiv.org/abs/2210.00121), Chen et al., arxiv 2022
@@ -235,6 +237,7 @@ Keep updating! ! !
 
 - [Safely Learning Visuo-Tactile Feedback Policies in Real For Industrial Insertion](https://arxiv.org/abs/2210.01340), Fu et al., arxiv 2022
 
+- [Learning Self-Supervised Representations from Vision and Touch for Active Sliding Perception of Deformable Surfaces](https://arxiv.org/abs/2209.13042), Kerr et al., arxiv 2022
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
@@ -279,6 +282,8 @@ Keep updating! ! !
 - [ShapeMap 3-D: Efficient shape mapping through dense touch and vision](https://ieeexplore.ieee.org/abstract/document/9812040), Suresh et al., ICRA 2022
 
 - [PatchGraph: In-hand tactile tracking with learned surface normals](https://ieeexplore.ieee.org/abstract/document/9811953), Sodhi et al., ICRA 2022
+
+- [MidasTouch: Monte-Carlo inference over distributions across sliding touch](https://openreview.net/forum?id=JWROnOf4w-K), Suresh et al., CoRL 2022
 
 - [Manipulation via Membranes: High-Resolution and Highly Deformable Tactile Sensing and Control](https://arxiv.org/abs/2209.13432), Oller et al., arxiv 2022
 
