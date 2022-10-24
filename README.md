@@ -276,6 +276,8 @@ Keep updating! ! !
 
 - [Tactile Object Pose Estimation from the First Touch with Geometric Contact Rendering](https://proceedings.mlr.press/v155/villalonga21a.html), Bauza et al., CoRL 2021
 
+- [Active 3D Shape Reconstruction from Vision and Touch](https://proceedings.neurips.cc/paper/2021/hash/8635b5fd6bc675033fb72e8a3ccc10a0-Abstract.html), Smith et al., NeurIPS 2021
+
 - [Active Visuo-Tactile Point Cloud Registration for Accurate Pose Estimation of Objects in an Unknown Workspace
 ](https://arxiv.org/abs/2108.04015), Murali et al., arxiv 2021
 
