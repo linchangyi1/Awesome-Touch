@@ -293,9 +293,9 @@ Keep updating! ! !
 
 - [Using Collocated Vision and Tactile Sensors for Visual Servoing and Localization](https://arxiv.org/abs/2204.11686), Chaudhury et al., arxiv 2022
 
-- [Simultaneous Contact Location and Object Pose Estimation Using Proprioception and Tactile Feedback
-](https://arxiv.org/abs/2206.01245), Sipos et al., arxiv 2022
+- [Simultaneous Contact Location and Object Pose Estimation Using Proprioception and Tactile Feedback](https://arxiv.org/abs/2206.01245), Sipos et al., arxiv 2022
 
+- [VisuoTactile 6D Pose Estimation of an In-Hand Object Using Vision and Tactile Sensor Data](https://ieeexplore.ieee.org/abstract/document/9682507), Dikhale et al., RAL 2022
 
 
 ### Others
