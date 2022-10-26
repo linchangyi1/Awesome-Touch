@@ -51,6 +51,8 @@ Keep updating! ! !
 
 - [GelSlim: A High-Resolution, Compact, Robust, and Calibrated Tactile-sensing Finger](https://ieeexplore.ieee.org/abstract/document/8593661), Donlon et al., IROS 2018
 
+- [Sensing the Frictional State of a Robotic Skin via Subtractive Color Mixing](https://ieeexplore.ieee.org/abstract/document/8613793), Lin et al., RAL 2019
+
 - [Development of a Vision-Based Soft Tactile Muscularis](https://ieeexplore.ieee.org/abstract/document/8722814), Duong et al., RoboSoft 2019
 
 - [Design, Motivation and Evaluation of a Full-Resolution Optical Tactile Sensor](https://www.mdpi.com/1424-8220/19/4/928), Sferrazza et al., MDPI Sensors 2019
