@@ -181,6 +181,8 @@ Keep updating! ! !
 
 - [Design of a 3D-Printed Soft Robotic Hand With Integrated Distributed Tactile Sensing](https://ieeexplore.ieee.org/abstract/document/9706272), Shorthose et al., RAL 2022
 
+- [A Biomimetic Tactile Palm for Robotic Object Manipulation](https://ieeexplore.ieee.org/document/9869694), Lei et al., RAL 2022
+
 
 
 ## Applications
