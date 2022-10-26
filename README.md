@@ -135,6 +135,8 @@ Keep updating! ! !
 
 - [DTact: A Vision-Based Tactile Sensor that Measures High-Resolution 3D Geometry Directly from Darkness](https://arxiv.org/abs/2209.13916), Lin et al., arxiv 2022
 
+- [Design of a Biomimetic Tactile Sensor for Material Classification](https://ieeexplore.ieee.org/document/9811543), Dai et al., ICRA 2022
+
 <!---
 - [](), xxx et al., yyy 20
 -->
