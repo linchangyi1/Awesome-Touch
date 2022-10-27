@@ -187,6 +187,8 @@ Keep updating! ! !
 
 - [A Biomimetic Tactile Palm for Robotic Object Manipulation](https://ieeexplore.ieee.org/document/9869694), Lei et al., RAL 2022
 
+- [Contact Shape and Pose Recognition: Utilizing a Multipole Magnetic Tactile Sensor with a Metalearning Model](https://ieeexplore.ieee.org/document/9869758), Xia et al., MRA 2022
+
 
 
 ## Applications
