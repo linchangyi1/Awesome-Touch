@@ -338,6 +338,9 @@ Keep updating! ! !
 
 - [Bidirectional Sim-to-Real Transfer for GelSight Tactile Sensors With CycleGAN](https://ieeexplore.ieee.org/abstract/document/9756938), Chen et al., RAL 2022
 
+- [Learning the Dynamics of Compliant Tool-Environment Interaction for Visuo-Tactile Contact Servoing](https://arxiv.org/abs/2210.03836), Merwe et al., arxiv 2022
+
+
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
 
