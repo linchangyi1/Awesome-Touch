@@ -137,6 +137,9 @@ Keep updating! ! !
 
 - [Design of a Biomimetic Tactile Sensor for Material Classification](https://ieeexplore.ieee.org/document/9811543), Dai et al., ICRA 2022
 
+- [GelSight Fin Ray: Incorporating Tactile Sensing into a Soft Compliant Robotic Gripper](https://ieeexplore.ieee.org/document/9762175), Liu et al., RoboSoft 2022
+
+
 <!---
 - [](), xxx et al., yyy 20
 -->
