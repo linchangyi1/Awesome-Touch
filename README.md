@@ -139,6 +139,7 @@ Keep updating! ! !
 
 - [GelSight Fin Ray: Incorporating Tactile Sensing into a Soft Compliant Robotic Gripper](https://ieeexplore.ieee.org/document/9762175), Liu et al., RoboSoft 2022
 
+- [Soft Robotic Link with Controllable Transparency for Vision-based Tactile and Proximity Sensing](https://arxiv.org/abs/2211.03253), Luu et al., arxiv 2022
 
 <!---
 - [](), xxx et al., yyy 20
