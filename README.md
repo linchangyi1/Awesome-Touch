@@ -141,6 +141,8 @@ Keep updating! ! !
 
 - [Soft Robotic Link with Controllable Transparency for Vision-based Tactile and Proximity Sensing](https://arxiv.org/abs/2211.03253), Luu et al., arxiv 2022
 
+- [HiVTac: A High-Speed Vision-Based Tactile Sensor for Precise and Real-Time Force Reconstruction with Fewer Markers](https://www.mdpi.com/1424-8220/22/11/4196/htm), Quan et al., MDPI Sensors 2022
+
 <!---
 - [](), xxx et al., yyy 20
 -->
