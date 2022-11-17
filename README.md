@@ -19,7 +19,7 @@ Keep updating! ! !
   - [Library](#library)
 - [Review](#review)
 - [Products](#products)
-- [Open Source](#Open source)
+- [Open Source](#open-source)
 
 
 
@@ -377,7 +377,7 @@ Keep updating! ! !
 - [DIGIT](https://www.gelsight.com/product/digit-tactile-sensor/)
 - [GelSight Mini](https://www.gelsight.com/product/gelsight-mini-system/)
 
-## Open Source
+## Open-Source
 ### Sensor
 - [FingerVision](https://github.com/akihikoy/fingervision)
 - [GelSlim](https://github.com/mcubelab/gelslim)
