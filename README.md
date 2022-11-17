@@ -19,6 +19,7 @@ Keep updating! ! !
   - [Library](#library)
 - [Review](#review)
 - [Products](#products)
+- [Open Source](#Opensource)
 
 
 
@@ -375,6 +376,62 @@ Keep updating! ! !
 ## Products
 - [DIGIT](https://www.gelsight.com/product/digit-tactile-sensor/)
 - [GelSight Mini](https://www.gelsight.com/product/gelsight-mini-system/)
+
+## Open Source
+### Sensor
+- [FingerVision](https://github.com/akihikoy/fingervision)
+- [GelSlim](https://github.com/mcubelab/gelslim)
+- [DTact](https://github.com/linchangyi1/DTact)
+- [DIGIT](https://github.com/facebookresearch/digit-design)
+- [OmniTact](https://github.com/s-tian/bench-press)
+- [GelSight_1](https://github.com/FrozenPenguinn/GelSight_Sensor)
+- [GelSight_2](https://github.com/leo9344/Implementation-of-GelSight)
+- [GelSight_3](https://github.com/geiman-uw/fingergelsight)
+- [DigiTac](https://github.com/nlepora/digitac-design)
+- [TouchRoller](https://github.com/3PTelephant/TouchRoller)
+- [ReSkin](https://github.com/raunaqbhirangi/reskin_sensor)
+- [Insight](https://github.com/Huanbo-Sun/Haptics-for-Robots-Insight)
+
+### Sensor Support
+- [DIGIT_Depth](https://github.com/vocdex/digit-depth)
+- [DIGIT_Interface](https://github.com/facebookresearch/digit-interface)
+- [GelSight-mini_SDK](https://github.com/gelsightinc/gsrobotics)
+- [GelSight_Driver](https://github.com/gizatt/gelsight_driver)
+- [GelSight_ROS](https://github.com/hmccarty/gelsight-ros)
+- [GelSight_Conversion](https://github.com/gelsightinc/tactiledemo)
+- [GelSight_Simulation](https://github.com/danfergo/gelsight_simulation)
+- [GelSight_Heightmap](https://github.com/siyuandong16/gelsight_heightmap_reconstruction)
+- [GelSight_Tracking_1](https://github.com/GelSight/tracking)
+- [GelSight_Tracking_2](https://github.com/personalrobotics/gelslight_tracking)
+- [GelSight_Neural_Tracking](https://github.com/wx405557858/neural_tracking_data)
+- [GelSlim_Heightmap](https://github.com/siyuandong16/Heightmap_reconstruction_with_GelSlim)
+
+### Simulator/Library
+- [TACTO](https://github.com/facebookresearch/tacto)
+- [Taxim](https://github.com/CMURoboTouch/Taxim)
+- [DIGIT-Gazebo](https://github.com/hsp-iit/gazebo-yarp-digit-plugin)
+- [PyTouch](https://github.com/facebookresearch/PyTouch)
+- [PyTact](https://github.com/hmccarty/pytact)
+
+### Dataset
+- [Visual-Tactile_Dataset](https://github.com/tsinghua-rll/Visual-Tactile_Dataset)
+- [YCB-Sight](https://github.com/CMURoboTouch/YCB-Sight)
+- [DenseTact](https://github.com/armlabstanford/DenseTact)
+
+### Algorithms
+- [Tactile SLAM](https://github.com/suddhu/gpis-touch-public)
+- [pybullet-shape-contact](https://github.com/suddhu/pybullet-shape-contact)
+- [PatchGraph](https://github.com/psodhi/tactile-in-hand)
+- [TANDEM](https://github.com/jingxixu/tandem-public)
+- [Neural Contact Fields (NCF)](https://github.com/carolinahiguera/NCF)
+- [Active Extrinsic Contact Sensing](https://github.com/sangwkim/active_extrinsic_contact)
+
+
+
+
+
+
+
 
 
 
