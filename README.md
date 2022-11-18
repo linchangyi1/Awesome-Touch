@@ -381,10 +381,10 @@ Keep updating! ! !
 
 ## Open-Source
 ### Sensor
-- [FingerVision](https://github.com/akihikoy/fingervision)
-- [GelSlim](https://github.com/mcubelab/gelslim)
 - [DTact](https://github.com/linchangyi1/DTact)
+- [GelSlim](https://github.com/mcubelab/gelslim)
 - [DIGIT](https://github.com/facebookresearch/digit-design)
+- [FingerVision](https://github.com/akihikoy/fingervision)
 - [OmniTact](https://github.com/s-tian/bench-press)
 - [GelSight_1](https://github.com/FrozenPenguinn/GelSight_Sensor)
 - [GelSight_2](https://github.com/leo9344/Implementation-of-GelSight)
