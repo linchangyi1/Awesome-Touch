@@ -86,6 +86,8 @@ Keep updating! ! !
 
 - [Design of a Fully Actuated Robotic Hand With Multiple Gelsight Tactile Sensors](https://arxiv.org/abs/2002.02474), Wilson et al., arxiv 2020
 
+- [A Miniaturised Neuromorphic Tactile Sensor integrated with an Anthropomorphic Robot Hand](https://ieeexplore.ieee.org/document/9341391), Ward-Cherrier et al., IROS 2020
+
 - [TouchRoller: A Rolling Optical Tactile Sensor for Rapid Assessment of Large Surfaces](https://arxiv.org/abs/2103.00595), Cao et al., arxiv 2021
 
 - [Variable compliance and geometry regulation of Soft-Bubble grippers with active pressure control](https://ieeexplore.ieee.org/abstract/document/9479228), Joonhigh et al., RoboSoft 2021
