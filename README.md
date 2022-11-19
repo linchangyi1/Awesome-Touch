@@ -146,6 +146,10 @@ Keep updating! ! !
 
 - [HiVTac: A High-Speed Vision-Based Tactile Sensor for Precise and Real-Time Force Reconstruction with Fewer Markers](https://www.mdpi.com/1424-8220/22/11/4196/htm), Quan et al., MDPI Sensors 2022
 
+- [Multidimensional Tactile Sensor with a Thin Compound Eye-Inspired Imaging System](https://www.liebertpub.com/doi/full/10.1089/soro.2020.0202), Zhang et al., Soft Robotics 2022
+
+- [3D Contact Point Cloud Reconstruction From Vision-Based Tactile Flow](https://ieeexplore.ieee.org/document/9919353), Du et al., RAL 2022
+
 <!---
 - [](), xxx et al., yyy 20
 -->
