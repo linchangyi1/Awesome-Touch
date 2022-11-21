@@ -173,9 +173,11 @@ Keep updating! ! !
 
 - [Flexible Capacitive Tactile Sensor Array With Truncated Pyramids as Dielectric Layer for Three-Axis Force Measurement](https://ieeexplore.ieee.org/abstract/document/7084588), Liang et al., JMEMS 2015
 
-- [Touch Sensors with Overlapping Signals: Concept Investigation on Planar Sensors with Resistive or Optical Transduction](https://arxiv.org/abs/1802.08209), Piacenza et al., arxiv 2018
-
 - [A hierarchically patterned, bioinspired e-skin able to detect the direction of applied pressure for robotics](https://www.science.org/doi/abs/10.1126/scirobotics.aau6914), Boutry et al., Science Robotics 2018
+
+- [Data-Driven Super-Resolution on a Tactile Dome](https://ieeexplore.ieee.org/abstract/document/8276589), xxx et al., RAL 2018
+
+- [Touch Sensors with Overlapping Signals: Concept Investigation on Planar Sensors with Resistive or Optical Transduction](https://arxiv.org/abs/1802.08209), Piacenza et al., arxiv 2018
 
 - [Learning the Signatures of the Human Grasp Using a Scalable Tactile Glove](https://www.nature.com/articles/s41586-019-1234-z), Sundaram et al., Nature 2019
 
