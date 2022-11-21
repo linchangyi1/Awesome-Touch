@@ -18,6 +18,7 @@ Keep updating! ! !
   - [Simulator](#simulator)
   - [Library](#library)
 - [Review](#review)
+- [Thesis](#thesis)
 - [Products](#products)
 - [Open Source](#open-source)
 
@@ -378,6 +379,11 @@ Keep updating! ! !
 - [A survey of visuotactile sensing technologies for robotic manipulation](http://www.infocomm-journal.com/znkx/CN/10.11959/j.issn.2096-6652.202222), Cui et al., Chinese Journal of Intelligent Science and Technology 2022
 
 - [Hardware Technology of Vision-Based Tactile Sensor: A Review](https://ieeexplore.ieee.org/abstract/document/9911183), Zhang et al., IEEE Sensors 2022
+
+## Thesis
+- [Data-driven Tactile Sensing using Spatially Overlapping Signals](https://www.proquest.com/openview/2fe76b59ca5836dc691847d611775430/1?pq-origsite=gscholar&cbl=18750&diss=y), Pedro Piacenza, 2020
+
+
 
 ## Products
 - [DIGIT](https://www.gelsight.com/product/digit-tactile-sensor/)
