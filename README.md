@@ -13,7 +13,7 @@ Keep updating! ! !
   - [Manipulation/Grasping](#manipulationgrasping)
   - [Classification/Recognition](#classificationrecognition)
   - [Mapping/Localization](#mappinglocalization)
-  - [Extrinsic Contact Sensing](#extrinsiccontactsensing)
+  - [Extrinsic Contact Sensing](#extrinsic contact sensing)
   - [Others](#others)
 - [Software](#software)
   - [Simulator](#simulator)
