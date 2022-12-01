@@ -458,6 +458,7 @@ Keep updating! ! !
 - [DenseTact](https://github.com/armlabstanford/DenseTact)
 
 ### Algorithms
+- [ShapeMap 3-D](https://github.com/rpl-cmu/shape-map-3D)
 - [Tactile SLAM](https://github.com/suddhu/gpis-touch-public)
 - [pybullet-shape-contact](https://github.com/suddhu/pybullet-shape-contact)
 - [PatchGraph](https://github.com/psodhi/tactile-in-hand)
