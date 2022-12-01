@@ -13,6 +13,7 @@ Keep updating! ! !
   - [Manipulation/Grasping](#manipulationgrasping)
   - [Classification/Recognition](#classificationrecognition)
   - [Mapping/Localization](#mappinglocalization)
+  - [Extrinsic Contact Sensing](#extrinsiccontactsensing)
   - [Others](#others)
 - [Software](#software)
   - [Simulator](#simulator)
@@ -283,6 +284,8 @@ Keep updating! ! !
 
 - [Active clothing material perception using tactile sensing and deep learning](https://ieeexplore.ieee.org/abstract/document/8461164), Yuan et al., ICRA 2018
 
+- [Understanding Dynamic Tactile Sensing for Liquid Property Estimation](https://arxiv.org/abs/2205.08771), Huang et al., arxiv 2022
+
 
 ### Mapping/Localization
 - [Tracking objects with point clouds from vision and touch](https://ieeexplore.ieee.org/abstract/document/7989460), Izatt et al., ICRA 2017
@@ -326,21 +329,20 @@ Keep updating! ! !
 
 - [VisuoTactile 6D Pose Estimation of an In-Hand Object Using Vision and Tactile Sensor Data](https://ieeexplore.ieee.org/abstract/document/9682507), Dikhale et al., RAL 2022
 
+### Extrinsic Contact Sensing
+- [Extrinsic Contact Sensing with Relative-Motion Tracking from Distributed Tactile Measurements](https://ieeexplore.ieee.org/abstract/document/9561781), Ma et al., ICRA 2021
+
+- [Neural Contact Fields: Tracking Extrinsic Contact with Tactile Sensing](http://arxiv.org/abs/2210.09297), Higuera et al., arxiv 2022
+
 
 ### Others
 - [Exploiting Distributed Tactile Sensors to Drive a Robot Arm Through Obstacles](https://ieeexplore.ieee.org/abstract/document/9384158), Albini et al., RAL 2021
 
 - [Extended Tactile Perception: Vibration Sensing through Tools and Grasped Objects](https://ieeexplore.ieee.org/abstract/document/9636677), Taunyazov et al., IROS 2021
 
-- [Extrinsic Contact Sensing with Relative-Motion Tracking from Distributed Tactile Measurements](https://ieeexplore.ieee.org/abstract/document/9561781), Ma et al., ICRA 2021
-
 - [MidasTouch: Monte-Carlo inference over distributions across sliding touch](https://openreview.net/forum?id=JWROnOf4w-K), Suresh et al., CoRL 2022
 
-- [Understanding Dynamic Tactile Sensing for Liquid Property Estimation](https://arxiv.org/abs/2205.08771), Huang et al., arxiv 2022
-
 - [SLURP! Spectroscopy of Liquids Using Robot Pre-Touch Sensing](https://arxiv.org/abs/2210.04941), Hanson et al., arxiv 2022
-
-- [Neural Contact Fields: Tracking Extrinsic Contact with Tactile Sensing](http://arxiv.org/abs/2210.09297), Higuera et al., arxiv 2022
 
 - [Touching a NeRF: Leveraging Neural Radiance Fields for Tactile Sensory Data Generation](https://openreview.net/pdf?id=No3mbanRlZJ), Zhong et al., CoRL 2022
 
