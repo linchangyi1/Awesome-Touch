@@ -348,6 +348,8 @@ Keep updating! ! !
 
 - [Going In Blind: Object Motion Classification using Distributed Tactile Sensing for Safe Reaching in Clutter](https://arxiv.org/abs/2210.00137), Thomasson et al., arxiv 2022
 
+- [Touch and Go: Learning from Human-Collected Vision and Touch](https://openreview.net/forum?id=ZZ3FeSSPPblo), Yang et al., NeurIPS 2022
+
 ## Software
 
 ### Simulator
@@ -369,8 +371,6 @@ Keep updating! ! !
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
 
-### Dataset
-- [Touch and Go: Learning from Human-Collected Vision and Touch](https://arxiv.org/abs/2211.12498), Yang et al., NeurIPS 2022
 
 
 ## Review
@@ -393,7 +393,6 @@ Keep updating! ! !
 - [Vision-based proprioception of a soft robotic finger with tactile sensing](http://dspace.mit.edu/handle/1721.1/127131), Sandra Q. Liu, Master, 2020
 - [Discovering the patterns of human-environment interactions using scalable functional textiles](http://dspace.mit.edu/handle/1721.1/128628), Yiyue Luo, Master, 2020
 - [Deformable Object Manipulation with a Tactile Reactive Gripper](http://dspace.mit.edu/handle/1721.1/139946), Neha Sunil, Master, 2021
-- [](), xxx, Master, 20
 
 
 - [Touching is believing : sensing and analyzing touch information with GelSight](http://dspace.mit.edu/handle/1721.1/99834), Rui Li, Ph.D., 2015
@@ -401,12 +400,6 @@ Keep updating! ! !
 - [Reactive manipulation with contact models and tactile feedback](http://dspace.mit.edu/handle/1721.1/125476), Francois R. Hogan, Ph.D., 2020
 - [Data-driven Tactile Sensing using Spatially Overlapping Signals](https://www.proquest.com/openview/2fe76b59ca5836dc691847d611775430/1?pq-origsite=gscholar&cbl=18750&diss=y), Pedro Piacenza, Ph.D., 2020
 - [High-resolution Tactile Sensing for Reactive Robotic Manipulation](http://dspace.mit.edu/handle/1721.1/130764), Siyuan Dong, Ph.D., 2021
-
-
-- [](), xxx, Ph.D., 20
-- [](), xxx, Ph.D., 20
-- [](), xxx, Ph.D., 20
-- [](), xxx, Ph.D., 20
 
 
 
@@ -456,6 +449,7 @@ Keep updating! ! !
 - [Visual-Tactile_Dataset](https://github.com/tsinghua-rll/Visual-Tactile_Dataset)
 - [YCB-Sight](https://github.com/CMURoboTouch/YCB-Sight)
 - [DenseTact](https://github.com/armlabstanford/DenseTact)
+- [Touch and Go](https://github.com/fredfyyang/Tactile-Driven-Image-Stylization/)
 
 ### Algorithms
 - [ShapeMap 3-D](https://github.com/rpl-cmu/shape-map-3D)
