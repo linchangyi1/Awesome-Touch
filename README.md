@@ -17,6 +17,7 @@ Keep updating! ! !
 - [Software](#software)
   - [Simulator](#simulator)
   - [Library](#library)
+  - [Dataset](#dataset)
 - [Review](#review)
 - [Thesis](#thesis)
 - [Products](#products)
@@ -367,6 +368,9 @@ Keep updating! ! !
 
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
+
+### Dataset
+- [Touch and Go: Learning from Human-Collected Vision and Touch](https://arxiv.org/abs/2211.12498), Yang et al., NeurIPS 2022
 
 
 ## Review
