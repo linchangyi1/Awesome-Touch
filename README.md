@@ -441,6 +441,7 @@ Keep updating! ! !
 - [GelSlim_Heightmap](https://github.com/siyuandong16/Heightmap_reconstruction_with_GelSlim)
 
 ### Simulator/Library
+- [Tactile Optical Simulation](https://github.com/CMURoboTouch/tactile_optical_simulation)
 - [TACTO](https://github.com/facebookresearch/tacto)
 - [Taxim](https://github.com/CMURoboTouch/Taxim)
 - [DIGIT-Gazebo](https://github.com/hsp-iit/gazebo-yarp-digit-plugin)
