@@ -369,6 +369,8 @@ Keep updating! ! !
 
 - [Learning the Dynamics of Compliant Tool-Environment Interaction for Visuo-Tactile Contact Servoing](https://arxiv.org/abs/2210.03836), Merwe et al., arxiv 2022
 
+- [Efficient Tactile Simulation with Differentiability for Robotic Manipulation](https://openreview.net/forum?id=6BIffCl6gsM), Xu et al., CoRL 2022
+
 
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
