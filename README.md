@@ -410,6 +410,7 @@ Keep updating! ! !
 - [DIGIT](https://www.gelsight.com/product/digit-tactile-sensor/)
 - [GelSight Mini](https://www.gelsight.com/product/gelsight-mini-system/)
 - [FingerVision](https://www.fingervision.jp/en/service-product)
+- [uSkin](https://xelarobotics.com/en/uskin-sensor)
 
 ## Open-Source
 ### Sensor
