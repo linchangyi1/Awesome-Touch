@@ -273,6 +273,8 @@ Keep updating! ! !
 
 - [Task-Driven In-Hand Manipulation of Unknown Objects with Tactile Sensing](https://arxiv.org/abs/2210.13403), Pan et al., arxiv 2022
 
+- [Visual-tactile Fusion for Transparent Object Grasping in Complex Backgrounds](https://arxiv.org/abs/2211.16693), Li et al., arxiv 2022
+
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
