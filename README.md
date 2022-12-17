@@ -153,6 +153,8 @@ Keep updating! ! !
 
 - [3D Contact Point Cloud Reconstruction From Vision-Based Tactile Flow](https://ieeexplore.ieee.org/document/9919353), Du et al., RAL 2022
 
+- [TacRot: A Parallel-Jaw Gripper with Rotatable Tactile Sensors for In-Hand Manipulation](https://ieeexplore.ieee.org/abstract/document/9945388), Zhang et al., SMC 2022
+
 <!---
 - [](), xxx et al., yyy 20
 -->
