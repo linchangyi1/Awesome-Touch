@@ -115,6 +115,8 @@ Keep updating! ! !
 
 - [Vision-Based Tactile Sensor Mechanism for the Estimation of Contact Position and Force Distribution Using Deep Learning](https://www.mdpi.com/1424-8220/21/5/1920/htm), Kakani et al., MDPI Sensors 2021
 
+- [Large-Scale Vision-Based Tactile Sensing for Robot Links: Design, Modeling, and Evaluation](https://ieeexplore.ieee.org/document/9247533), Duong et al., TRO 2021
+
 - [GelSlim 3.0: High-Resolution Measurement of Shape, Force and Slip in a Compact Tactile-Sensing Finger](https://ieeexplore.ieee.org/abstract/document/9811832), Taylor et al., ICRA 2022
 
 - [In-Hand Object Localization Using a Novel High-Resolution Visuotactile Sensor](https://ieeexplore.ieee.org/abstract/document/9464700), Cui et al., Trans. Ind. Electron. 2022
