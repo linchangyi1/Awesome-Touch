@@ -461,6 +461,7 @@ Keep updating! ! !
 - [GelSight_Simulation](https://github.com/danfergo/gelsight_simulation)
 - [TACTO](https://github.com/facebookresearch/tacto)
 - [Taxim](https://github.com/CMURoboTouch/Taxim)
+- [GelSight-Sim2Real](https://github.com/RVSATHU/GelSight-Sim2Real)
 - [DIGIT-Gazebo](https://github.com/hsp-iit/gazebo-yarp-digit-plugin)
 - [PyTouch](https://github.com/facebookresearch/PyTouch)
 - [PyTact](https://github.com/hmccarty/pytact)
