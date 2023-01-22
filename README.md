@@ -157,8 +157,15 @@ Keep updating! ! !
 
 - [TacRot: A Parallel-Jaw Gripper with Rotatable Tactile Sensors for In-Hand Manipulation](https://ieeexplore.ieee.org/abstract/document/9945388), Zhang et al., SMC 2022
 
+- [Improving the Force Reconstruction Performance of Vision-Based Tactile Sensors by Optimizing the Elastic Body](https://ieeexplore.ieee.org/abstract/document/10012440), Zhang et al., RAL 2023
+
+- [DotView: A Low-Cost Compact Tactile Sensor for Pressure, Shear, and Torsion Estimation](https://ieeexplore.ieee.org/abstract/document/10005792), Zheng et al., RAL 2023
+
+- [A Novel Vision-Based Tactile Sensor Using Lamination and Gilding Process for Improvement of Outdoor Detection and Maintainability](https://ieeexplore.ieee.org/abstract/document/10006734), Zhang et al., IEEE SENSORS 2023
+
+
 <!---
-- [](), xxx et al., yyy 20
+- [](), xxx et al., yyy 2023
 -->
 
 
@@ -215,7 +222,7 @@ Keep updating! ! !
 
 ## Applications
 <!---
-- [](), xxx et al., yyy 2022
+- [](), xxx et al., yyy 2023
 -->
 
 ### Manipulation/Grasping
@@ -382,6 +389,8 @@ Keep updating! ! !
 - [Learning the Dynamics of Compliant Tool-Environment Interaction for Visuo-Tactile Contact Servoing](https://arxiv.org/abs/2210.03836), Merwe et al., arxiv 2022
 
 - [Efficient Tactile Simulation with Differentiability for Robotic Manipulation](https://openreview.net/forum?id=6BIffCl6gsM), Xu et al., CoRL 2022
+
+- [Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors](https://ieeexplore.ieee.org/abstract/document/10017344), Chen et al., RAL 2023
 
 
 ### Library
