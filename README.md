@@ -157,12 +157,13 @@ Keep updating! ! !
 
 - [TacRot: A Parallel-Jaw Gripper with Rotatable Tactile Sensors for In-Hand Manipulation](https://ieeexplore.ieee.org/abstract/document/9945388), Zhang et al., SMC 2022
 
+- [Real-Time Marker Localization Learning for GelStereo Tactile Sensing](https://ieeexplore.ieee.org/abstract/document/10011997), Liu et al., ROBIO 2022
+
 - [Improving the Force Reconstruction Performance of Vision-Based Tactile Sensors by Optimizing the Elastic Body](https://ieeexplore.ieee.org/abstract/document/10012440), Zhang et al., RAL 2023
 
 - [DotView: A Low-Cost Compact Tactile Sensor for Pressure, Shear, and Torsion Estimation](https://ieeexplore.ieee.org/abstract/document/10005792), Zheng et al., RAL 2023
 
 - [A Novel Vision-Based Tactile Sensor Using Lamination and Gilding Process for Improvement of Outdoor Detection and Maintainability](https://ieeexplore.ieee.org/abstract/document/10006734), Zhang et al., IEEE SENSORS 2023
-
 
 <!---
 - [](), xxx et al., yyy 2023
