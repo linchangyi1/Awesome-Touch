@@ -73,6 +73,8 @@ Keep updating! ! !
 
 - [A Novel Dynamic-Vision-Based Approach for Tactile Sensing Applications](https://ieeexplore.ieee.org/abstract/document/8723387), Naeini et al., Trans. Instrum. Meas. 2020
 
+- [Low-Cost Fiducial-based 6-Axis Force-Torque Sensor](https://ieeexplore.ieee.org/abstract/document/9196925), Ouyang et al., ICRA 2020
+
 - [OmniTact: A Multi-Directional High-Resolution Touch Sensor](https://ieeexplore.ieee.org/abstract/document/9196712), Padmanabha1 et al., ICRA 2020
 
 - [DIGIT: A Novel Design for a Low-Cost Compact High-Resolution Tactile Sensor with Application to In-Hand Manipulation](https://ieeexplore.ieee.org/abstract/document/9018215), Lambeta et al., RAL 2020
