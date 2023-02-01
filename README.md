@@ -402,6 +402,8 @@ Keep updating! ! !
 ## Review
 - [Artificial Sense of Slip—A Review](https://ieeexplore.ieee.org/document/6479676), Francomano et al., IEEE Sensors 2013
 
+- [Tactile sensing in dexterous robot hands — Review](https://www.sciencedirect.com/science/article/pii/S0921889015001621), Kappassov et al., Robotics and Autonomous Systems 2015
+
 - [Tactile Image Sensors Employing Camera: A Review](https://www.mdpi.com/1424-8220/19/18/3933), Shimonomura et al., MDPI Sensors 2019
 
 - [Tactile Sensors for Advanced Intelligent Systems](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.201900090), Wang et al., Advanced Intelligent Systems 2019
