@@ -454,6 +454,7 @@ Keep updating! ! !
 - [GelSight_1](https://github.com/FrozenPenguinn/GelSight_Sensor)
 - [GelSight_2](https://github.com/leo9344/Implementation-of-GelSight)
 - [GelSight_3](https://github.com/geiman-uw/fingergelsight)
+- [FingerGelSight](https://github.com/geiman-uw/fingergelsight)
 - [DigiTac](https://github.com/nlepora/digitac-design)
 - [TouchRoller](https://github.com/3PTelephant/TouchRoller)
 - [ReSkin](https://github.com/raunaqbhirangi/reskin_sensor)
