@@ -479,6 +479,7 @@ Keep updating! ! !
 - [DIGIT-Gazebo](https://github.com/hsp-iit/gazebo-yarp-digit-plugin)
 - [PyTouch](https://github.com/facebookresearch/PyTouch)
 - [PyTact](https://github.com/hmccarty/pytact)
+- [Tacchi](https://github.com/zixichen007115/Tacchi)
 
 ### Dataset
 - [Visual-Tactile_Dataset](https://github.com/tsinghua-rll/Visual-Tactile_Dataset)
