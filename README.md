@@ -289,6 +289,9 @@ Keep updating! ! !
 
 - [Visual-tactile Fusion for Transparent Object Grasping in Complex Backgrounds](https://arxiv.org/abs/2211.16693), Li et al., arxiv 2022
 
+- [Skill generalization of tubular object manipulation with tactile sensing and Sim2Real learning](https://www.sciencedirect.com/science/article/pii/S092188902200210X), Zhao et al., Robotics and Autonomous Systems 2023
+
+
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
