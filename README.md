@@ -167,6 +167,9 @@ Keep updating! ! !
 
 - [A Novel Vision-Based Tactile Sensor Using Lamination and Gilding Process for Improvement of Outdoor Detection and Maintainability](https://ieeexplore.ieee.org/abstract/document/10006734), Zhang et al., IEEE SENSORS 2023
 
+- [GelStereo Palm: a Novel Curved Visuotactile Sensor for 3D Geometry Sensing](https://ieeexplore.ieee.org/abstract/document/10035880), Hu et al., TII 2023
+
+
 <!---
 - [](), xxx et al., yyy 2023
 -->
