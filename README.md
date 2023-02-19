@@ -481,6 +481,7 @@ Keep updating! ! !
 - [GelSight_Tracking_2](https://github.com/personalrobotics/gelslight_tracking)
 - [GelSight_Neural_Tracking](https://github.com/wx405557858/neural_tracking_data)
 - [GelSlim_Heightmap](https://github.com/siyuandong16/Heightmap_reconstruction_with_GelSlim)
+- [Gelsight_Controller](https://github.com/Photon26/Gelsight_controller)
 
 ### Simulator/Library
 - [Tactile Optical Simulation](https://github.com/CMURoboTouch/tactile_optical_simulation)
