@@ -357,6 +357,9 @@ Keep updating! ! !
 
 - [VisuoTactile 6D Pose Estimation of an In-Hand Object Using Vision and Tactile Sensor Data](https://ieeexplore.ieee.org/abstract/document/9682507), Dikhale et al., RAL 2022
 
+- [In-Hand Pose Estimation Using Hand-Mounted RGB Cameras and Visuotactile Sensors](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10043666), Gao et al., IEEE 2023
+
+
 ### Extrinsic Contact Sensing
 - [Extrinsic Contact Sensing with Relative-Motion Tracking from Distributed Tactile Measurements](https://ieeexplore.ieee.org/abstract/document/9561781), Ma et al., ICRA 2021
 
