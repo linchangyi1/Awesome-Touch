@@ -139,11 +139,7 @@ Keep updating! ! !
 
 - [DenseTact: Optical Tactile Sensor for Dense Shape Reconstruction](https://ieeexplore.ieee.org/abstract/document/9811966), Do et al., ICRA 2022
 
-- [DenseTact 2.0: Optical Tactile Sensor for Shape and Force Reconstruction](https://arxiv.org/abs/2209.10122), Do et al., arxiv 2022
-
 - [Implementing Monocular Visual-Tactile Sensors for Robust Manipulation](https://spj.sciencemag.org/journals/cbsystems/2022/9797562/), Li et al., CBS 2022
-
-- [DTact: A Vision-Based Tactile Sensor that Measures High-Resolution 3D Geometry Directly from Darkness](https://arxiv.org/abs/2209.13916), Lin et al., arxiv 2022
 
 - [Design of a Biomimetic Tactile Sensor for Material Classification](https://ieeexplore.ieee.org/document/9811543), Dai et al., ICRA 2022
 
@@ -169,6 +165,9 @@ Keep updating! ! !
 
 - [GelStereo Palm: a Novel Curved Visuotactile Sensor for 3D Geometry Sensing](https://ieeexplore.ieee.org/abstract/document/10035880), Hu et al., TII 2023
 
+- [DenseTact 2.0: Optical Tactile Sensor for Shape and Force Reconstruction](https://arxiv.org/abs/2209.10122), Do et al., ICRA 2023
+
+- [DTact: A Vision-Based Tactile Sensor that Measures High-Resolution 3D Geometry Directly from Darkness](https://arxiv.org/abs/2209.13916), Lin et al., ICRA 2023
 
 <!---
 - [](), xxx et al., yyy 2023
@@ -292,7 +291,12 @@ Keep updating! ! !
 
 - [Visual-tactile Fusion for Transparent Object Grasping in Complex Backgrounds](https://arxiv.org/abs/2211.16693), Li et al., arxiv 2022
 
+- [Integrating High-Resolution Tactile Sensing into Grasp Stability Prediction](https://ieeexplore.ieee.org/document/9867102), Chumbley et al., CRV 2022
+
 - [Skill generalization of tubular object manipulation with tactile sensing and Sim2Real learning](https://www.sciencedirect.com/science/article/pii/S092188902200210X), Zhao et al., Robotics and Autonomous Systems 2023
+
+- [Learning height for top-down grasps with the DIGIT sensor](https://hal.science/hal-03989704/), Bernardi et al., ICRA 2023
+
 
 
 ### Classification/Recognition
