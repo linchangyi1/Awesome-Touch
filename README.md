@@ -365,6 +365,9 @@ Keep updating! ! !
 
 - [In-Hand Pose Estimation Using Hand-Mounted RGB Cameras and Visuotactile Sensors](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10043666), Gao et al., IEEE 2023
 
+- [Tac2Structure: Object Surface Reconstruction Only Through Multi Times Touch](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10021601), Lu et al., RAL 2023
+
+
 
 ### Extrinsic Contact Sensing
 - [Extrinsic Contact Sensing with Relative-Motion Tracking from Distributed Tactile Measurements](https://ieeexplore.ieee.org/abstract/document/9561781), Ma et al., ICRA 2021
@@ -426,6 +429,8 @@ Keep updating! ! !
 - [Tactile Image Sensors Employing Camera: A Review](https://www.mdpi.com/1424-8220/19/18/3933), Shimonomura et al., MDPI Sensors 2019
 
 - [Tactile Sensors for Advanced Intelligent Systems](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.201900090), Wang et al., Advanced Intelligent Systems 2019
+
+- [Visuotactile Sensors With Emphasis on GelSight Sensor: A Review](https://ieeexplore.ieee.org/document/9028163), C. Abad et al., IEEE Sensors 2020
 
 - [On the Design and Development of Vision-based Tactile Sensors](https://link.springer.com/article/10.1007/s10846-021-01431-0), Shah et al., JINT 2021
 
