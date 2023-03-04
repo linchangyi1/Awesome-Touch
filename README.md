@@ -6,6 +6,7 @@ Keep updating! ! !
 ## Table of Contents
 
 - [Sensors](#sensors)
+  - [For New Researchers](#for-new-researchers)
   - [Vision-Based](#vision-based)
   - [Visual-Tactile (Multimodals)](#visual-tactile)
   - [Non-Vision-Based](#non-vision-based)
@@ -28,6 +29,28 @@ Keep updating! ! !
 
 ## Sensors
 
+### For New Researchers
+If you are a new researcher in vision-based tactile sensing, you may begin with these papers because they propse sensors with quite different principles.
+
+- [Measurement of force vector field of robotic finger using vision-based haptic sensor](https://ieeexplore.ieee.org/abstract/document/4650712), Sato et al., IROS 2008
+
+- [Combining finger vision and optical tactile sensing: Reducing and handling errors while cutting vegetables](https://ieeexplore.ieee.org/abstract/document/7803400), Yamaguchi et al., Humanoids 2016
+
+- [GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force](https://www.mdpi.com/1424-8220/17/12/2762), Yuan et al., MDPI Sensors 2017
+
+- [The TacTip Family: Soft Optical Tactile Sensors with 3D-Printed Biomimetic Morphologies](https://www.liebertpub.com/doi/full/10.1089/soro.2017.0052), Ward-Cherrier et al., SoRo 2018
+
+- [Soft-bubble: A highly compliant dense geometry tactile sensor for robot manipulation](https://ieeexplore.ieee.org/abstract/document/8722713), Alspach et al., RoboSoft 2019
+
+- [Design, Motivation and Evaluation of a Full-Resolution Optical Tactile Sensor](https://www.mdpi.com/1424-8220/19/4/928), Sferrazza et al., MDPI Sensors 2019
+
+- [In-Hand Object Localization Using a Novel High-Resolution Visuotactile Sensor](https://ieeexplore.ieee.org/abstract/document/9464700), Cui et al., Trans. Ind. Electron. 2022
+
+- [DelTact: A Vision-based Tactile Sensor Using Dense Color Pattern](https://ieeexplore.ieee.org/abstract/document/9849124), Zhang et al., RAL 2022
+
+- [DTact: A Vision-Based Tactile Sensor that Measures High-Resolution 3D Geometry Directly from Darkness](https://arxiv.org/abs/2209.13916), Lin et al., ICRA 2023
+
+
 ### Vision-Based
 - [Planar and finger-shaped optical tactile sensors for robotic applications](https://ieeexplore.ieee.org/abstract/document/20431), Begej et al., IEEE Journal on Robotics and Automation 1988
 
@@ -44,6 +67,8 @@ Keep updating! ! !
 - [Localization and Manipulation of Small Parts Using GelSight Tactile Sensing](https://ieeexplore.ieee.org/abstract/document/6943123), Li et al., IROS 2014
 
 - [Measurement of Shear and Slip with a GelSight Tactile Sensor](https://ieeexplore.ieee.org/abstract/document/7139016), Yuan et al., ICRA 2015
+
+- [Combining finger vision and optical tactile sensing: Reducing and handling errors while cutting vegetables](https://ieeexplore.ieee.org/abstract/document/7803400), Yamaguchi et al., Humanoids 2016
 
 - [Improved GelSight Tactile Sensor for Measuring Geometry and Slip](https://ieeexplore.ieee.org/abstract/document/8202149), Dong et al., IROS 2017
 
@@ -123,7 +148,7 @@ Keep updating! ! !
 
 - [In-Hand Object Localization Using a Novel High-Resolution Visuotactile Sensor](https://ieeexplore.ieee.org/abstract/document/9464700), Cui et al., Trans. Ind. Electron. 2022
 
-- [DelTact: A Vision-based Tactile Sensor Using Dense Color Pattern](https://arxiv.org/abs/2202.02179), Zhang et al., arxiv 2022
+- [DelTact: A Vision-based Tactile Sensor Using Dense Color Pattern](https://ieeexplore.ieee.org/abstract/document/9849124), Zhang et al., RAL 2022
 
 - [A soft thumb-sized vision-based sensor with accurate all-round force perception](https://www.nature.com/articles/s42256-021-00439-3), Sun et al., Nature Machine Intelligence 2022
 
