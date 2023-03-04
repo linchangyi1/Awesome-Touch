@@ -1,5 +1,4 @@
-# Awesome Touch [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-
+# Awesome Touch [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 Owing to my personal interest, this collection may focus more on vision-based tactile sensors and learning-based applications.
 Keep updating! ! !
 
