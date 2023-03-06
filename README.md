@@ -425,6 +425,8 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [Simulation of Vision-based Tactile Sensors using Physics based Rendering](https://ieeexplore.ieee.org/document/9561122), Agarwal et al., ICRA 2021
 
+- [Tactile Sim-to-Real Policy Transfer via Real-to-Sim Image Translation](https://openreview.net/forum?id=2NcPgLa7yqD), Church et al., CoRL 2021
+
 - [Tactile Gym 2.0: Sim-to-Real Deep Reinforcement Learning for Comparing Low-Cost High-Resolution Robot Touch](https://ieeexplore.ieee.org/abstract/document/9847020), Lin et al., RAL 2022
 
 - [TACTO: A Fast, Flexible, and Open-Source Simulator for High-Resolution Vision-Based Tactile Sensors](https://ieeexplore.ieee.org/abstract/document/9697425), Wang et al., RAL 2022
