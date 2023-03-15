@@ -197,6 +197,7 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [Improving the Representation and Extraction of Contact Information in Vision-based Tactile Sensors Using Continuous Marker Pattern](https://www.techrxiv.org/articles/preprint/Improving_the_Representation_and_Extraction_of_Contact_Information_in_Vision-based_Tactile_Sensors_Using_Continuous_Marker_Pattern/22217653), Li et al., TechRxiv 2023
 
+- [Simulation, Learning, and Application of Vision-Based Tactile Sensing at Large Scale](https://ieeexplore.ieee.org/abstract/document/10054516), Khanh Luu et al., TRO 2023
 
 <!---
 - [](), xxx et al., yyy 2023
