@@ -193,6 +193,11 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [DTact: A Vision-Based Tactile Sensor that Measures High-Resolution 3D Geometry Directly from Darkness](https://arxiv.org/abs/2209.13916), Lin et al., ICRA 2023
 
+- [A Miniaturised Camera-based Multi-Modal Tactile Sensor](https://arxiv.org/abs/2303.03093), Althoefer et al., arxiv 2023
+
+- [Improving the Representation and Extraction of Contact Information in Vision-based Tactile Sensors Using Continuous Marker Pattern](https://www.techrxiv.org/articles/preprint/Improving_the_Representation_and_Extraction_of_Contact_Information_in_Vision-based_Tactile_Sensors_Using_Continuous_Marker_Pattern/22217653), Li et al., TechRxiv 2023
+
+
 <!---
 - [](), xxx et al., yyy 2023
 -->
@@ -391,12 +396,15 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [Tac2Structure: Object Surface Reconstruction Only Through Multi Times Touch](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10021601), Lu et al., RAL 2023
 
+- [Tac-VGNN: A Voronoi Graph Neural Network for Pose-Based Tactile Servoing](https://arxiv.org/abs/2303.02708), Fan et al., arxiv 2023
 
 
 ### Extrinsic Contact Sensing
 - [Extrinsic Contact Sensing with Relative-Motion Tracking from Distributed Tactile Measurements](https://ieeexplore.ieee.org/abstract/document/9561781), Ma et al., ICRA 2021
 
 - [Neural Contact Fields: Tracking Extrinsic Contact with Tactile Sensing](http://arxiv.org/abs/2210.09297), Higuera et al., arxiv 2022
+
+- [Simultaneous Tactile Estimation and Control of Extrinsic Contact](https://arxiv.org/abs/2303.03385), Kim et al., ICRA 2023
 
 
 ### Others
