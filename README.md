@@ -2,6 +2,8 @@
 Owing to my personal interest, this collection may focus more on vision-based tactile sensors and learning-based applications.
 Keep updating! ! !
 
+If you want to show your papers here, please add a new issue and provide the titles and other relative information. Thanks a lot.
+
 ## Table of Contents
 
 - [Sensors](#sensors)
