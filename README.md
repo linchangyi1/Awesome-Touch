@@ -199,6 +199,9 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [Simulation, Learning, and Application of Vision-Based Tactile Sensing at Large Scale](https://ieeexplore.ieee.org/abstract/document/10054516), Khanh Luu et al., TRO 2023
 
+- [StereoTac: a Novel Visuotactile Sensor that Combines Tactile Sensing with 3D Vision](https://arxiv.org/abs/2303.06542), Roberge et al., arxiv 2023
+
+
 <!---
 - [](), xxx et al., yyy 2023
 -->
@@ -327,7 +330,9 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [Learning height for top-down grasps with the DIGIT sensor](https://hal.science/hal-03989704/), Bernardi et al., ICRA 2023
 
+- [Deep Functional Predictive Control for Strawberry Cluster Manipulation using Tactile Prediction](https://arxiv.org/abs/2303.05393), Nazari et al., arxiv 2023
 
+- [Tactile-Filter: Interactive Tactile Perception for Part Mating](https://arxiv.org/abs/2303.06034), Ota et al., arxiv 2023
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
