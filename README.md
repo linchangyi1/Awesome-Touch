@@ -201,7 +201,6 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [Simulation, Learning, and Application of Vision-Based Tactile Sensing at Large Scale](https://ieeexplore.ieee.org/abstract/document/10054516), Khanh Luu et al., TRO 2023
 
-- [StereoTac: a Novel Visuotactile Sensor that Combines Tactile Sensing with 3D Vision](https://arxiv.org/abs/2303.06542), Roberge et al., arxiv 2023
 
 
 <!---
@@ -220,6 +219,8 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 - [Finger-STS: Combined Proximity and Tactile Sensing for Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/9832483), Hogan et al., RAL 2022
 
 - [SpecTac: A Visual-Tactile Dual-Modality Sensor Using UV Illumination](https://ieeexplore.ieee.org/abstract/document/9812348), Wang et al., ICRA 2022
+
+- [StereoTac: a Novel Visuotactile Sensor that Combines Tactile Sensing with 3D Vision](https://arxiv.org/abs/2303.06542), Roberge et al., arxiv 2023
 
 
 ### Non-Vision-Based
