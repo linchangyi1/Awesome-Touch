@@ -348,6 +348,10 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation](https://arxiv.org/abs/2212.03858), Li et al., arxiv 2022
 
+- [TANDEM: Learning Joint Exploration and Decision Making With Tactile Sensors](https://ieeexplore.ieee.org/document/9839393), Xu et al., RAL 2022
+
+- [TANDEM3D: Active Tactile Exploration for 3D Object Recognition](https://arxiv.org/abs/2209.08772), Xu et al., ICRA 2023
+
 
 ### Mapping/Localization
 - [Tracking objects with point clouds from vision and touch](https://ieeexplore.ieee.org/abstract/document/7989460), Izatt et al., ICRA 2017
