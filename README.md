@@ -557,6 +557,9 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 - [YCB-Sight](https://github.com/CMURoboTouch/YCB-Sight)
 - [DenseTact](https://github.com/armlabstanford/DenseTact)
 - [Touch and Go](https://github.com/fredfyyang/Tactile-Driven-Image-Stylization/)
+- [ObjectFolder](https://ai.stanford.edu/~rhgao/objectfolder/)
+- [ObjectFolder 2.0](https://ai.stanford.edu/~rhgao/objectfolder2.0/)
+- [ObjectFolder 3.0](https://www.objectfolder.org/)
 
 ### Algorithms
 - [ShapeMap 3-D](https://github.com/rpl-cmu/shape-map-3D)
