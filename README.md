@@ -411,6 +411,8 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [Tac-VGNN: A Voronoi Graph Neural Network for Pose-Based Tactile Servoing](https://arxiv.org/abs/2303.02708), Fan et al., arxiv 2023
 
+- [FingerSLAM: Closed-loop Unknown Object Localization and Reconstruction from Visuo-tactile Feedback](https://arxiv.org/abs/2303.07997), Zhao et al., arxiv 2023
+
 
 ### Extrinsic Contact Sensing
 - [Extrinsic Contact Sensing with Relative-Motion Tracking from Distributed Tactile Measurements](https://ieeexplore.ieee.org/abstract/document/9561781), Ma et al., ICRA 2021
