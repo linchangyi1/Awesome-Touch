@@ -201,7 +201,7 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [Simulation, Learning, and Application of Vision-Based Tactile Sensing at Large Scale](https://ieeexplore.ieee.org/abstract/document/10054516), Khanh Luu et al., TRO 2023
 
-
+- [High-Precision 3D Reconstruction Study with Emphasis on Refractive Calibration of GelStereo-Type Sensors](https://www.mdpi.com/1424-8220/23/5/2675), Zhang et al., MDPI Sensors 2023
 
 <!---
 - [](), xxx et al., yyy 2023
