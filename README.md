@@ -335,6 +335,8 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [Deep Functional Predictive Control for Strawberry Cluster Manipulation using Tactile Prediction](https://arxiv.org/abs/2303.05393), Nazari et al., arxiv 2023
 
+- [Cable Routing and Assembly using Tactile-driven Motion Primitives](https://arxiv.org/abs/2303.11765), Wilson et al., ICRA 2023
+
 - [Tactile-Filter: Interactive Tactile Perception for Part Mating](https://arxiv.org/abs/2303.06034), Ota et al., arxiv 2023
 
 ### Classification/Recognition
