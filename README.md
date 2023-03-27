@@ -32,11 +32,9 @@ If you want to show your papers here, please add a new issue and provide the tit
 ## Sensors
 
 ### For New Researchers
-If you are a new researcher in vision-based tactile sensing, you may begin with these papers because they propse sensors with quite different principles.
+If you are a new researcher in vision-based tactile sensing, you may begin with these papers because they propose sensors with quite different principles.
 
 - [Measurement of force vector field of robotic finger using vision-based haptic sensor](https://ieeexplore.ieee.org/abstract/document/4650712), Sato et al., IROS 2008
-
-- [Combining finger vision and optical tactile sensing: Reducing and handling errors while cutting vegetables](https://ieeexplore.ieee.org/abstract/document/7803400), Yamaguchi et al., Humanoids 2016
 
 - [GelSight: High-Resolution Robot Tactile Sensors for Estimating Geometry and Force](https://www.mdpi.com/1424-8220/17/12/2762), Yuan et al., MDPI Sensors 2017
 
