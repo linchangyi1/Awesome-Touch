@@ -184,7 +184,13 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [Real-Time Marker Localization Learning for GelStereo Tactile Sensing](https://ieeexplore.ieee.org/abstract/document/10011997), Liu et al., ROBIO 2022
 
+- [Tac3D: A Novel Vision-based Tactile Sensor for Measuring Forces Distribution and Estimating Friction Coefficient Distribution](https://arxiv.org/abs/2202.06211), Zhang et al., arxiv 2022
+
+- [Continuous Marker Patterns for Representing Contact Information in Vision-Based Tactile Sensor: Principle, Algorithm, and Verification](https://ieeexplore.ieee.org/document/9851411), Li et al., Trans. Instrum. Meas. 2022
+
 - [Improving the Force Reconstruction Performance of Vision-Based Tactile Sensors by Optimizing the Elastic Body](https://ieeexplore.ieee.org/abstract/document/10012440), Zhang et al., RAL 2023
+
+- [Improving the Representation and Extraction of Contact Information in Vision-based Tactile Sensors Using Continuous Marker Pattern](https://www.techrxiv.org/articles/preprint/Improving_the_Representation_and_Extraction_of_Contact_Information_in_Vision-based_Tactile_Sensors_Using_Continuous_Marker_Pattern/22217653), Li et al., TechRxiv 2023
 
 - [DotView: A Low-Cost Compact Tactile Sensor for Pressure, Shear, and Torsion Estimation](https://ieeexplore.ieee.org/abstract/document/10005792), Zheng et al., RAL 2023
 
@@ -197,8 +203,6 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 - [DTact: A Vision-Based Tactile Sensor that Measures High-Resolution 3D Geometry Directly from Darkness](https://arxiv.org/abs/2209.13916), Lin et al., ICRA 2023
 
 - [A Miniaturised Camera-based Multi-Modal Tactile Sensor](https://arxiv.org/abs/2303.03093), Althoefer et al., arxiv 2023
-
-- [Improving the Representation and Extraction of Contact Information in Vision-based Tactile Sensors Using Continuous Marker Pattern](https://www.techrxiv.org/articles/preprint/Improving_the_Representation_and_Extraction_of_Contact_Information_in_Vision-based_Tactile_Sensors_Using_Continuous_Marker_Pattern/22217653), Li et al., TechRxiv 2023
 
 - [Simulation, Learning, and Application of Vision-Based Tactile Sensing at Large Scale](https://ieeexplore.ieee.org/abstract/document/10054516), Khanh Luu et al., TRO 2023
 
