@@ -505,6 +505,9 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [Hardware Technology of Vision-Based Tactile Sensor: A Review](https://ieeexplore.ieee.org/abstract/document/9911183), Zhang et al., IEEE Sensors 2022
 
+-[Marker Displacement MethodUsedinVision-Based Tactile Sensors—From 2D to 3D: A Review](https://www.techrxiv.org/articles/preprint/Marker_Displacement_Method_Used_in_Vision-Based_Tactile_Sensors_From_2D_to_3D_A_Review/22122596), LI et al., IEEE Sensors 2023
+
+
 ## Thesis
 - [Tactile Measurement with a GelSight Sensor](http://dspace.mit.edu/handle/1721.1/93815), Wenzhen Yuan, Master, 2014
 - [Robust object pose estimation with point clouds from vision and touch](http://dspace.mit.edu/handle/1721.1/111867), Gregory Russell, Master, 2017
