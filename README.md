@@ -16,6 +16,7 @@ If you want to show your papers here, please add a new issue and provide the tit
   - [Classification/Recognition](#classificationrecognition)
   - [Mapping/Localization](#mappinglocalization)
   - [Extrinsic Contact Sensing](#extrinsic-contact-sensing)
+  - [Tactile Image Generation](#tactile-image-generation)
   - [Others](#others)
 - [Software](#software)
   - [Simulator](#simulator)
@@ -299,6 +300,8 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [SEED: Series Elastic End Effectors in 6D for Visuotactile Tool Use](https://arxiv.org/abs/2111.01376), Suh et al., arxiv 2021
 
+- [Learning Generalizable Vision-Tactile Robotic Grasping Strategy for Deformable Objects via Transformer](https://arxiv.org/abs/2112.06374), Han et al., arxiv 2021
+
 - [Meta-Residual Policy Learning: Zero-Trial Robot Skill Adaptation via Knowledge Fusion](https://ieeexplore.ieee.org/abstract/document/9697332), Hao et al., RAL 2022
 
 - [Active Visuo-Tactile Interactive Robotic Perception for Accurate Object Pose Estimation in Dense Clutter](https://ieeexplore.ieee.org/abstract/document/9709520), Murali et al., RAL 2022
@@ -338,6 +341,9 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 - [Cable Routing and Assembly using Tactile-driven Motion Primitives](https://arxiv.org/abs/2303.11765), Wilson et al., ICRA 2023
 
 - [Tactile-Filter: Interactive Tactile Perception for Part Mating](https://arxiv.org/abs/2303.06034), Ota et al., arxiv 2023
+
+- [Learning to Detect Slip through Tactile Measures of the Contact Force Field and its Entropy](https://arxiv.org/abs/2303.00935.pdf), Hu et al., arxiv 2023
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
@@ -388,8 +394,9 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [Active 3D Shape Reconstruction from Vision and Touch](https://proceedings.neurips.cc/paper/2021/hash/8635b5fd6bc675033fb72e8a3ccc10a0-Abstract.html), Smith et al., NeurIPS 2021
 
-- [Active Visuo-Tactile Point Cloud Registration for Accurate Pose Estimation of Objects in an Unknown Workspace
-](https://arxiv.org/abs/2108.04015), Murali et al., arxiv 2021
+- [Active Visuo-Tactile Point Cloud Registration for Accurate Pose Estimation of Objects in an Unknown Workspace](https://arxiv.org/abs/2108.04015), Murali et al., arxiv 2021
+
+- [Learning Tactile Models for Factor Graph-based Estimation](https://ieeexplore.ieee.org/abstract/document/9561011), Sodhi et al., ICRA 2021
 
 - [Tac2Pose: Tactile Object Pose Estimation from the First Touch](https://arxiv.org/abs/2204.11701), Bauza et al., arxiv 2022
 
@@ -427,6 +434,12 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 - [Simultaneous Tactile Estimation and Control of Extrinsic Contact](https://arxiv.org/abs/2303.03385), Kim et al., ICRA 2023
 
 
+### Tactile Image Generation
+- [Deep Tactile Experience: Estimating Tactile Sensor Output from Depth Sensor Data](https://ieeexplore.ieee.org/abstract/document/9341596), Patel et al., IROS 2020
+
+- [Touching a NeRF: Leveraging Neural Radiance Fields for Tactile Sensory Data Generation](https://openreview.net/pdf?id=No3mbanRlZJ), Zhong et al., CoRL 2022
+
+
 ### Others
 - [Exploiting Distributed Tactile Sensors to Drive a Robot Arm Through Obstacles](https://ieeexplore.ieee.org/abstract/document/9384158), Albini et al., RAL 2021
 
@@ -435,8 +448,6 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 - [MidasTouch: Monte-Carlo inference over distributions across sliding touch](https://openreview.net/forum?id=JWROnOf4w-K), Suresh et al., CoRL 2022
 
 - [SLURP! Spectroscopy of Liquids Using Robot Pre-Touch Sensing](https://arxiv.org/abs/2210.04941), Hanson et al., arxiv 2022
-
-- [Touching a NeRF: Leveraging Neural Radiance Fields for Tactile Sensory Data Generation](https://openreview.net/pdf?id=No3mbanRlZJ), Zhong et al., CoRL 2022
 
 - [Learning to Synthesize Volumetric Meshes from Vision-based Tactile Imprints](https://arxiv.org/abs/2203.15155v1), Zhu et al., arxiv 2022
 
