@@ -206,6 +206,9 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [High-Precision 3D Reconstruction Study with Emphasis on Refractive Calibration of GelStereo-Type Sensors](https://www.mdpi.com/1424-8220/23/5/2675), Zhang et al., MDPI Sensors 2023
 
+- [GelSight Baby Fin Ray: A Compact, Compliant, Flexible Finger with High-Resolution Tactile Sensing](https://arxiv.org/abs/2303.14883), Liu et al., arxiv 2023
+
+
 <!---
 - [](), xxx et al., yyy 2023
 -->
