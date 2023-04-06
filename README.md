@@ -611,6 +611,8 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 - [TANDEM](https://github.com/jingxixu/tandem-public)
 - [Neural Contact Fields (NCF)](https://github.com/carolinahiguera/NCF)
 - [Active Extrinsic Contact Sensing](https://github.com/sangwkim/active_extrinsic_contact)
+- [MidasTouch](https://github.com/facebookresearch/MidasTouch)
+- [Tactile-Diffusion](https://github.com/carolinahiguera/Tactile-Diffusion)
 
 
 
