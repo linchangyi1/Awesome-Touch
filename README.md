@@ -449,16 +449,16 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [Touching a NeRF: Leveraging Neural Radiance Fields for Tactile Sensory Data Generation](https://openreview.net/pdf?id=No3mbanRlZJ), Zhong et al., CoRL 2022
 
--[Learning to Read Braille: Bridging the Tactile Reality Gap with Diffusion Models](https://arxiv.org/abs/2304.01182.pdf), Higuera et al., arxiv 2023
+- [Learning to Read Braille: Bridging the Tactile Reality Gap with Diffusion Models](https://arxiv.org/abs/2304.01182.pdf), Higuera et al., arxiv 2023
 
 
 ### Dexterous Hand Manipulation
 
--[Rotating without Seeing: Towards In-hand Dexterity through Touch](https://arxiv.org/abs/2303.10880), Yin et al., arxiv 2023
+- [Rotating without Seeing: Towards In-hand Dexterity through Touch](https://arxiv.org/abs/2303.10880), Yin et al., arxiv 2023
 
--[Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play](https://arxiv.org/abs/2303.12076), Guzey et al., arxiv 2023
+- [Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play](https://arxiv.org/abs/2303.12076), Guzey et al., arxiv 2023
 
--[TacGNN: Learning Tactile-based In-hand Manipulation with a Blind Robot using Hierarchical Graph Neural Network](https://arxiv.org/pdf/2304.00736.pdf), Yang et al., arxiv 2023
+- [TacGNN: Learning Tactile-based In-hand Manipulation with a Blind Robot using Hierarchical Graph Neural Network](https://arxiv.org/pdf/2304.00736.pdf), Yang et al., arxiv 2023
 
 
 ### Others
