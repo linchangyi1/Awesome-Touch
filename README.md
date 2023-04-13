@@ -211,6 +211,10 @@ If you are a new researcher in vision-based tactile sensing, you may begin with 
 
 - [GelSight Baby Fin Ray: A Compact, Compliant, Flexible Finger with High-Resolution Tactile Sensing](https://arxiv.org/abs/2303.14883), Liu et al., arxiv 2023
 
+- [GelSight360: An Omnidirectional Camera-Based Tactile Sensor for Dexterous Robotic Manipulation](https://arxiv.org/abs/2304.04268), Tippur et al., arxiv 2023
+
+- [TactiGraph: An Asynchronous Graph Neural Network for Contact Angle Prediction Using Neuromorphic Vision-Based Tactile Sensing](https://www.preprints.org/manuscript/202304.0133/v1), Sajwani et al., preprints 2023
+
 
 <!---
 - [](), xxx et al., yyy 2023
