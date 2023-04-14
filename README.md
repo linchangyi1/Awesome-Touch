@@ -436,6 +436,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 
 ### Dexterous Hand Manipulation
+- [Sampling-based Exploration for Reinforcement Learning of Dexterous Manipulation](https://arxiv.org/abs/2303.03486), Khandate et al., arxiv 2023
 
 - [Rotating without Seeing: Towards In-hand Dexterity through Touch](https://arxiv.org/abs/2303.10880), Yin et al., arxiv 2023
 
