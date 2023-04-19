@@ -194,6 +194,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [TactiGraph: An Asynchronous Graph Neural Network for Contact Angle Prediction Using Neuromorphic Vision-Based Tactile Sensing](https://www.preprints.org/manuscript/202304.0133/v1), Sajwani et al., preprints 2023
 
+- [A Tactile Sensing Concept for 3D Displacement and 3D Force Measurement using Light Angle and Intensity Sensing](https://www.techrxiv.org/articles/preprint/A_Tactile_Sensing_Concept_for_3D_Displacement_and_3D_Force_Measurement_using_Light_Angle_and_Intensity_Sensing/22593130?file=40112941), Leslie et al., preprints 2023
 
 <!---
 - [](), xxx et al., yyy 2023
