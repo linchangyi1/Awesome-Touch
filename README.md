@@ -257,6 +257,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Contact Shape and Pose Recognition: Utilizing a Multipole Magnetic Tactile Sensor with a Metalearning Model](https://ieeexplore.ieee.org/document/9869758), Xia et al., MRA 2022
 
+- [Guiding the design of superresolution tactile skins with taxel value isolines theory](https://www.science.org/doi/10.1126/scirobotics.abm0608), Sun et al., Science Robotics 2022
 
 
 ## Applications
