@@ -568,7 +568,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [GelSight_Heightmap](https://github.com/siyuandong16/gelsight_heightmap_reconstruction)
 - [GelSight_Tracking_1](https://github.com/GelSight/tracking)
 - [GelSight_Tracking_2](https://github.com/personalrobotics/gelslight_tracking)
-- [GelSight_Neural_Tracking](https://github.com/wx405557858/neural_tracking_data)
+- [GelSight_Neural_Tracking](https://github.com/wx405557858/neural_tracking)
 - [GelSlim_Heightmap](https://github.com/siyuandong16/Heightmap_reconstruction_with_GelSlim)
 - [Gelsight_Controller](https://github.com/Photon26/Gelsight_controller)
 
