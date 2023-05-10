@@ -441,6 +441,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Touching a NeRF: Leveraging Neural Radiance Fields for Tactile Sensory Data Generation](https://openreview.net/pdf?id=No3mbanRlZJ), Zhong et al., CoRL 2022
 
+- [Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation](https://arxiv.org/abs/2301.06826.pdf), Cao et al., ICRA 2023
+
 - [Learning to Read Braille: Bridging the Tactile Reality Gap with Diffusion Models](https://arxiv.org/abs/2304.01182.pdf), Higuera et al., arxiv 2023
 
 
