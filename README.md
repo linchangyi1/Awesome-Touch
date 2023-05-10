@@ -227,11 +227,14 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 ### Non-Vision-Based
 
+- [Magnetic Resonance-Compatible Tactile Force Sensor Using Fiber Optics and Vision Sensor](https://ieeexplore.ieee.org/abstract/document/6600735), Xie et al.,  IEEE Sensors 2014
 - [Flexible Capacitive Tactile Sensor Array With Truncated Pyramids as Dielectric Layer for Three-Axis Force Measurement](https://ieeexplore.ieee.org/abstract/document/7084588), Liang et al., JMEMS 2015
 
 - [A hierarchically patterned, bioinspired e-skin able to detect the direction of applied pressure for robotics](https://www.science.org/doi/abs/10.1126/scirobotics.aau6914), Boutry et al., Science Robotics 2018
 
-- [Data-Driven Super-Resolution on a Tactile Dome](https://ieeexplore.ieee.org/abstract/document/8276589), xxx et al., RAL 2018
+- [Data-Driven Super-Resolution on a Tactile Dome](https://ieeexplore.ieee.org/abstract/document/8276589), Piacenza et al., RAL 2018
+
+- [A High-Sensitivity Tactile Sensor Array Based on Fiber Bragg Grating Sensing for Tissue Palpation in Minimally Invasive Surgery](https://ieeexplore.ieee.org/abstract/document/8412604), Li et al., Transactions on Mechatronics 2018
 
 - [Touch Sensors with Overlapping Signals: Concept Investigation on Planar Sensors with Resistive or Optical Transduction](https://arxiv.org/abs/1802.08209), Piacenza et al., arxiv 2018
 
@@ -263,6 +266,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Guiding the design of superresolution tactile skins with taxel value isolines theory](https://www.science.org/doi/10.1126/scirobotics.abm0608), Sun et al., Science Robotics 2022
 
+- [Reflective Optical Tactile Sensor Based on Fiber Specklegram Analysis With the Capability of Contact Position Identification](https://ieeexplore.ieee.org/abstract/document/9990925), Liu et al., Journal of Lightwave Technology 2023
 
 ## Applications
 <!---
@@ -496,6 +500,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors](https://ieeexplore.ieee.org/abstract/document/10017344), Chen et al., RAL 2023
 
+- [Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Images](https://ieeexplore.ieee.org/abstract/document/10106009), Jing et al., Transactions on Instrumentation and Measurement 2023
 
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
