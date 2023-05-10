@@ -60,6 +60,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [GelSlim: A High-Resolution, Compact, Robust, and Calibrated Tactile-sensing Finger](https://ieeexplore.ieee.org/abstract/document/8593661), Donlon et al., IROS 2018
 
+- [Robotic bolt insertion and tightening based on in-hand object localization and force sensing](https://ieeexplore.ieee.org/document/8452338), Nozu et al., AIM 2018
+
 - [Sensing the Frictional State of a Robotic Skin via Subtractive Color Mixing](https://ieeexplore.ieee.org/abstract/document/8613793), Lin et al., RAL 2019
 
 - [Development of a Vision-Based Soft Tactile Muscularis](https://ieeexplore.ieee.org/abstract/document/8722814), Duong et al., RoboSoft 2019
@@ -71,6 +73,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [Dense Tactile Force Estimation using GelSlim and inverse FEM](https://ieeexplore.ieee.org/abstract/document/8794113), Ma et al., ICRA 2019
 
 - [Soft-bubble: A highly compliant dense geometry tactile sensor for robot manipulation](https://ieeexplore.ieee.org/abstract/document/8722713), Alspach et al., RoboSoft 2019
+
+- [Event-based Tactile Image Sensor for Detecting Spatio-Temporal Fast Phenomena in Contacts](https://ieeexplore.ieee.org/document/8816132), Kumagai et al., WHC 2019
 
 - [Soft-Bubble grippers for robust and perceptive manipulation](https://ieeexplore.ieee.org/abstract/document/9341534), Kuppuswamy et al., IROS 2020
 
