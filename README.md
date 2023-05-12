@@ -352,6 +352,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Learning to Detect Slip through Tactile Measures of the Contact Force Field and its Entropy](https://arxiv.org/abs/2303.00935.pdf), Hu et al., arxiv 2023
 
+- [Visuo-Tactile Sensor Enabled Pneumatic Device Towards Compliant Oropharyngeal Swab Sampling](https://arxiv.org/abs/2305.06537.pdf), Li et al., arxiv 2023
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
