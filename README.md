@@ -480,6 +480,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Development and Evaluation of a Learning-based Model for Real-time Haptic Texture Rendering](https://arxiv.org/abs/2212.13332), Heravi et al., arxiv 2022
 
+- [Investigating Vision Foundational Models for Tactile Representation Learning](https://arxiv.org/abs/2305.00596), Zandonati et al., arxiv 2023
+
 ## Software
 
 ### Simulator
