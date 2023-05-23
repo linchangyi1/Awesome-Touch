@@ -507,6 +507,9 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Images](https://ieeexplore.ieee.org/abstract/document/10106009), Jing et al., Transactions on Instrumentation and Measurement 2023
 
+- [Beyond Flat GelSight Sensors: Simulation of Optical Tactile Sensors of Complex Morphologies for Sim2Real Learning](https://arxiv.org/pdf/2305.12605.pdf), Gomes et al., arxiv 2023
+
+
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
 
