@@ -354,6 +354,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Visuo-Tactile Sensor Enabled Pneumatic Device Towards Compliant Oropharyngeal Swab Sampling](https://arxiv.org/abs/2305.06537.pdf), Li et al., arxiv 2023
 
+- [Integrated Object Deformation and Contact Patch Estimation from Visuo-Tactile Feedback](https://arxiv.org/abs/2305.14470.pdf), Merwe et al., arxiv 2023
+
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
