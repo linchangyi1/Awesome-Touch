@@ -225,8 +225,6 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [StereoTac: a Novel Visuotactile Sensor that Combines Tactile Sensing with 3D Vision](https://arxiv.org/abs/2303.06542), Roberge et al., arxiv 2023
 
-- [GelSight EndoFlex: A Soft Endoskeleton Hand with Continuous High-Resolution Tactile Sensing](https://arxiv.org/abs/2303.17935.pdf), Liu et al., arxiv 2023
-
 
 ### Non-Vision-Based
 
