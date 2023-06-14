@@ -355,6 +355,9 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Integrated Object Deformation and Contact Patch Estimation from Visuo-Tactile Feedback](https://arxiv.org/abs/2305.14470.pdf), Merwe et al., arxiv 2023
 
+- [Learning-Based Slip Detection for Dexterous Manipulation Using GelStereo Sensing](https://ieeexplore.ieee.org/abstract/document/10132406), Cui et al., TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS 2023
+
+
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
@@ -508,7 +511,9 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Images](https://ieeexplore.ieee.org/abstract/document/10106009), Jing et al., Transactions on Instrumentation and Measurement 2023
 
-- [Beyond Flat GelSight Sensors: Simulation of Optical Tactile Sensors of Complex Morphologies for Sim2Real Learning](https://arxiv.org/pdf/2305.12605.pdf), Gomes et al., arxiv 2023
+- [Beyond Flat GelSight Sensors: Simulation of Optical Tactile Sensors of Complex Morphologies for Sim2Real Learning](https://arxiv.org/pdf/2305.12605.pdf), Gomes et al., RSS 2023
+
+- [Marker-Embedded Tactile Image Generation via Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/10146407), Kim et al., RAL 2023
 
 
 ### Library
