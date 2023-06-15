@@ -357,6 +357,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Learning-Based Slip Detection for Dexterous Manipulation Using GelStereo Sensing](https://ieeexplore.ieee.org/abstract/document/10132406), Cui et al., TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS 2023
 
+- [Enabling Robot Manipulation of Soft and Rigid Objects with Vision-based Tactile Sensors](https://arxiv.org/pdf/2306.05791.pdf), Welle et al., arxiv 2023
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
