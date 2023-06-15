@@ -26,6 +26,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [Thesis](#thesis)
 - [Products](#products)
 - [Open Source](#open-source)
+- [Laboratory](#laboratory)
 
 
 
@@ -630,13 +631,25 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [MidasTouch](https://github.com/facebookresearch/MidasTouch)
 - [Tactile-Diffusion](https://github.com/carolinahiguera/Tactile-Diffusion)
 
-
-
-
-
-
-
-
-
+## Laboratory
+- [MIT - Ted Adelson](https://www.csail.mit.edu/person/ted-adelson)
+- [MIT - Alberto Rodriguez - Mcube Lab](https://mcube.mit.edu/)
+- [UIUC - Wenzhen Yuan](https://cs.illinois.edu/about/people/adjunct-faculty/yuanwz)
+- [SJTU - Daolin Ma - MPI Lab](https://mpi.sjtu.edu.cn/index.html)
+- [KCL - Hongbin Liu - HaMMeR Lab](https://kclhammerlab.com/)
+- [KCL - Shan LUo](https://shanluo.github.io/)
+- [Bristol - Nathan F. Lepora](https://lepora.com/)
+- [TU Dresden - Roberto Calandra - LASR Lab](https://lasr.org/)
+- [Tsinghua - Huazhe Xu](http://hxu.rocks/)
+- [Tsinghua - Fuchun Sun](https://scholar.google.com/citations?hl=en&user=DbviELoAAAAJ&view_op=list_works&sortby=pubdate)
+- [Tsinghua - Wenbo Ding - SSR Group](http://ssr-group.net/)
+- [Tsinghua - Yao Jiang](https://ieeexplore.ieee.org/author/37086023995)
+- [Tsinghua - Rui Chen](https://callmeray.github.io/homepage/Home.html)
+- [Max Planck Institute - Katherine J. Kuchenbecker](https://hi.is.mpg.de/)
+- [UMich - Nima Fazeli - Mmint Lab](https://www.mmintlab.com/)
+- [Purdue - Yu She - MARS Lab](https://www.purduemars.com/)
+- [Stanford - Monroe Kennedy III - ARMLab](https://arm.stanford.edu/)
+- [UVA - Gregory J. Gerling - Gerling Touch Lab](https://www.gerlingtouchlab.com/)
+- [Oxford - Perla Maiolino - Soft Robotics Lab](https://www.ori.ox.ac.uk/labs/srl/)
 
 
