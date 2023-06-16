@@ -270,6 +270,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Reflective Optical Tactile Sensor Based on Fiber Specklegram Analysis With the Capability of Contact Position Identification](https://ieeexplore.ieee.org/abstract/document/9990925), Liu et al., Journal of Lightwave Technology 2023
 
+- [A Multimodal Sensing Ring for Quantification of Scratch Intensity](https://arxiv.org/abs/2302.03813.pdf), Padmanabha et al., arxiv 2023
+
 ## Applications
 <!---
 - [](), xxx et al., yyy 2023
