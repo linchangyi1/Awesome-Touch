@@ -207,6 +207,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Real-time and Robust Feature Detection of Continuous Marker Pattern for Dense 3-D Deformation Measurement](https://arxiv.org/abs/2305.11782), Mingxuan et al., arxiv 2023
 
+- [Tactile-Reactive Roller Grasper](https://arxiv.org/abs/2306.09946), Yuan et al., arxiv 2023
+
 <!---
 - [](), xxx et al., yyy 2023
 -->
