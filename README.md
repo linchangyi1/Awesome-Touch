@@ -364,6 +364,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Enabling Robot Manipulation of Soft and Rigid Objects with Vision-based Tactile Sensors](https://arxiv.org/pdf/2306.05791.pdf), Welle et al., arxiv 2023
 
+- [TacMMs: Tactile Mobile Manipulators for Warehouse Automation](https://ieeexplore.ieee.org/abstract/document/10155191), He et al., RAL 2023
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
@@ -387,6 +389,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [TANDEM: Learning Joint Exploration and Decision Making With Tactile Sensors](https://ieeexplore.ieee.org/document/9839393), Xu et al., RAL 2022
 
 - [TANDEM3D: Active Tactile Exploration for 3D Object Recognition](https://arxiv.org/abs/2209.08772), Xu et al., ICRA 2023
+
+- [Multimodal Zero-Shot Learning for Tactile Texture Recognition](https://arxiv.org/abs/2306.12705), Cao et al., arxiv 2023
 
 
 ### Mapping/Localization
