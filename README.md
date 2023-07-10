@@ -209,6 +209,9 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Tactile-Reactive Roller Grasper](https://arxiv.org/abs/2306.09946), Yuan et al., arxiv 2023
 
+- [LensLeech: On-Lens Interaction for Arbitrary Camera Devices](https://arxiv.org/abs/2307.00152), Getschmann et al., arxiv 2023
+
+  
 <!---
 - [](), xxx et al., yyy 2023
 -->
