@@ -211,6 +211,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [LensLeech: On-Lens Interaction for Arbitrary Camera Devices](https://arxiv.org/abs/2307.00152), Getschmann et al., arxiv 2023
 
+- [AllSight: A Low-Cost and High-Resolution Round Tactile Sensor with Zero-Shot Learning Capability](https://arxiv.org/abs/2307.02928), Azulay et al., arxiv 2023
+
   
 <!---
 - [](), xxx et al., yyy 2023
