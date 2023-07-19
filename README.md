@@ -607,6 +607,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [DIGIT_Depth](https://github.com/vocdex/digit-depth)
 - [DIGIT_Interface](https://github.com/facebookresearch/digit-interface)
 - [GelSight-mini_SDK](https://github.com/gelsightinc/gsrobotics)
+- [GelSight-mini_Interface](https://github.com/duyipai/gsmini)
 - [GelSight_Driver](https://github.com/gizatt/gelsight_driver)
 - [GelSight_ROS](https://github.com/hmccarty/gelsight-ros)
 - [GelSight_Conversion](https://github.com/gelsightinc/tactiledemo)
