@@ -373,6 +373,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [TacMMs: Tactile Mobile Manipulators for Warehouse Automation](https://ieeexplore.ieee.org/abstract/document/10155191), He et al., RAL 2023
 
+- [Visual-Tactile Learning of Garment Unfolding for Robot-Assisted Dressing](https://ieeexplore.ieee.org/abstract/document/10185075), Zhang et al., RAL 2023
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
