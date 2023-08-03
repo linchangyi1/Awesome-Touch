@@ -402,6 +402,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Controllable Visual-Tactile Synthesis](https://arxiv.org/abs/2305.03051), Gao et al., arxiv 2023
 
+- [Estimating Properties of Solid Particles Inside Container Using Touch Sensing](https://arxiv.org/pdf/2307.15646.pdf), Guo et al., arxiv 2023
 
 ### Mapping/Localization
 - [Tracking objects with point clouds from vision and touch](https://ieeexplore.ieee.org/abstract/document/7989460), Izatt et al., ICRA 2017
