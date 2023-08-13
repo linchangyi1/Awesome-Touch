@@ -215,6 +215,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [AllSight: A Low-Cost and High-Resolution Round Tactile Sensor with Zero-Shot Learning Capability](https://arxiv.org/abs/2307.02928), Azulay et al., arxiv 2023
 
+- [GelFinger: A Novel Visual-Tactile Sensor With Multi-Angle Tactile Image Stitching](https://ieeexplore.ieee.org/abstract/document/10209180), Lin et al., RAL 2023
+
   
 <!---
 - [](), xxx et al., yyy 2023
@@ -460,6 +462,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [FingerSLAM: Closed-loop Unknown Object Localization and Reconstruction from Visuo-tactile Feedback](https://arxiv.org/abs/2303.07997), Zhao et al., arxiv 2023
 
 - [TactoFind: A Tactile Only System for Object Retrieval](https://arxiv.org/abs/2303.13482), Pai et al., arxiv 2023
+
+- [Touch if it's transparent! ACTOR: Active Tactile-based Category-Level Transparent Object Reconstruction](https://arxiv.org/abs/2307.16254), Murali et al., arxiv 2023
 
 
 
