@@ -217,6 +217,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [GelFinger: A Novel Visual-Tactile Sensor With Multi-Angle Tactile Image Stitching](https://ieeexplore.ieee.org/abstract/document/10209180), Lin et al., RAL 2023
 
+- [OMsense: An Omni Tactile Sensing Principle Inspired by Compound Eyes](https://ieeexplore.ieee.org/abstract/document/10216356), Yu et al., TMech 2023
   
 <!---
 - [](), xxx et al., yyy 2023
@@ -282,6 +283,9 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [Reflective Optical Tactile Sensor Based on Fiber Specklegram Analysis With the Capability of Contact Position Identification](https://ieeexplore.ieee.org/abstract/document/9990925), Liu et al., Journal of Lightwave Technology 2023
 
 - [A Multimodal Sensing Ring for Quantification of Scratch Intensity](https://arxiv.org/abs/2302.03813.pdf), Padmanabha et al., arxiv 2023
+
+- [A novel tactile palm for robotic object manipulation](https://arxiv.org/abs/2308.05386.pdf), Zhao et al., arxiv 2023
+
 
 ## Applications
 <!---
