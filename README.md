@@ -218,7 +218,9 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [GelFinger: A Novel Visual-Tactile Sensor With Multi-Angle Tactile Image Stitching](https://ieeexplore.ieee.org/abstract/document/10209180), Lin et al., RAL 2023
 
 - [OMsense: An Omni Tactile Sensing Principle Inspired by Compound Eyes](https://ieeexplore.ieee.org/abstract/document/10216356), Yu et al., TMech 2023
-  
+
+- [Proprioceptive Learning with Soft Polyhedral Networks](https://arxiv.org/abs/2308.08538), Liu et al., arxiv 2023
+
 <!---
 - [](), xxx et al., yyy 2023
 -->
