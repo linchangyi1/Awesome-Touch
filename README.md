@@ -221,6 +221,9 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Proprioceptive Learning with Soft Polyhedral Networks](https://arxiv.org/abs/2308.08538), Liu et al., arxiv 2023
 
+- [A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing ](https://www.sciencedirect.com/science/article/pii/S2211285523006274), Mu et al., Nano Energy 2023
+
+
 <!---
 - [](), xxx et al., yyy 2023
 -->
@@ -239,6 +242,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [SpecTac: A Visual-Tactile Dual-Modality Sensor Using UV Illumination](https://ieeexplore.ieee.org/abstract/document/9812348), Wang et al., ICRA 2022
 
 - [StereoTac: a Novel Visuotactile Sensor that Combines Tactile Sensing with 3D Vision](https://arxiv.org/abs/2303.06542), Roberge et al., arxiv 2023
+
+- [TIRgel: A Visuo-Tactile Sensor With Total Internal Reflection Mechanism for External Observation and Contact Detection](https://ieeexplore.ieee.org/abstract/document/10224334), Zhang et al., RAL 2023
 
 
 ### Non-Vision-Based
