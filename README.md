@@ -35,6 +35,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 ### Vision-Based
 - [Planar and finger-shaped optical tactile sensors for robotic applications](https://ieeexplore.ieee.org/abstract/document/20431), Begej et al., IEEE Journal on Robotics and Automation 1988
 
+- [A finger-shaped tactile sensor using an optical waveguide](https://ieeexplore.ieee.org/abstract/document/390885), Maekawa et al., SMC 1993
+
 - [Vision-based sensor for real-time measuring of surface traction fields](https://ieeexplore.ieee.org/abstract/document/1381228), Kamiyama et al., CG&A 2005
 
 - [Measurement of force vector field of robotic finger using vision-based haptic sensor](https://ieeexplore.ieee.org/abstract/document/4650712), Sato et al., IROS 2008
