@@ -225,7 +225,9 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Proprioceptive Learning with Soft Polyhedral Networks](https://arxiv.org/abs/2308.08538), Liu et al., arxiv 2023
 
-- [A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing ](https://www.sciencedirect.com/science/article/pii/S2211285523006274), Mu et al., Nano Energy 2023
+- [A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing](https://www.sciencedirect.com/science/article/pii/S2211285523006274), Mu et al., Nano Energy 2023
+
+- [GelFinger: A Novel Visual-Tactile Sensor With Multi-Angle Tactile Image Stitching](https://ieeexplore.ieee.org/abstract/document/10209180), Lin et al., RAL 2023
 
 
 <!---
