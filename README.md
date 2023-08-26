@@ -75,6 +75,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Dense Tactile Force Estimation using GelSlim and inverse FEM](https://ieeexplore.ieee.org/abstract/document/8794113), Ma et al., ICRA 2019
 
+- [An Elastomer-based Flexible Optical Force and Tactile Sensor](https://ieeexplore.ieee.org/abstract/document/8722793), Li et al., RoboSoft 2019
+
 - [Soft-bubble: A highly compliant dense geometry tactile sensor for robot manipulation](https://ieeexplore.ieee.org/abstract/document/8722713), Alspach et al., RoboSoft 2019
 
 - [Event-based Tactile Image Sensor for Detecting Spatio-Temporal Fast Phenomena in Contacts](https://ieeexplore.ieee.org/document/8816132), Kumagai et al., WHC 2019
