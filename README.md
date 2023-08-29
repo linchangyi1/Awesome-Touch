@@ -191,6 +191,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [DTact: A Vision-Based Tactile Sensor that Measures High-Resolution 3D Geometry Directly from Darkness](https://arxiv.org/abs/2209.13916), Lin et al., ICRA 2023
 
+- [9DTact: A Compact Vision-Based Tactile Sensor for Accurate 3D Shape Reconstruction and Generalizable 6D Force Estimation](https://arxiv.org/abs/2308.14277), Lin et al., arxiv 2023
+
 - [A Miniaturised Camera-based Multi-Modal Tactile Sensor](https://arxiv.org/abs/2303.03093), Althoefer et al., arxiv 2023
 
 - [Simulation, Learning, and Application of Vision-Based Tactile Sensing at Large Scale](https://ieeexplore.ieee.org/abstract/document/10054516), Khanh Luu et al., TRO 2023
@@ -603,8 +605,6 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [A general framework for high-resolution robotic tactile sensing: design, simulation, and learning](https://www.research-collection.ethz.ch/handle/20.500.11850/541127), Carmelo Sferrazza, Ph.D., 2022
 
 
-
-
 ## Products
 - [DIGIT](https://www.gelsight.com/product/digit-tactile-sensor/)
 - [GelSight Mini](https://www.gelsight.com/product/gelsight-mini-system/)
@@ -615,6 +615,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 ## Open-Source
 ### Sensor
 - [DTact](https://github.com/linchangyi1/DTact)
+- [9DTact](https://github.com/linchangyi1/9DTact)
 - [GelSlim](https://github.com/mcubelab/gelslim)
 - [DIGIT](https://github.com/facebookresearch/digit-design)
 - [FingerVision](https://github.com/akihikoy/fingervision)
