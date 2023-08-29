@@ -230,6 +230,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [GelFinger: A Novel Visual-Tactile Sensor With Multi-Angle Tactile Image Stitching](https://ieeexplore.ieee.org/abstract/document/10209180), Lin et al., RAL 2023
 
+- [High-Precision 3D Reconstruction Study with Emphasis on Refractive Calibration of GelStereo-Type Sensors](https://www.mdpi.com/1424-8220/23/5/2675), Zhang et al., MDPI Sensors 2023
+
 
 <!---
 - [](), xxx et al., yyy 2023
