@@ -399,6 +399,13 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Grasp Stability Assessment Through Attention-Guided Cross-Modality Fusion and Transfer Learning](https://arxiv.org/abs/2308.00980), Zhang et al., arxiv 2023
 
+- [TactileVAD: Geometric Aliasing-Aware Dynamics for High-Resolution Tactile Control](https://openreview.net/forum?id=FefFLN5FvIM), Oller et al., CoRL 2023
+
+- [Precise Robotic Needle-Threading with Tactile Perception and Reinforcement Learning](https://openreview.net/forum?id=B7PnAw4ze0l), Yu et al., CoRL 2023
+
+- [General In-hand Object Rotation with Vision and Touch](https://openreview.net/forum?id=RN00jfIV-X), Qi et al., CoRL 2023
+
+
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
