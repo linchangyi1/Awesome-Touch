@@ -232,6 +232,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [High-Precision 3D Reconstruction Study with Emphasis on Refractive Calibration of GelStereo-Type Sensors](https://www.mdpi.com/1424-8220/23/5/2675), Zhang et al., MDPI Sensors 2023
 
+- [HSVTac: A High-speed Vision-based Tactile Sensor for Exploring Fingertip Tactile Sensitivity](https://ieeexplore.ieee.org/abstract/document/10234215), Wang et al., IEEE Sensors 2023
+
 
 <!---
 - [](), xxx et al., yyy 2023
