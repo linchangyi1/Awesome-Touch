@@ -546,6 +546,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Investigating Vision Foundational Models for Tactile Representation Learning](https://arxiv.org/abs/2305.00596), Zandonati et al., arxiv 2023
 
+- [In-situ Mechanical Calibration for Vision-based Tactile Sensors](https://ieeexplore.ieee.org/document/10161153), Zhao et al., ICRA 2023
+
 ## Software
 
 ### Simulator
