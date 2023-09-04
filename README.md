@@ -407,6 +407,9 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [General In-hand Object Rotation with Vision and Touch](https://openreview.net/forum?id=RN00jfIV-X), Qi et al., CoRL 2023
 
+- [Inter-finger Small Object Manipulation with DenseTact Optical Tactile Sensor](https://arxiv.org/abs/2308.16480), Do et al., arxiv 2023
+
+- [Embedded Object Detection and Mapping in Soft Materials Using Optical Tactile Sensing](https://arxiv.org/abs/2308.11087), Solano-Castellanos et al., arxiv 2023
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
