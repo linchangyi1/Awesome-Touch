@@ -234,6 +234,10 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [HSVTac: A High-speed Vision-based Tactile Sensor for Exploring Fingertip Tactile Sensitivity](https://ieeexplore.ieee.org/abstract/document/10234215), Wang et al., IEEE Sensors 2023
 
+- [3D Dense Reconstruction of Vision-based Tactile Sensor with Coded Markers](https://ieeexplore.ieee.org/abstract/document/10238349), Xue et al., TIM 2023
+
+- [WSTac: Interactive Surface Perception based on Whisker-Inspired and Self-Illuminated Vision-Based Tactile Sensor](https://arxiv.org/abs/2308.13241), Lei et al., arxiv 2023
+
 
 <!---
 - [](), xxx et al., yyy 2023
