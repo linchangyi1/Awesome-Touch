@@ -503,6 +503,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Touch if it's transparent! ACTOR: Active Tactile-based Category-Level Transparent Object Reconstruction](https://arxiv.org/abs/2307.16254), Murali et al., arxiv 2023
 
+- [ViHOPE: Visuotactile In-Hand Object 6D Pose Estimation with Shape Completion](\https://ieeexplore.ieee.org/abstract/document/10246361?casa_token=4CrEwN3vkykAAAAA:ZaQB2ZPAiVdJlJ048MXCrn0kdWlHub6GWL4LZIG-kTynk17SXpE3dnitDYltNcxCh0cyYg), Li et al., RAL 2023
 
 
 ### Extrinsic Contact Sensing
