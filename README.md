@@ -238,6 +238,12 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [WSTac: Interactive Surface Perception based on Whisker-Inspired and Self-Illuminated Vision-Based Tactile Sensor](https://arxiv.org/abs/2308.13241), Lei et al., arxiv 2023
 
+- [DenseTact-Mini: An Optical Tactile Sensor for Grasping Multi-Scale Objects From Flat Surfaces](https://arxiv.org/abs/2309.08860), Do et al., arxiv 2023
+
+- [GelSight Svelte: A Human Finger-shaped Single-camera Tactile Robot Finger with Large Sensing Coverage and Proprioceptive Sensing](https://arxiv.org/abs/2309.10885), Zhao et al., arxiv 2023
+
+- [GelSight Svelte Hand: A Three-finger, Two-DoF, Tactile-rich, Low-cost Robot Hand for Dexterous Manipulation](https://arxiv.org/abs/2309.10886), Zhao et al., arxiv 2023
+
 
 <!---
 - [](), xxx et al., yyy 2023
@@ -583,6 +589,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [Beyond Flat GelSight Sensors: Simulation of Optical Tactile Sensors of Complex Morphologies for Sim2Real Learning](https://arxiv.org/pdf/2305.12605.pdf), Gomes et al., RSS 2023
 
 - [Marker-Embedded Tactile Image Generation via Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/10146407), Kim et al., RAL 2023
+
+- [Augmenting Tactile Simulators with Real-like and Zero-Shot Capabilities](https://arxiv.org/abs/2309.10409), Azulay et al., RAL 2023
 
 
 ### Library
