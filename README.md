@@ -423,6 +423,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [VisTac Towards a Unified Multi-Modal Sensing Finger for Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/10242327), Athar et al., IEEE Sensors 2023
 
+- [Laboratory Automation: Precision Insertion with Adaptive Fingers utilizing Contact through Sliding with Tactile-based Pose Estimation](https://arxiv.org/abs/2309.16170), Pai et al., arxiv 2023
+
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
@@ -515,9 +517,11 @@ If you want to show your papers here, please add a new issue and provide the tit
 ### Extrinsic Contact Sensing
 - [Extrinsic Contact Sensing with Relative-Motion Tracking from Distributed Tactile Measurements](https://ieeexplore.ieee.org/abstract/document/9561781), Ma et al., ICRA 2021
 
-- [Neural Contact Fields: Tracking Extrinsic Contact with Tactile Sensing](http://arxiv.org/abs/2210.09297), Higuera et al., arxiv 2022
-
 - [Simultaneous Tactile Estimation and Control of Extrinsic Contact](https://arxiv.org/abs/2303.03385), Kim et al., ICRA 2023
+
+- [Neural Contact Fields: Tracking Extrinsic Contact with Tactile Sensing](http://arxiv.org/abs/2210.09297), Higuera et al., ICRA 2023
+
+- [Perceiving Extrinsic Contacts from Touch Improves Learning Insertion Policies](https://arxiv.org/abs/2309.16652), Higuera et al., arxiv 2023
 
 
 ### Tactile Image Generation
