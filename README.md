@@ -244,6 +244,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [GelSight Svelte Hand: A Three-finger, Two-DoF, Tactile-rich, Low-cost Robot Hand for Dexterous Manipulation](https://arxiv.org/abs/2309.10886), Zhao et al., arxiv 2023
 
+- [A Vision-Based Tactile Sensing System for Multimodal Contact Information Perception via Neural Network](https://arxiv.org/abs/2310.01986), Xu et al., arxiv 2023
+
 
 <!---
 - [](), xxx et al., yyy 2023
