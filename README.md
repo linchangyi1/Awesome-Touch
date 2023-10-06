@@ -628,20 +628,17 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 ## Thesis
 - [Tactile Measurement with a GelSight Sensor](http://dspace.mit.edu/handle/1721.1/93815), Wenzhen Yuan, Master, 2014
+- [Touching is believing : sensing and analyzing touch information with GelSight](http://dspace.mit.edu/handle/1721.1/99834), Rui Li, Ph.D., 2015
 - [Robust object pose estimation with point clouds from vision and touch](http://dspace.mit.edu/handle/1721.1/111867), Gregory Russell, Master, 2017
+- [High-resolution tactile sensing for robotic perception](http://dspace.mit.edu/handle/1721.1/120267), Wenzhen Yuan, Ph.D., 2018
 - [3D shape perception from vision and touch](http://dspace.mit.edu/handle/1721.1/122914), Shaoxiong Wang, Master, 2019
+- [Reactive manipulation with contact models and tactile feedback](http://dspace.mit.edu/handle/1721.1/125476), Francois R. Hogan, Ph.D., 2020
+- [Data-driven Tactile Sensing using Spatially Overlapping Signals](https://www.proquest.com/openview/2fe76b59ca5836dc691847d611775430/1?pq-origsite=gscholar&cbl=18750&diss=y), Pedro Piacenza, Ph.D., 2020
 - [Vision-based proprioception of a soft robotic finger with tactile sensing](http://dspace.mit.edu/handle/1721.1/127131), Sandra Q. Liu, Master, 2020
 - [Discovering the patterns of human-environment interactions using scalable functional textiles](http://dspace.mit.edu/handle/1721.1/128628), Yiyue Luo, Master, 2020
 - [Deformable Object Manipulation with a Tactile Reactive Gripper](http://dspace.mit.edu/handle/1721.1/139946), Neha Sunil, Master, 2021
-
-
-- [Touching is believing : sensing and analyzing touch information with GelSight](http://dspace.mit.edu/handle/1721.1/99834), Rui Li, Ph.D., 2015
-- [High-resolution tactile sensing for robotic perception](http://dspace.mit.edu/handle/1721.1/120267), Wenzhen Yuan, Ph.D., 2018
-- [Reactive manipulation with contact models and tactile feedback](http://dspace.mit.edu/handle/1721.1/125476), Francois R. Hogan, Ph.D., 2020
-- [Data-driven Tactile Sensing using Spatially Overlapping Signals](https://www.proquest.com/openview/2fe76b59ca5836dc691847d611775430/1?pq-origsite=gscholar&cbl=18750&diss=y), Pedro Piacenza, Ph.D., 2020
 - [High-resolution Tactile Sensing for Reactive Robotic Manipulation](http://dspace.mit.edu/handle/1721.1/130764), Siyuan Dong, Ph.D., 2021
 - [A general framework for high-resolution robotic tactile sensing: design, simulation, and learning](https://www.research-collection.ethz.ch/handle/20.500.11850/541127), Carmelo Sferrazza, Ph.D., 2022
-
 
 ## Products
 - [DIGIT](https://www.gelsight.com/product/digit-tactile-sensor/)
