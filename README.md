@@ -642,6 +642,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [Data-driven Tactile Sensing using Spatially Overlapping Signals](https://www.proquest.com/openview/2fe76b59ca5836dc691847d611775430/1?pq-origsite=gscholar&cbl=18750&diss=y), Pedro Piacenza, Ph.D., 2020
 - [High-resolution Tactile Sensing for Reactive Robotic Manipulation](http://dspace.mit.edu/handle/1721.1/130764), Siyuan Dong, Ph.D., 2021
 - [A general framework for high-resolution robotic tactile sensing: design, simulation, and learning](https://www.research-collection.ethz.ch/handle/20.500.11850/541127), Carmelo Sferrazza, Ph.D., 2022
+- [Interactive Touch for Manipulation](https://dspace.mit.edu/handle/1721.1/147267), Shaoxiong Wang, Ph.D., 2022
 
 
 ## Products
