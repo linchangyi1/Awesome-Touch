@@ -600,6 +600,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Augmenting Tactile Simulators with Real-like and Zero-Shot Capabilities](https://arxiv.org/abs/2309.10409), Azulay et al., RAL 2023
 
+- [Tactile Imprint Simulation of GelStereo Visuotactile Sensors](https://ieeexplore.ieee.org/abstract/document/10216245), Cui et al., ICMA 2023
+
 
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
