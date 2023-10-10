@@ -14,7 +14,7 @@ If you want to show your papers here, please add a new issue and provide the tit
   - [Classification/Recognition](#classificationrecognition)
   - [Mapping/Localization](#mappinglocalization)
   - [Extrinsic Contact Sensing](#extrinsic-contact-sensing)
-  - [Tactile Image Generation](#tactile-image-generation)
+  - [Image Generation](#image-generation)
   - [Dexterous Hand Manipulation](#dexterous-hand-manipulation)
   - [Others](#others)
 - [Software](#software)
