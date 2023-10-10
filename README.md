@@ -7,7 +7,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Sensors](#sensors)
   - [Vision-Based](#vision-based)
-  - [Visual-Tactile (Multimodals)](#visual-tactile)
+  - [Visual-Tactile (Multimodal)](#visual-tactile)
   - [Non-Vision-Based](#non-vision-based)
 - [Applications](#applications)
   - [Manipulation/Grasping](#manipulationgrasping)
