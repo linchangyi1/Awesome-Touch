@@ -246,6 +246,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [A Vision-Based Tactile Sensing System for Multimodal Contact Information Perception via Neural Network](https://arxiv.org/abs/2310.01986), Xu et al., arxiv 2023
 
+- [Towards Design and Development of an ArUco Markers-Based Quantitative Surface Tactile Sensor](https://arxiv.org/abs/2310.08398), Kara et al., arxiv 2023
+
 
 <!---
 - [](), xxx et al., yyy 2023
