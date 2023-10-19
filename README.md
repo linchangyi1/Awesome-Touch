@@ -248,6 +248,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Towards Design and Development of an ArUco Markers-Based Quantitative Surface Tactile Sensor](https://arxiv.org/abs/2310.08398), Kara et al., arxiv 2023
 
+- [3D Force and Contact Estimation for a Soft-Bubble Visuotactile Sensor Using FEM](https://arxiv.org/abs/2310.11372), Peng et al., arxiv 2023
 
 <!---
 - [](), xxx et al., yyy 2023
