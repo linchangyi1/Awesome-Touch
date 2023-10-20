@@ -250,7 +250,9 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [3D Force and Contact Estimation for a Soft-Bubble Visuotactile Sensor Using FEM](https://arxiv.org/abs/2310.11372), Peng et al., arxiv 2023
 
-- [Dynamic Focusing (DF) Cone-Based Omnidirectional Fingertip Pressure Sensor with High Sensitivity in a Wide Pressure Range]([https://arxiv.org/abs/2310.11372](https://www.mdpi.com/1424-8220/23/20/8450)), Seo et al., MDPI Sensors 2023
+- [Dynamic Focusing (DF) Cone-Based Omnidirectional Fingertip Pressure Sensor with High Sensitivity in a Wide Pressure Range](https://www.mdpi.com/1424-8220/23/20/8450), Seo et al., MDPI Sensors 2023
+
+- [MC-Tac: Modular Camera-Based Tactile Sensor for Robot Gripper](https://link.springer.com/chapter/10.1007/978-981-99-6495-6_15), Ren et al., ICIRA 2023
 
 <!---
 - [](), xxx et al., yyy 2023
