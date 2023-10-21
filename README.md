@@ -434,6 +434,9 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Laboratory Automation: Precision Insertion with Adaptive Fingers utilizing Contact through Sliding with Tactile-based Pose Estimation](https://arxiv.org/abs/2309.16170), Pai et al., arxiv 2023
 
+- [AcTExplore: Active Tactile Exploration on Unknown Objects](https://arxiv.org/abs/2310.08745), Shahidzadeh et al., arxiv 2023
+
+
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
