@@ -275,6 +275,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [TIRgel: A Visuo-Tactile Sensor With Total Internal Reflection Mechanism for External Observation and Contact Detection](https://ieeexplore.ieee.org/abstract/document/10224334), Zhang et al., RAL 2023
 
+- [VisTac Toward a Unified Multimodal Sensing Finger for Robotic Manipulation](https://ieeexplore.ieee.org/document/10242327), Athar et al., IEEE Sensors 2023
 
 ### Non-Vision-Based
 
