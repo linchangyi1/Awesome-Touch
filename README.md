@@ -437,6 +437,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [AcTExplore: Active Tactile Exploration on Unknown Objects](https://arxiv.org/abs/2310.08745), Shahidzadeh et al., arxiv 2023
 
+- [MimicTouch: Learning Human's Control Strategy with Multi-Modal Tactile Feedbacks](https://arxiv.org/abs/2310.16917), Yu et al., arxiv 2023
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
