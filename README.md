@@ -533,6 +533,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Sliding Touch-based Exploration for Modeling Unknown Object Shape with Multi-fingered Hands](https://arxiv.org/pdf/2308.00576.pdf), Chen et al., IROS 2023
 
+- [Collision-aware In-hand 6D Object Pose Estimation using Multiple Vision-based Tactile Sensors](https://ieeexplore.ieee.org/document/10160359), Caddeo et al., ICRA 2023
+
 
 ### Extrinsic Contact Sensing
 - [Extrinsic Contact Sensing with Relative-Motion Tracking from Distributed Tactile Measurements](https://ieeexplore.ieee.org/abstract/document/9561781), Ma et al., ICRA 2021
@@ -693,6 +695,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 ### Sensor Support
 - [DIGIT_Depth](https://github.com/vocdex/digit-depth)
 - [DIGIT_Interface](https://github.com/facebookresearch/digit-interface)
+- [DIGIT_Simulator](https://github.com/hsp-iit/gazebo-yarp-digit-plugin)
 - [GelSight-mini_SDK](https://github.com/gelsightinc/gsrobotics)
 - [GelSight-mini_Interface](https://github.com/duyipai/gsmini)
 - [GelSight_Driver](https://github.com/gizatt/gelsight_driver)
