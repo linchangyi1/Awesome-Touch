@@ -535,6 +535,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Collision-aware In-hand 6D Object Pose Estimation using Multiple Vision-based Tactile Sensors](https://ieeexplore.ieee.org/document/10160359), Caddeo et al., ICRA 2023
 
+- [Tactile-Filter: Interactive Tactile Perception for Part Mating](https://arxiv.org/abs/2303.06034), Ota et al., RSS 2023
+
 
 ### Extrinsic Contact Sensing
 - [Extrinsic Contact Sensing with Relative-Motion Tracking from Distributed Tactile Measurements](https://ieeexplore.ieee.org/abstract/document/9561781), Ma et al., ICRA 2021
