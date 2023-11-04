@@ -471,6 +471,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Aerial Interaction with Tactile Sensing](https://arxiv.org/abs/2310.00142), Guo et al., arxiv 2023
 
+- [Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors](https://arxiv.org/abs/2311.0380), Caddeo et al., arxiv 2023
+
 
 ### Mapping/Localization
 - [Tracking objects with point clouds from vision and touch](https://ieeexplore.ieee.org/abstract/document/7989460), Izatt et al., ICRA 2017
