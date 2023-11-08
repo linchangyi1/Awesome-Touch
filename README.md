@@ -539,6 +539,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Tactile-Filter: Interactive Tactile Perception for Part Mating](https://arxiv.org/abs/2303.06034), Ota et al., RSS 2023
 
+- [Enhanced Information Extraction from Cylindrical Visual-Tactile Sensors via Image Fusion](https://arxiv.org/abs/2311.04002), Li et al., arxiv 2023
 
 ### Extrinsic Contact Sensing
 - [Extrinsic Contact Sensing with Relative-Motion Tracking from Distributed Tactile Measurements](https://ieeexplore.ieee.org/abstract/document/9561781), Ma et al., ICRA 2021
