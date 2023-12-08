@@ -254,6 +254,9 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [MC-Tac: Modular Camera-Based Tactile Sensor for Robot Gripper](https://link.springer.com/chapter/10.1007/978-981-99-6495-6_15), Ren et al., ICIRA 2023
 
+- [Evetac: An Event-based Optical Tactile Sensor for Robotic Manipulation](https://arxiv.org/abs/2312.01236), Funk et al., TRO 2023
+
+
 <!---
 - [](), xxx et al., yyy 2023
 -->
@@ -440,6 +443,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [MimicTouch: Learning Human's Control Strategy with Multi-Modal Tactile Feedbacks](https://arxiv.org/abs/2310.16917), Yu et al., arxiv 2023
 
 - [Tactile Active Inference Reinforcement Learning for Efficient Robotic Manipulation Skill Acquisition](https://arxiv.org/abs/2311.11287), Liu et al., arxiv 2023
+
+- [Evetac: An Event-based Optical Tactile Sensor for Robotic Manipulation](https://arxiv.org/abs/2312.01236), Funk et al., TRO 2023
 
 
 ### Classification/Recognition
