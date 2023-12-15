@@ -1,5 +1,5 @@
 # Awesome Touch [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-Owing to my personal interest (I am the author of [**DTact**](https://sites.google.com/view/dtact-sensor) and [**9DTact**](https://linchangyi1.github.io/9DTact/)), this collection may focus more on vision-based tactile sensors and learning-based applications.
+Owing to my personal interest (I am the author of [**DTact**](https://sites.google.com/view/dtact-sensor) and [**9DTact**](https://linchangyi1.github.io/9DTact/)), this collection may focus on vision-based tactile sensors and learning-based applications.
 
 If you want to show your papers here, please add a new issue and provide the titles and other relative information. Thanks a lot.
 
