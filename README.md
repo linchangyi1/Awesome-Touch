@@ -446,6 +446,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Evetac: An Event-based Optical Tactile Sensor for Robotic Manipulation](https://arxiv.org/abs/2312.01236), Funk et al., TRO 2023
 
+- [Pose and shear-based tactile servoing](https://arxiv.org/abs/2312.08411.pdf), Lloyd et al., IJRR 2023
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
