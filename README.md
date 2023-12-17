@@ -280,6 +280,9 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [VisTac Toward a Unified Multimodal Sensing Finger for Robotic Manipulation](https://ieeexplore.ieee.org/document/10242327), Athar et al., IEEE Sensors 2023
 
+- [CompdVision: Combining Near-Field 3D Visual and Tactile Sensing Using a Compact Compound-Eye Imaging System](https://arxiv.org/pdf/2312.07146.pdf), Luo et al., arxiv 2023
+
+
 ### Non-Vision-Based
 
 - [Magnetic Resonance-Compatible Tactile Force Sensor Using Fiber Optics and Vision Sensor](https://ieeexplore.ieee.org/abstract/document/6600735), Xie et al.,  IEEE Sensors 2014
