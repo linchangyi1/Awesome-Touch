@@ -256,6 +256,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Evetac: An Event-based Optical Tactile Sensor for Robotic Manipulation](https://arxiv.org/abs/2312.01236), Funk et al., TRO 2023
 
+- [GelStereo BioTip: Self-Calibrating Bionic Fingertip Visuotactile Sensor for Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/10358360), Cui et al., TMech 2023
+
 
 <!---
 - [](), xxx et al., yyy 2023
@@ -451,6 +453,9 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Pose and shear-based tactile servoing](https://arxiv.org/abs/2312.08411.pdf), Lloyd et al., IJRR 2023
 
+- [GelStereo BioTip: Self-Calibrating Bionic Fingertip Visuotactile Sensor for Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/10358360), Cui et al., TMech 2023
+
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
@@ -484,6 +489,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [Aerial Interaction with Tactile Sensing](https://arxiv.org/abs/2310.00142), Guo et al., arxiv 2023
 
 - [Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors](https://arxiv.org/abs/2311.0380), Caddeo et al., arxiv 2023
+
+- [A Predictive Model for Tactile Force Estimation using Audio-Tactile Data](https://ieeexplore.ieee.org/abstract/document/10347357), Niederhauser et al., RAL 2023
 
 
 ### Mapping/Localization
