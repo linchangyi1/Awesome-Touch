@@ -455,6 +455,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [GelStereo BioTip: Self-Calibrating Bionic Fingertip Visuotactile Sensor for Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/10358360), Cui et al., TMech 2023
 
+- [Neural feels with neural fields: Visuo-tactile perception for in-hand manipulation](https://arxiv.org/abs/2312.13469), Suresh et al., arxiv 2023
+
 
 
 ### Classification/Recognition
