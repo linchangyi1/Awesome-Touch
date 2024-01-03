@@ -258,6 +258,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [GelStereo BioTip: Self-Calibrating Bionic Fingertip Visuotactile Sensor for Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/10358360), Cui et al., TMech 2023
 
+- [A Soft and Inflatable Vision-Based Tactile Sensor for Inspection of Constrained and Confined Spaces](https://ieeexplore.ieee.org/document/10292571), Kim et al., IEEE Sensors 2023
+
 
 <!---
 - [](), xxx et al., yyy 2023
