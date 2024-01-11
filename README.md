@@ -334,6 +334,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [A novel tactile palm for robotic object manipulation](https://arxiv.org/abs/2308.05386.pdf), Zhao et al., arxiv 2023
 
+- [Highly Interpretable Representation for Multi-Dimensional Tactile Perception](https://ieeexplore.ieee.org/abstract/document/10381648), Gui et al., IEEE Transactions on Medical Robotics and Bionics 2024
+
 
 ## Applications
 <!---
