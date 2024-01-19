@@ -580,6 +580,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Perceiving Extrinsic Contacts from Touch Improves Learning Insertion Policies](https://arxiv.org/abs/2309.16652), Higuera et al., arxiv 2023
 
+- [Simultaneous Tactile Estimation and Control for Extrinsic Dexterity](https://arxiv.org/abs/2401.10230), Bronars et al., arxiv 2023
+
 
 ### Image Generation
 - [Deep Tactile Experience: Estimating Tactile Sensor Output from Depth Sensor Data](https://ieeexplore.ieee.org/abstract/document/9341596), Patel et al., IROS 2020
