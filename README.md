@@ -190,7 +190,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [DTact: A Vision-Based Tactile Sensor that Measures High-Resolution 3D Geometry Directly from Darkness](https://arxiv.org/abs/2209.13916), Lin et al., ICRA 2023
 
-- [9DTact: A Compact Vision-Based Tactile Sensor for Accurate 3D Shape Reconstruction and Generalizable 6D Force Estimation](https://ieeexplore.ieee.org/document/10342722), Lin et al., RAl 2023
+- [9DTact: A Compact Vision-Based Tactile Sensor for Accurate 3D Shape Reconstruction and Generalizable 6D Force Estimation](https://arxiv.org/abs/2308.14277), Lin et al., RAL 2023
 
 - [A Miniaturised Camera-based Multi-Modal Tactile Sensor](https://arxiv.org/abs/2303.03093), Althoefer et al., arxiv 2023
 
@@ -569,6 +569,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [TouchSDF: A DeepSDF Approach for 3D Shape Reconstruction using Vision-Based Tactile Sensing](https://arxiv.org/abs/2311.12602), Comi et al., arxiv 2023
 
 - [Grasping, Part Identification, and Pose Refinement in One Shot with a Tactile Gripper](https://arxiv.org/abs/2312.17650), Lim et al., arxiv 2023
+
+- [Measuring Object Rotation via Visuo-Tactile Segmentation of Grasping Region](https://ieeexplore.ieee.org/abstract/document/10149493), Castano-Amoros et al., RAL 2023
 
 
 ### Extrinsic Contact Sensing
