@@ -629,6 +629,9 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [In-situ Mechanical Calibration for Vision-based Tactile Sensors](https://ieeexplore.ieee.org/document/10161153), Zhao et al., ICRA 2023
 
+- [Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training](https://arxiv.org/abs/2401.12024), Dave et al., arxiv 2024
+
+
 ## Software
 
 ### Simulator
