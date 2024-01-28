@@ -260,6 +260,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [A Soft and Inflatable Vision-Based Tactile Sensor for Inspection of Constrained and Confined Spaces](https://ieeexplore.ieee.org/document/10292571), Kim et al., IEEE Sensors 2023
 
+- [AELTac: A vision-based electroluminescent tactile sensing skin for force localization and magnitude estimation](https://ieeexplore.ieee.org/document/10413302), Fu et al., IEEE Sensors 2024
 
 <!---
 - [](), xxx et al., yyy 2023
