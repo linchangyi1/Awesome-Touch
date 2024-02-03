@@ -466,6 +466,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Neural feels with neural fields: Visuo-tactile perception for in-hand manipulation](https://arxiv.org/abs/2312.13469), Suresh et al., arxiv 2023
 
+- [TEXterity: Tactile Extrinsic deXterity](https://arxiv.org/abs/2401.10230), Bronars et al., arxiv 2024
+
 
 
 ### Classification/Recognition
@@ -588,6 +590,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [Perceiving Extrinsic Contacts from Touch Improves Learning Insertion Policies](https://arxiv.org/abs/2309.16652), Higuera et al., arxiv 2023
 
 - [Simultaneous Tactile Estimation and Control for Extrinsic Dexterity](https://arxiv.org/abs/2401.10230), Bronars et al., arxiv 2023
+
+- [TEXterity: Tactile Extrinsic deXterity](https://arxiv.org/abs/2401.10230), Bronars et al., arxiv 2024
 
 
 ### Image Generation
