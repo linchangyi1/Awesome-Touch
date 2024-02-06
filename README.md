@@ -262,9 +262,11 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [AELTac: A vision-based electroluminescent tactile sensing skin for force localization and magnitude estimation](https://ieeexplore.ieee.org/document/10413302), Fu et al., IEEE Sensors 2024
 
-- [TSATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear](https://arxiv.org/pdf/2402.00585.pdf), Song et al., arxiv 2024
+- [TSATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear](https://arxiv.org/abs/2402.00585), Song et al., arxiv 2024
 
-- [ViTacTip: Design and Verification of a Novel Biomimetic Physical Vision-Tactile Fusion Sensor](https://arxiv.org/pdf/2402.00199.pdf), Fan et al., arxiv 2024
+- [ViTacTip: Design and Verification of a Novel Biomimetic Physical Vision-Tactile Fusion Sensor](https://arxiv.org/abs/2402.00199), Fan et al., arxiv 2024
+
+- [MagicTac: A Novel High-Resolution 3D Multi-layer Grid-Based Tactile Sensor](https://arxiv.org/abs/2402.01366), Fan et al., arxiv 2024
 
 <!---
 - [](), xxx et al., yyy 2023
