@@ -768,6 +768,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [TACTO](https://github.com/facebookresearch/tacto)
 - [Taxim](https://github.com/CMURoboTouch/Taxim)
 - [GelSight-Sim2Real](https://github.com/RVSATHU/GelSight-Sim2Real)
+- [DIGIT-Mujoco](https://github.com/L3S/TACTO-MuJoCo)
 - [DIGIT-Gazebo](https://github.com/hsp-iit/gazebo-yarp-digit-plugin)
 - [PyTouch](https://github.com/facebookresearch/PyTouch)
 - [PyTact](https://github.com/hmccarty/pytact)
