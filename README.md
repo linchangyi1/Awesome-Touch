@@ -507,6 +507,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [A Predictive Model for Tactile Force Estimation using Audio-Tactile Data](https://ieeexplore.ieee.org/abstract/document/10347357), Niederhauser et al., RAL 2023
 
+- [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://arxiv.org/abs/2402.13232), Fu et al., arxiv 2024
+
 
 ### Mapping/Localization
 - [Tracking objects with point clouds from vision and touch](https://ieeexplore.ieee.org/abstract/document/7989460), Izatt et al., ICRA 2017
@@ -782,6 +784,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [ObjectFolder](https://ai.stanford.edu/~rhgao/objectfolder/)
 - [ObjectFolder 2.0](https://ai.stanford.edu/~rhgao/objectfolder2.0/)
 - [ObjectFolder 3.0](https://www.objectfolder.org/)
+- [TVL](https://tactile-vlm.github.io/)
 
 ### Algorithms
 - [ShapeMap 3-D](https://github.com/rpl-cmu/shape-map-3D)
