@@ -470,6 +470,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [TEXterity: Tactile Extrinsic deXterity](https://arxiv.org/abs/2401.10230), Bronars et al., arxiv 2024
 
+- [Tac-Man: Tactile-Informed Prior-Free Manipulation of Articulated Objects](https://arxiv.org/abs/2403.01694), Zhao et al., arxiv 2024
+
 
 
 ### Classification/Recognition
