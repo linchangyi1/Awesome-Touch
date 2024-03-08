@@ -807,6 +807,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [KCL - Shan LUo](https://shanluo.github.io/)
 - [KCL - Hongbin Liu - HaMMeR Lab](https://kclhammerlab.com/)
 - [Bristol - Nathan F. Lepora](https://lepora.com/)
+- [QMUL - Kaspar Althoefer](https://www.sems.qmul.ac.uk/staff/k.althoefer)
 - [TU Dresden - Roberto Calandra - LASR Lab](https://lasr.org/)
 - [Tsinghua - Huazhe Xu](http://hxu.rocks/)
 - [Tsinghua - Fuchun Sun](https://scholar.google.com/citations?hl=en&user=DbviELoAAAAJ&view_op=list_works&sortby=pubdate)
