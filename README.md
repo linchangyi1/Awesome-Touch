@@ -268,6 +268,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [MagicTac: A Novel High-Resolution 3D Multi-layer Grid-Based Tactile Sensor](https://arxiv.org/abs/2402.01366), Fan et al., arxiv 2024
 
+- [Scalable, Simulation-Guided Compliant Tactile Finger Design](https://arxiv.org/pdf/2403.04638), Ma et al., arxiv 2024
+
 <!---
 - [](), xxx et al., yyy 2023
 -->
