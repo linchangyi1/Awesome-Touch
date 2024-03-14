@@ -270,6 +270,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Scalable, Simulation-Guided Compliant Tactile Finger Design](https://arxiv.org/pdf/2403.04638), Ma et al., arxiv 2024
 
+- [Using Fiber Optic Bundles to Miniaturize Vision-Based Tactile Sensors](https://arxiv.org/pdf/2403.05500.pdf), Di et al., TRO 2024
+
 <!---
 - [](), xxx et al., yyy 2023
 -->
@@ -473,6 +475,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [TEXterity: Tactile Extrinsic deXterity](https://arxiv.org/abs/2401.10230), Bronars et al., arxiv 2024
 
 - [Tac-Man: Tactile-Informed Prior-Free Manipulation of Articulated Objects](https://arxiv.org/abs/2403.01694), Zhao et al., arxiv 2024
+
+- [LeTac-MPC: Learning Model Predictive Control for Tactile-reactive Grasping](https://arxiv.org/pdf/2403.04934), Xu et al., arxiv 2024
 
 
 
