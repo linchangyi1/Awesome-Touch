@@ -478,6 +478,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [LeTac-MPC: Learning Model Predictive Control for Tactile-reactive Grasping](https://arxiv.org/pdf/2403.04934), Xu et al., arxiv 2024
 
+- [Visuo-Tactile Pretraining for Cable Plugging](https://arxiv.org/pdf/2403.11898), George et al., arxiv 2024
+
 
 
 ### Classification/Recognition
