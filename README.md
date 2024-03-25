@@ -270,6 +270,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Scalable, Simulation-Guided Compliant Tactile Finger Design](https://arxiv.org/pdf/2403.04638), Ma et al., arxiv 2024
 
+- [GelLink: A Compact Multi-phalanx Finger with Vision-based Tactile Sensing and Proprioception](https://arxiv.org/pdf/2403.14887), Ma et al., arxiv 2024
+
 - [Using Fiber Optic Bundles to Miniaturize Vision-Based Tactile Sensors](https://arxiv.org/pdf/2403.05500.pdf), Di et al., TRO 2024
 
 <!---
