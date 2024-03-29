@@ -656,6 +656,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training](https://arxiv.org/abs/2401.12024), Dave et al., arxiv 2024
 
+- [Low-Cost Teleoperation with Haptic Feedback through Vision-based Tactile Sensors for Rigid and Soft Object Manipulation](https://arxiv.org/pdf/2403.16764), Lippi et al., arxiv 2024
+
 
 ## Software
 
