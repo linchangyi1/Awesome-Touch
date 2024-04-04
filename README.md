@@ -482,6 +482,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Visuo-Tactile Pretraining for Cable Plugging](https://arxiv.org/pdf/2403.11898), George et al., arxiv 2024
 
+- [Stable Object Placing using Curl and Diff Features of Vision-based Tactile Sensors](https://arxiv.org/pdf/2403.19129), Takahashi et al., arxiv 2024
+
 
 
 ### Classification/Recognition
@@ -594,6 +596,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [Grasping, Part Identification, and Pose Refinement in One Shot with a Tactile Gripper](https://arxiv.org/abs/2312.17650), Lim et al., arxiv 2023
 
 - [Measuring Object Rotation via Visuo-Tactile Segmentation of Grasping Region](https://ieeexplore.ieee.org/abstract/document/10149493), Castano-Amoros et al., RAL 2023
+
+- [Snap-it, Tap-it, Splat-it: Tactile-Informed 3D Gaussian Splatting for Reconstructing Challenging Surfaces](https://arxiv.org/pdf/2403.20275), Comi et al., arxiv 2024
 
 
 ### Extrinsic Contact Sensing
