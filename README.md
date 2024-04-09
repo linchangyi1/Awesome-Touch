@@ -597,6 +597,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Measuring Object Rotation via Visuo-Tactile Segmentation of Grasping Region](https://ieeexplore.ieee.org/abstract/document/10149493), Castano-Amoros et al., RAL 2023
 
+- [TransTouch: Learning Transparent Objects Depth Sensing Through Sparse Touches](https://ieeexplore.ieee.org/abstract/document/10341417), Bian et al., IROS 2023
+
 - [Snap-it, Tap-it, Splat-it: Tactile-Informed 3D Gaussian Splatting for Reconstructing Challenging Surfaces](https://arxiv.org/pdf/2403.20275), Comi et al., arxiv 2024
 
 
@@ -697,6 +699,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 - [Tactile Imprint Simulation of GelStereo Visuotactile Sensors](https://ieeexplore.ieee.org/abstract/document/10216245), Cui et al., ICMA 2023
 
 - [TacIPC: Intersection- and Inversion-free FEM-based Elastomer Simulation For Optical Tactile Sensors](https://arxiv.org/abs/2311.05843), Du et al., arxiv 2023
+
+- [General-Purpose Sim2Real Protocol for Learning Contact-Rich Manipulation With Marker-Based Visuotactile Sensors](https://ieeexplore.ieee.org/document/10388459/), Chen et al., TRO 2024
 
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
