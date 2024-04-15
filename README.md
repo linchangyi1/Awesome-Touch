@@ -274,6 +274,10 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Using Fiber Optic Bundles to Miniaturize Vision-Based Tactile Sensors](https://arxiv.org/pdf/2403.05500.pdf), Di et al., TRO 2024
 
+- [BioTacTip: A Soft Biomimetic Optical Tactile Sensor for Efficient 3D Contact Localization and 3D Force Estimation](https://ieeexplore.ieee.org/abstract/document/10496158), Li et al., RAL 2024
+
+
+
 <!---
 - [](), xxx et al., yyy 2023
 -->
