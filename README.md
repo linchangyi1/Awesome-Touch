@@ -276,6 +276,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [BioTacTip: A Soft Biomimetic Optical Tactile Sensor for Efficient 3D Contact Localization and 3D Force Estimation](https://ieeexplore.ieee.org/abstract/document/10496158), Li et al., RAL 2024
 
+- [A Passively Bendable, Compliant Tactile Palm with RObotic Modular Endoskeleton Optical (ROMEO) Fingers](https://arxiv.org/pdf/2404.08227.pdf), Liu et al., arxiv 2024
 
 
 <!---
