@@ -489,6 +489,7 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Stable Object Placing using Curl and Diff Features of Vision-based Tactile Sensors](https://arxiv.org/pdf/2403.19129), Takahashi et al., arxiv 2024
 
+- [DexiTac: Soft Dexterous Tactile Gripping](https://ieeexplore.ieee.org/abstract/document/10505922), Lu et al., Transactions on Mechatronics 2024
 
 
 ### Classification/Recognition
