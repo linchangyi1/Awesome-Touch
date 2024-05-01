@@ -708,6 +708,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [General-Purpose Sim2Real Protocol for Learning Contact-Rich Manipulation With Marker-Based Visuotactile Sensors](https://ieeexplore.ieee.org/document/10388459/), Chen et al., TRO 2024
 
+- [FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills](https://arxiv.org/pdf/2404.19217), Zhao et al., arxiv 2024
+
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
 
