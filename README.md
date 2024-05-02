@@ -491,6 +491,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [DexiTac: Soft Dexterous Tactile Gripping](https://ieeexplore.ieee.org/abstract/document/10505922), Lu et al., Transactions on Mechatronics 2024
 
+- [Learning Tactile Insertion in the Real World](https://arxiv.org/abs/2405.00383), Palenicek et al., arxiv 2024
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
