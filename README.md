@@ -493,6 +493,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Learning Tactile Insertion in the Real World](https://arxiv.org/abs/2405.00383), Palenicek et al., arxiv 2024
 
+- [Generalize by Touching: Tactile Ensemble Skill Transfer for Robotic Furniture Assembly](https://arxiv.org/pdf/2404.17684), Lin et al., ICRA 2024
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
