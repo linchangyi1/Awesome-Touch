@@ -611,6 +611,8 @@ If you want to show your papers here, please add a new issue and provide the tit
 
 - [Snap-it, Tap-it, Splat-it: Tactile-Informed 3D Gaussian Splatting for Reconstructing Challenging Surfaces](https://arxiv.org/pdf/2403.20275), Comi et al., arxiv 2024
 
+- [Tactile-Augmented Radiance Fields](https://arxiv.org/abs/2405.04534), Dou et al., CVPR 2024
+
 
 ### Extrinsic Contact Sensing
 - [Extrinsic Contact Sensing with Relative-Motion Tracking from Distributed Tactile Measurements](https://ieeexplore.ieee.org/abstract/document/9561781), Ma et al., ICRA 2021
