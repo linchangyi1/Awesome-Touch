@@ -1,5 +1,4 @@
 # Awesome Touch [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-This is a collection of research on vision-based tactile sensors and their applications.
 
 To include your papers, please submit a new issue with the titles and necessary details. Thank you.
 
