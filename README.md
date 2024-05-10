@@ -532,6 +532,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://arxiv.org/abs/2402.13232), Fu et al., arxiv 2024
 
+- [Octopi: Object Property Reasoning with Large Tactile-Language Models](https://arxiv.org/pdf/2405.02794), Yu et al., arxiv 2024
+
 
 ### Mapping/Localization
 - [Tracking objects with point clouds from vision and touch](https://ieeexplore.ieee.org/abstract/document/7989460), Izatt et al., ICRA 2017
@@ -714,6 +716,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [General-Purpose Sim2Real Protocol for Learning Contact-Rich Manipulation With Marker-Based Visuotactile Sensors](https://ieeexplore.ieee.org/document/10388459/), Chen et al., TRO 2024
 
 - [FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills](https://arxiv.org/pdf/2404.19217), Zhao et al., arxiv 2024
+
+- [Simulation of Optical Tactile Sensors Supporting Slip and Rotation using Path Tracing and IMPM](https://arxiv.org/pdf/2405.02914), Shen et al., arxiv 2024
 
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
