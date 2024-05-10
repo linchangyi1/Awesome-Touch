@@ -719,6 +719,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Simulation of Optical Tactile Sensors Supporting Slip and Rotation using Path Tracing and IMPM](https://arxiv.org/pdf/2405.02914), Shen et al., arxiv 2024
 
+- [Optimizing BioTac Simulation for Realistic Tactile Perception](https://arxiv.org/abs/2404.10425), Zai El Amri and Navarro-Guerrero, IJCNN 2024
+
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
 
@@ -814,7 +816,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [PyTouch](https://github.com/facebookresearch/PyTouch)
 - [PyTact](https://github.com/hmccarty/pytact)
 - [Tacchi](https://github.com/zixichen007115/Tacchi)
-
+- [BioTac](https://github.com/wzaielamri/optimizing_biotac_simulation)
 ### Dataset
 - [Visual-Tactile_Dataset](https://github.com/tsinghua-rll/Visual-Tactile_Dataset)
 - [YCB-Sight](https://github.com/CMURoboTouch/YCB-Sight)
