@@ -748,6 +748,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 -[Marker Displacement MethodUsedinVision-Based Tactile Sensors—From 2D to 3D: A Review](https://www.techrxiv.org/articles/preprint/Marker_Displacement_Method_Used_in_Vision-Based_Tactile_Sensors_From_2D_to_3D_A_Review/22122596), LI et al., IEEE Sensors 2023
 
+- [When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors from the Signal Processing Perspective](https://arxiv.org/pdf/2406.12226), Li et al., arxiv 2024
+
 
 ## Thesis
 ### Master
