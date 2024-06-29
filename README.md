@@ -361,9 +361,9 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 ### Manipulation/Grasping
 - [Localization and manipulation of small parts using GelSight tactile sensing](https://ieeexplore.ieee.org/abstract/document/6943123), Li et al., IROS 2014
-
+- [Reliable object handover through tactile force sensing and effort control in the Shadow Robot hand](https://ieeexplore.ieee.org/abstract/document/7989048), Eguíluz et al., ICRA 2017
+- [Reliable robotic handovers through tactile sensing](https://link.springer.com/article/10.1007/s10514-018-09823-2), Eguíluz et al., Autonomous Robots 2019
 - [Tactile-Based Insertion for Dense Box-Packing](https://ieeexplore.ieee.org/abstract/document/8968204), Dong et al., IROS 2019
-
 - [Maintaining Grasps within Slipping Bounds by Monitoring Incipient Slip](https://ieeexplore.ieee.org/abstract/document/8794219), Dong et al., ICRA 2019
 
 - [Manipulation by feel: Touch-based control with deep predictive models](https://ieeexplore.ieee.org/abstract/document/8793538), Tian et al., ICRA 2019
@@ -423,6 +423,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Visual-tactile Fusion for Transparent Object Grasping in Complex Backgrounds](https://arxiv.org/abs/2211.16693), Li et al., arxiv 2022
 
 - [Integrating High-Resolution Tactile Sensing into Grasp Stability Prediction](https://ieeexplore.ieee.org/document/9867102), Chumbley et al., CRV 2022
+- [Heuristic grasping of convex objects using 3D imaging and tactile sensing in uncalibrated grasping scenarios](https://www.sciencedirect.com/science/article/pii/S095741742201301X), Eguíluz et al., Expert Systems with Applications 2022
 
 - [Skill generalization of tubular object manipulation with tactile sensing and Sim2Real learning](https://www.sciencedirect.com/science/article/pii/S092188902200210X), Zhao et al., Robotics and Autonomous Systems 2023
 
@@ -499,7 +500,9 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
 - [Sensing and recognizing surface textures using a gelsight sensor](https://www.cv-foundation.org/openaccess/content_cvpr_2013/html/Li_Sensing_and_Recognizing_2013_CVPR_paper.html), Li et al., CVPR 2013
-
+- [Continuous material identification through tactile sensing](https://ieeexplore.ieee.org/abstract/document/7727852), Eguíluz et al., IJCNN 2016
+- [A multi-modal approach to continuous material identification through tactile sensing](https://ieeexplore.ieee.org/abstract/document/7759721), Eguíluz et al., IROS 2016
+- [Multimodal Material identification through recursive tactile sensing](https://www.sciencedirect.com/science/article/pii/S0921889017308618), Eguíluz et al., RAS 2018
 - [Connecting Look and Feel: Associating the visual and tactile properties of physical materials](https://openaccess.thecvf.com/content_cvpr_2017/html/Yuan_Connecting_Look_and_CVPR_2017_paper.html), Yuan et al., CVPR 2017
 
 - [Shape-independent hardness estimation using deep learning and a GelSight tactile sensor](https://ieeexplore.ieee.org/abstract/document/7989116), Yuan et al., ICRA 2017
@@ -758,6 +761,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 ### PhD
 - [Touching is believing : sensing and analyzing touch information with GelSight](http://dspace.mit.edu/handle/1721.1/99834), Rui Li, Ph.D., 2015
 - [High-resolution tactile sensing for robotic perception](http://dspace.mit.edu/handle/1721.1/120267), Wenzhen Yuan, Ph.D., 2018
+- [Continuous tactile sensing for enhanced human-robot collaboration](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PbAJlEAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=1PbAJlEAAAAJ:qUcmZB5y_30C), Augusto Gomez Eguiluz, Ph.D., 2018
 - [Reactive manipulation with contact models and tactile feedback](http://dspace.mit.edu/handle/1721.1/125476), Francois R. Hogan, Ph.D., 2020
 - [Data-driven Tactile Sensing using Spatially Overlapping Signals](https://www.proquest.com/openview/2fe76b59ca5836dc691847d611775430/1?pq-origsite=gscholar&cbl=18750&diss=y), Pedro Piacenza, Ph.D., 2020
 - [High-resolution Tactile Sensing for Reactive Robotic Manipulation](http://dspace.mit.edu/handle/1721.1/130764), Siyuan Dong, Ph.D., 2021
