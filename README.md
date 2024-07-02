@@ -503,6 +503,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [RoTipBot: Robotic Handling of Thin and Flexible Objects using Rotatable Tactile Sensors](https://arxiv.org/abs/2406.09332), Jiang et al., arxiv 2024
 
+- [RoboPack: Learning Tactile-Informed Dynamics Models for Dense Packing](https://arxiv.org/abs/2407.01418), Ai et al., RSS 2024
+
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
