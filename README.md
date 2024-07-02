@@ -477,6 +477,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [GelStereo BioTip: Self-Calibrating Bionic Fingertip Visuotactile Sensor for Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/10358360), Cui et al., TMech 2023
 
+- [Perceiving Extrinsic Contacts from Touch Improves Learning Insertion Policies](https://arxiv.org/abs/2309.16652), Higuera et al., arxiv 2023
+
 - [Neural feels with neural fields: Visuo-tactile perception for in-hand manipulation](https://arxiv.org/abs/2312.13469), Suresh et al., arxiv 2023
 
 - [TEXterity: Tactile Extrinsic deXterity](https://arxiv.org/abs/2401.10230), Bronars et al., arxiv 2024
