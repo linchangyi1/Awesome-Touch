@@ -497,6 +497,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [SimPLE, a visuotactile method learned in simulation to precisely pick, localize, regrasp, and place objects](https://www.science.org/doi/10.1126/scirobotics.adi8808#:~:text=SimPLE%20learns%20to%20pick%2C%20regrasp,visuotactile%20perception%2C%20and%20regrasp%20planning.), Bauza et al., Science Robotics 2024
 
+- [T3: Transferable Tactile Transformers](https://arxiv.org/abs/2406.13640), Zhao et al., arxiv 2024
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
