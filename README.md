@@ -501,6 +501,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [T3: Transferable Tactile Transformers](https://arxiv.org/abs/2406.13640), Zhao et al., arxiv 2024
 
+- [RoTipBot: Robotic Handling of Thin and Flexible Objects using Rotatable Tactile Sensors](https://arxiv.org/abs/2406.09332), Jiang et al., arxiv 2024
+
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
