@@ -804,6 +804,9 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [ReSkin](https://github.com/raunaqbhirangi/reskin_sensor)
 - [Insight](https://github.com/Huanbo-Sun/Haptics-for-Robots-Insight)
 
+### Dexterous Hand with Tactile Sensing
+- [Tactile SoftHand-A](https://arxiv.org/pdf/2406.12731)
+  
 ### Sensor Support
 - [DIGIT_Depth](https://github.com/vocdex/digit-depth)
 - [DIGIT_Interface](https://github.com/facebookresearch/digit-interface)
@@ -832,6 +835,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [PyTact](https://github.com/hmccarty/pytact)
 - [Tacchi](https://github.com/zixichen007115/Tacchi)
 - [BioTac](https://github.com/wzaielamri/optimizing_biotac_simulation)
+  
 ### Dataset
 - [Visual-Tactile_Dataset](https://github.com/tsinghua-rll/Visual-Tactile_Dataset)
 - [YCB-Sight](https://github.com/CMURoboTouch/YCB-Sight)
