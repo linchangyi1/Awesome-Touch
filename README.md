@@ -653,6 +653,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Generating Visual Scenes from Touch](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Generating_Visual_Scenes_from_Touch_ICCV_2023_paper.html), Yang et al., ICCV 2023
 
 ### Dexterous Hand Manipulation
+- [All the Feels: A dexterous hand with large-area tactile sensing](https://arxiv.org/pdf/2210.15658), Bhirangi et al., arxiv 2022
+  
 - [Sampling-based Exploration for Reinforcement Learning of Dexterous Manipulation](https://arxiv.org/abs/2303.03486), Khandate et al., arxiv 2023
 
 - [Rotating without Seeing: Towards In-hand Dexterity through Touch](https://arxiv.org/abs/2303.10880), Yin et al., arxiv 2023
@@ -662,6 +664,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [TacGNN: Learning Tactile-based In-hand Manipulation with a Blind Robot using Hierarchical Graph Neural Network](https://arxiv.org/pdf/2304.00736.pdf), Yang et al., arxiv 2023
 
 - [General In-Hand Object Rotation with Vision and Touch](https://arxiv.org/abs/2309.09979), Qi et al., arxiv 2023
+
+- [Tactile SoftHand-A: 3D-Printed, Tactile, Highly-underactuated, Anthropomorphic Robot Hand with an Antagonistic Tendon Mechanism](https://arxiv.org/pdf/2406.12731), Li et al., arxiv 2024
 
 
 ### Others
@@ -804,6 +808,10 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [ReSkin](https://github.com/raunaqbhirangi/reskin_sensor)
 - [Insight](https://github.com/Huanbo-Sun/Haptics-for-Robots-Insight)
 
+### Dexterous Hand with Tactile Sensing
+- [All the Feels: A dexterous hand with large-area tactile sensing](https://sites.google.com/view/dmanus/home)
+- [Tactile SoftHand-A](https://arxiv.org/pdf/2406.12731)
+  
 ### Sensor Support
 - [DIGIT_Depth](https://github.com/vocdex/digit-depth)
 - [DIGIT_Interface](https://github.com/facebookresearch/digit-interface)
@@ -832,6 +840,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [PyTact](https://github.com/hmccarty/pytact)
 - [Tacchi](https://github.com/zixichen007115/Tacchi)
 - [BioTac](https://github.com/wzaielamri/optimizing_biotac_simulation)
+  
 ### Dataset
 - [Visual-Tactile_Dataset](https://github.com/tsinghua-rll/Visual-Tactile_Dataset)
 - [YCB-Sight](https://github.com/CMURoboTouch/YCB-Sight)
