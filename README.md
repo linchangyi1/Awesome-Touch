@@ -809,8 +809,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Insight](https://github.com/Huanbo-Sun/Haptics-for-Robots-Insight)
 
 ### Dexterous Hand with Tactile Sensing
-- [Tactile SoftHand-A](https://arxiv.org/pdf/2406.12731)
 - [All the Feels: A dexterous hand with large-area tactile sensing](https://sites.google.com/view/dmanus/home)
+- [Tactile SoftHand-A](https://arxiv.org/pdf/2406.12731)
   
 ### Sensor Support
 - [DIGIT_Depth](https://github.com/vocdex/digit-depth)
