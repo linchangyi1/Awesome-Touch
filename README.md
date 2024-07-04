@@ -361,9 +361,13 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 ### Manipulation/Grasping
 - [Localization and manipulation of small parts using GelSight tactile sensing](https://ieeexplore.ieee.org/abstract/document/6943123), Li et al., IROS 2014
+  
 - [Reliable object handover through tactile force sensing and effort control in the Shadow Robot hand](https://ieeexplore.ieee.org/abstract/document/7989048), Eguíluz et al., ICRA 2017
+  
 - [Reliable robotic handovers through tactile sensing](https://link.springer.com/article/10.1007/s10514-018-09823-2), Eguíluz et al., Autonomous Robots 2019
+  
 - [Tactile-Based Insertion for Dense Box-Packing](https://ieeexplore.ieee.org/abstract/document/8968204), Dong et al., IROS 2019
+  
 - [Maintaining Grasps within Slipping Bounds by Monitoring Incipient Slip](https://ieeexplore.ieee.org/abstract/document/8794219), Dong et al., ICRA 2019
 
 - [Manipulation by feel: Touch-based control with deep predictive models](https://ieeexplore.ieee.org/abstract/document/8793538), Tian et al., ICRA 2019
@@ -481,6 +485,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Neural feels with neural fields: Visuo-tactile perception for in-hand manipulation](https://arxiv.org/abs/2312.13469), Suresh et al., arxiv 2023
 
+- [The Power of the Senses: Generalizable Manipulation from Vision and Touch through Masked Multimodal Learning](https://arxiv.org/pdf/2311.00924), Sferrazza et al., arxiv 2023
+
 - [TEXterity: Tactile Extrinsic deXterity](https://arxiv.org/abs/2401.10230), Bronars et al., arxiv 2024
 
 - [Tac-Man: Tactile-Informed Prior-Free Manipulation of Articulated Objects](https://arxiv.org/abs/2403.01694), Zhao et al., arxiv 2024
@@ -509,9 +515,13 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
 - [Sensing and recognizing surface textures using a gelsight sensor](https://www.cv-foundation.org/openaccess/content_cvpr_2013/html/Li_Sensing_and_Recognizing_2013_CVPR_paper.html), Li et al., CVPR 2013
+  
 - [Continuous material identification through tactile sensing](https://ieeexplore.ieee.org/abstract/document/7727852), Eguíluz et al., IJCNN 2016
+  
 - [A multi-modal approach to continuous material identification through tactile sensing](https://ieeexplore.ieee.org/abstract/document/7759721), Eguíluz et al., IROS 2016
+  
 - [Multimodal Material identification through recursive tactile sensing](https://www.sciencedirect.com/science/article/pii/S0921889017308618), Eguíluz et al., RAS 2018
+  
 - [Connecting Look and Feel: Associating the visual and tactile properties of physical materials](https://openaccess.thecvf.com/content_cvpr_2017/html/Yuan_Connecting_Look_and_CVPR_2017_paper.html), Yuan et al., CVPR 2017
 
 - [Shape-independent hardness estimation using deep learning and a GelSight tactile sensor](https://ieeexplore.ieee.org/abstract/document/7989116), Yuan et al., ICRA 2017
@@ -842,6 +852,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [PyTact](https://github.com/hmccarty/pytact)
 - [Tacchi](https://github.com/zixichen007115/Tacchi)
 - [BioTac](https://github.com/wzaielamri/optimizing_biotac_simulation)
+- [M3L](https://github.com/carlosferrazza/tactile_envs)
   
 ### Dataset
 - [Visual-Tactile_Dataset](https://github.com/tsinghua-rll/Visual-Tactile_Dataset)
