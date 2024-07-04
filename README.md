@@ -660,6 +660,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Rotating without Seeing: Towards In-hand Dexterity through Touch](https://arxiv.org/abs/2303.10880), Yin et al., arxiv 2023
 
 - [Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play](https://arxiv.org/abs/2303.12076), Guzey et al., arxiv 2023
+  
+- [See to Touch: Learning Tactile Dexterity through Visual Incentives](https://arxiv.org/abs/2309.12300), Guzey et al., arxiv 2023
 
 - [TacGNN: Learning Tactile-based In-hand Manipulation with a Blind Robot using Hierarchical Graph Neural Network](https://arxiv.org/pdf/2304.00736.pdf), Yang et al., arxiv 2023
 
