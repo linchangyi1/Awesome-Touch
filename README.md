@@ -801,7 +801,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [GelSight Mini](https://www.gelsight.com/product/gelsight-mini-system/)
 - [FingerVision](https://www.fingervision.jp/en/service-product)
 - [BioTac](https://syntouchinc.com/robotics/)
-- [uSkin](https://xelarobotics.com/en/uskin-sensor)
+- [uSkin](https://www.xelarobotics.com/tactile-sensors)
 
 ## Open-Source
 ### Sensor
