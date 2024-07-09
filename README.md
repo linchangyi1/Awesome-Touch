@@ -802,6 +802,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [FingerVision](https://www.fingervision.jp/en/service-product)
 - [BioTac](https://syntouchinc.com/robotics/)
 - [uSkin](https://www.xelarobotics.com/tactile-sensors)
+- [Paxini](https://paxini.com/product/sensorax)
 
 ## Open-Source
 ### Sensor
