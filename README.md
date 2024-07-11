@@ -513,6 +513,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Learning In-Hand Translation Using Tactile Skin With Shear and Normal Force Sensing](https://arxiv.org/pdf/2407.07885), Yin et al., arxiv 2024
 
+- [Jointly Understand Visual and Tactile Signals](https://openreview.net/pdf?id=NtQqIcSbqv), Li et al., ICLR 2024
+
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
