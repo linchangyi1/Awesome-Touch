@@ -511,6 +511,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [RoboPack: Learning Tactile-Informed Dynamics Models for Dense Packing](https://arxiv.org/abs/2407.01418), Ai et al., RSS 2024
 
+- [Learning In-Hand Translation Using Tactile Skin With Shear and Normal Force Sensing](https://arxiv.org/pdf/2407.07885), Yin et al., arxiv 2024
+
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
