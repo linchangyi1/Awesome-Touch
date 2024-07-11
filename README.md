@@ -560,6 +560,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Octopi: Object Property Reasoning with Large Tactile-Language Models](https://arxiv.org/pdf/2405.02794), Yu et al., arxiv 2024
 
+- [Binding Touch to Everything: Learning Unified Multimodal Tactile Representations](https://arxiv.org/abs/2401.18084), Yang et al., CVPR 2024
+
 
 ### Mapping/Localization
 - [Tracking objects with point clouds from vision and touch](https://ieeexplore.ieee.org/abstract/document/7989460), Izatt et al., ICRA 2017
