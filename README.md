@@ -556,6 +556,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://arxiv.org/abs/2402.13232), Fu et al., arxiv 2024
 
+- [Touch100k: A Large-Scale Touch-Language-Vision Dataset for Touch-Centric Multimodal Representation](https://arxiv.org/pdf/2406.03813), Cheng et al., arxiv 2024
+
 - [Octopi: Object Property Reasoning with Large Tactile-Language Models](https://arxiv.org/pdf/2405.02794), Yu et al., arxiv 2024
 
 
@@ -637,6 +639,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Snap-it, Tap-it, Splat-it: Tactile-Informed 3D Gaussian Splatting for Reconstructing Challenging Surfaces](https://arxiv.org/pdf/2403.20275), Comi et al., arxiv 2024
 
 - [Tactile-Augmented Radiance Fields](https://arxiv.org/abs/2405.04534), Dou et al., CVPR 2024
+
+- [Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting](https://arxiv.org/pdf/2403.09875), Swann et al., arxiv 2024
 
 
 ### Extrinsic Contact Sensing
@@ -866,6 +870,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [ObjectFolder 2.0](https://ai.stanford.edu/~rhgao/objectfolder2.0/)
 - [ObjectFolder 3.0](https://www.objectfolder.org/)
 - [TVL](https://tactile-vlm.github.io/)
+- [Touch100K](https://cocacola-lab.github.io/Touch100k/)
 
 ### Algorithms
 - [ShapeMap 3-D](https://github.com/rpl-cmu/shape-map-3D)
