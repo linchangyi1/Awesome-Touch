@@ -723,6 +723,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Simulation of Vision-based Tactile Sensors using Physics based Rendering](https://ieeexplore.ieee.org/document/9561122), Agarwal et al., ICRA 2021
 
+- [Sim-to-Real for Robotic Tactile Sensing via Physics-Based Simulation and Learned Latent Projections](https://ieeexplore.ieee.org/abstract/document/9561969), Narang et al., ICRA 2021
+
 - [Tactile Sim-to-Real Policy Transfer via Real-to-Sim Image Translation](https://openreview.net/forum?id=2NcPgLa7yqD), Church et al., CoRL 2021
 
 - [Tactile Gym 2.0: Sim-to-Real Deep Reinforcement Learning for Comparing Low-Cost High-Resolution Robot Touch](https://ieeexplore.ieee.org/abstract/document/9847020), Lin et al., RAL 2022
@@ -856,6 +858,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 ### Simulator/Library
 - [Tactile Optical Simulation](https://github.com/CMURoboTouch/tactile_optical_simulation)
 - [GelSight_Simulation](https://github.com/danfergo/gelsight_simulation)
+- [BioTac Simulation](https://github.com/NVlabs/biotac_sim)
 - [TACTO](https://github.com/facebookresearch/tacto)
 - [Taxim](https://github.com/CMURoboTouch/Taxim)
 - [GelSight-Sim2Real](https://github.com/RVSATHU/GelSight-Sim2Real)
