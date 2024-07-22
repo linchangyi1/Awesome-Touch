@@ -715,6 +715,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Low-Cost Teleoperation with Haptic Feedback through Vision-based Tactile Sensors for Rigid and Soft Object Manipulation](https://arxiv.org/pdf/2403.16764), Lippi et al., arxiv 2024
 
+- [Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors](https://arxiv.org/pdf/2407.14380), Chen et al., arxiv 2024
 
 ## Software
 
