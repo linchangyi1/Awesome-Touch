@@ -914,5 +914,4 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Stanford - Monroe Kennedy III - ARMLab](https://arm.stanford.edu/)
 - [UVA - Gregory J. Gerling - Gerling Touch Lab](https://www.gerlingtouchlab.com/)
 - [Oxford - Perla Maiolino - Soft Robotics Lab](https://www.ori.ox.ac.uk/labs/srl/)
-
-
+- [Peking University - Huanbo Sun - Haptic Sensing Lab](https://hapticsensinglab.com/)
