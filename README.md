@@ -277,6 +277,10 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [A Passively Bendable, Compliant Tactile Palm with RObotic Modular Endoskeleton Optical (ROMEO) Fingers](https://arxiv.org/pdf/2404.08227.pdf), Liu et al., arxiv 2024
 
+- [Design and Evaluation of a Rapid Monolithic Manufacturing Technique for a Novel Vision-Based Tactile Sensor: C-Sight](https://www.mdpi.com/1424-8220/24/14/4603), Fan et al., MDPI Sensors 2024
+
+- [CrystalTac: 3D-Printed Vision-Based Tactile Sensor Family through Rapid Monolithic Manufacturing Technique](https://arxiv.org/abs/2408.00638), Fan et al., arxiv 2024
+
 
 <!---
 - [](), xxx et al., yyy 2023
@@ -514,6 +518,9 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Learning In-Hand Translation Using Tactile Skin With Shear and Normal Force Sensing](https://arxiv.org/pdf/2407.07885), Yin et al., arxiv 2024
 
 - [Jointly Understand Visual and Tactile Signals](https://openreview.net/pdf?id=NtQqIcSbqv), Li et al., ICLR 2024
+
+- [In-Hand Singulation and Scooping Manipulation with a 5 DOF Tactile Gripper](https://arxiv.org/abs/2408.00610), Zhou et al., arxiv 2024
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
