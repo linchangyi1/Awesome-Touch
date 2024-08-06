@@ -281,6 +281,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [CrystalTac: 3D-Printed Vision-Based Tactile Sensor Family through Rapid Monolithic Manufacturing Technique](https://arxiv.org/abs/2408.00638), Fan et al., arxiv 2024
 
+- [Large-scale Deployment of Vision-based Tactile Sensors on Multi-fingered Grippers](https://arxiv.org/abs/2408.02206), Wang et al., arxiv 2024
 
 <!---
 - [](), xxx et al., yyy 2023
