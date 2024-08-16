@@ -15,6 +15,7 @@ To include your papers, please submit a new issue with the titles and necessary 
   - [Extrinsic Contact Sensing](#extrinsic-contact-sensing)
   - [Image Generation](#image-generation)
   - [Dexterous Hand Manipulation](#dexterous-hand-manipulation)
+  - [Representation Learnig](#representation-learning)
   - [Others](#others)
 - [Software](#software)
   - [Simulator](#simulator)
@@ -282,6 +283,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [CrystalTac: 3D-Printed Vision-Based Tactile Sensor Family through Rapid Monolithic Manufacturing Technique](https://arxiv.org/abs/2408.00638), Fan et al., arxiv 2024
 
 - [Large-scale Deployment of Vision-based Tactile Sensors on Multi-fingered Grippers](https://arxiv.org/abs/2408.02206), Wang et al., arxiv 2024
+
+- [EyeSight Hand: Design of a Fully-Actuated Dexterous Robot Hand with Integrated Vision-Based Tactile Sensors and Compliant Actuation](https://arxiv.org/pdf/2408.06265), Romero et al., arxiv 2024
 
 <!---
 - [](), xxx et al., yyy 2023
@@ -566,11 +569,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://arxiv.org/abs/2402.13232), Fu et al., arxiv 2024
 
-- [Touch100k: A Large-Scale Touch-Language-Vision Dataset for Touch-Centric Multimodal Representation](https://arxiv.org/pdf/2406.03813), Cheng et al., arxiv 2024
-
 - [Octopi: Object Property Reasoning with Large Tactile-Language Models](https://arxiv.org/pdf/2405.02794), Yu et al., arxiv 2024
 
-- [Binding Touch to Everything: Learning Unified Multimodal Tactile Representations](https://arxiv.org/abs/2401.18084), Yang et al., CVPR 2024
 
 
 ### Mapping/Localization
@@ -654,6 +654,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting](https://arxiv.org/pdf/2403.09875), Swann et al., arxiv 2024
 
+- [HyperTaxel: Hyper-Resolution for Taxel-Based Tactile Signals Through Contrastive Learning](https://arxiv.org/pdf/2408.08312), Li et al., arxiv 2024
+
 
 ### Extrinsic Contact Sensing
 - [Extrinsic Contact Sensing with Relative-Motion Tracking from Distributed Tactile Measurements](https://ieeexplore.ieee.org/abstract/document/9561781), Ma et al., ICRA 2021
@@ -697,6 +699,21 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Tactile SoftHand-A: 3D-Printed, Tactile, Highly-underactuated, Anthropomorphic Robot Hand with an Antagonistic Tendon Mechanism](https://arxiv.org/pdf/2406.12731), Li et al., arxiv 2024
 
+### Representation Learning
+- [Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play](https://arxiv.org/abs/2303.12076), Guzey et al., arxiv 2023
+
+- [Investigating Vision Foundational Models for Tactile Representation Learning](https://arxiv.org/abs/2305.00596), Zandonati et al., arxiv 2023
+
+- [Binding Touch to Everything: Learning Unified Multimodal Tactile Representations](https://arxiv.org/abs/2401.18084), Yang et al., CVPR 2024
+
+- [Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training](https://arxiv.org/abs/2401.12024), Dave et al., arxiv 2024
+
+- [Touch100k: A Large-Scale Touch-Language-Vision Dataset for Touch-Centric Multimodal Representation](https://arxiv.org/pdf/2406.03813), Cheng et al., arxiv 2024
+
+- [Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors](https://arxiv.org/pdf/2407.14380), Chen et al., arxiv 2024
+
+- [Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks](https://arxiv.org/pdf/2408.08276), Ou et al., arxiv 2024
+
 
 ### Others
 - [Exploiting Distributed Tactile Sensors to Drive a Robot Arm Through Obstacles](https://ieeexplore.ieee.org/abstract/document/9384158), Albini et al., RAL 2021
@@ -715,15 +732,11 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Development and Evaluation of a Learning-based Model for Real-time Haptic Texture Rendering](https://arxiv.org/abs/2212.13332), Heravi et al., arxiv 2022
 
-- [Investigating Vision Foundational Models for Tactile Representation Learning](https://arxiv.org/abs/2305.00596), Zandonati et al., arxiv 2023
-
 - [In-situ Mechanical Calibration for Vision-based Tactile Sensors](https://ieeexplore.ieee.org/document/10161153), Zhao et al., ICRA 2023
-
-- [Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training](https://arxiv.org/abs/2401.12024), Dave et al., arxiv 2024
 
 - [Low-Cost Teleoperation with Haptic Feedback through Vision-based Tactile Sensors for Rigid and Soft Object Manipulation](https://arxiv.org/pdf/2403.16764), Lippi et al., arxiv 2024
 
-- [Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors](https://arxiv.org/pdf/2407.14380), Chen et al., arxiv 2024
+
 
 ## Software
 
@@ -775,6 +788,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
 
+- [TacSL: A Library for Visuotactile Sensor Simulation and Learning](https://arxiv.org/pdf/2408.06506), Akinola et al., arxiv 2024
 
 
 ## Review
