@@ -525,6 +525,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [In-Hand Singulation and Scooping Manipulation with a 5 DOF Tactile Gripper](https://arxiv.org/abs/2408.00610), Zhou et al., arxiv 2024
 
+- [T-TD3: A Reinforcement Learning Framework for Stable Grasping of Deformable Objects Using Tactile Prior](https://arxiv.org/abs/2408.00610), Zhou et al., T-ASE 2024
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
