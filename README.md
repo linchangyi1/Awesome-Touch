@@ -286,6 +286,9 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [EyeSight Hand: Design of a Fully-Actuated Dexterous Robot Hand with Integrated Vision-Based Tactile Sensors and Compliant Actuation](https://arxiv.org/pdf/2408.06265), Romero et al., arxiv 2024
 
+- [RainbowSight: A Family of Generalizable, Curved, Camera-Based Tactile Sensors For Shape Reconstruction](https://ieeexplore.ieee.org/document/10609863), Tippur et al., ICRA 2024
+
+
 <!---
 - [](), xxx et al., yyy 2023
 -->
