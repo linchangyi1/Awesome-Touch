@@ -364,6 +364,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Highly Interpretable Representation for Multi-Dimensional Tactile Perception](https://ieeexplore.ieee.org/abstract/document/10381648), Gui et al., IEEE Transactions on Medical Robotics and Bionics 2024
 
+- [AnySkin: Plug-and-play Skin Sensing for Robotic Touch](https://arxiv.org/pdf/2409.08276), Bhirangi et al., arxiv 2024
+
 
 ## Applications
 <!---
@@ -686,6 +688,9 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Learning to Read Braille: Bridging the Tactile Reality Gap with Diffusion Models](https://arxiv.org/abs/2304.01182.pdf), Higuera et al., ICRA 2023
 
 - [Generating Visual Scenes from Touch](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Generating_Visual_Scenes_from_Touch_ICCV_2023_paper.html), Yang et al., ICCV 2023
+
+- [Touch2Touch: Cross-Modal Tactile Generation for Object Manipulation](https://arxiv.org/pdf/2409.08269), Rodriguez et al., arxiv 2024
+
 
 ### Dexterous Hand Manipulation
 - [All the Feels: A dexterous hand with large-area tactile sensing](https://arxiv.org/pdf/2210.15658), Bhirangi et al., arxiv 2022
