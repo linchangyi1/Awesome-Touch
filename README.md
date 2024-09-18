@@ -724,6 +724,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks](https://arxiv.org/pdf/2408.08276), Ou et al., arxiv 2024
 
+- [TransForce: Transferable Force Prediction for Vision-based Tactile Sensors with Sequential Image Translation](https://arxiv.org/pdf/2409.09870), Chen et al., arxiv 2024
+
 
 ### Others
 - [Exploiting Distributed Tactile Sensors to Drive a Robot Arm Through Obstacles](https://ieeexplore.ieee.org/abstract/document/9384158), Albini et al., RAL 2021
