@@ -532,6 +532,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [T-TD3: A Reinforcement Learning Framework for Stable Grasping of Deformable Objects Using Tactile Prior](https://arxiv.org/abs/2408.00610), Zhou et al., T-ASE 2024
 
+- [Learning Task Planning from Multi-Modal Demonstration for Multi-Stage Contact-Rich Manipulation](https://arxiv.org/pdf/2409.11863), Chen et al., arxiv 2024
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
@@ -577,6 +579,9 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://arxiv.org/abs/2402.13232), Fu et al., arxiv 2024
 
 - [Octopi: Object Property Reasoning with Large Tactile-Language Models](https://arxiv.org/pdf/2405.02794), Yu et al., arxiv 2024
+
+- [Dynamic Layer Detection of a Thin Silk Cloth using DenseTact Optical Tactile Sensors](https://arxiv.org/pdf/2409.09849), Chungyoun et al., arxiv 2024
+
 
 
 
