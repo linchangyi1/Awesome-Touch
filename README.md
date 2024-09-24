@@ -288,6 +288,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [RainbowSight: A Family of Generalizable, Curved, Camera-Based Tactile Sensors For Shape Reconstruction](https://ieeexplore.ieee.org/document/10609863), Tippur et al., ICRA 2024
 
+- [TacPalm: A Soft Gripper with a Biomimetic Optical Tactile Palm for Stable Precise Grasping](https://arxiv.org/pdf/2409.15239), Zhang et al., arxiv 2024
+
 
 <!---
 - [](), xxx et al., yyy 2023
@@ -534,6 +536,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Learning Task Planning from Multi-Modal Demonstration for Multi-Stage Contact-Rich Manipulation](https://arxiv.org/pdf/2409.11863), Chen et al., arxiv 2024
 
+- [Bimanual In-hand Manipulation using Dual Limit Surfaces](https://arxiv.org/pdf/2409.14698), Dang et al., arxiv 2024
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
@@ -581,8 +585,6 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Octopi: Object Property Reasoning with Large Tactile-Language Models](https://arxiv.org/pdf/2405.02794), Yu et al., arxiv 2024
 
 - [Dynamic Layer Detection of a Thin Silk Cloth using DenseTact Optical Tactile Sensors](https://arxiv.org/pdf/2409.09849), Chungyoun et al., arxiv 2024
-
-
 
 
 ### Mapping/Localization
@@ -682,6 +684,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [TEXterity: Tactile Extrinsic deXterity](https://arxiv.org/abs/2401.10230), Bronars et al., arxiv 2024
 
+- [Visual-auditory Extrinsic Contact Estimation](https://arxiv.org/pdf/2409.14608), Yi et al., arxiv 2024
+
 
 ### Image Generation
 - [Deep Tactile Experience: Estimating Tactile Sensor Output from Depth Sensor Data](https://ieeexplore.ieee.org/abstract/document/9341596), Patel et al., IROS 2020
@@ -731,6 +735,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [TransForce: Transferable Force Prediction for Vision-based Tactile Sensors with Sequential Image Translation](https://arxiv.org/pdf/2409.09870), Chen et al., arxiv 2024
 
+- [Tactile Functasets: Neural Implicit Representations of Tactile Datasets](https://arxiv.org/pdf/2409.14592), Li et al., arxiv 2024
 
 ### Others
 - [Exploiting Distributed Tactile Sensors to Drive a Robot Arm Through Obstacles](https://ieeexplore.ieee.org/abstract/document/9384158), Albini et al., RAL 2021
