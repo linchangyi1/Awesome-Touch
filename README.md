@@ -914,6 +914,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Tacchi](https://github.com/zixichen007115/Tacchi)
 - [BioTac](https://github.com/wzaielamri/optimizing_biotac_simulation)
 - [M3L](https://github.com/carlosferrazza/tactile_envs)
+- [AllSight](https://github.com/osheraz/allsight_sim)
   
 ### Dataset
 - [Visual-Tactile_Dataset](https://github.com/tsinghua-rll/Visual-Tactile_Dataset)
@@ -936,6 +937,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Active Extrinsic Contact Sensing](https://github.com/sangwkim/active_extrinsic_contact)
 - [MidasTouch](https://github.com/facebookresearch/MidasTouch)
 - [Tactile-Diffusion](https://github.com/carolinahiguera/Tactile-Diffusion)
+- [Tac-Man-Simulation](https://github.com/YuyangLee/Tac-Man-Simulation)
 
 ## Laboratory
 - [MIT - Ted Adelson](https://www.csail.mit.edu/person/ted-adelson)
