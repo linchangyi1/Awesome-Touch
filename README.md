@@ -290,6 +290,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [TacPalm: A Soft Gripper with a Biomimetic Optical Tactile Palm for Stable Precise Grasping](https://arxiv.org/pdf/2409.15239), Zhang et al., arxiv 2024
 
+- [GelSlim 4.0: Focusing on Touch and Reproducibility](https://arxiv.org/pdf/2409.19770), Sipos et al., arxiv 2024
+
 
 <!---
 - [](), xxx et al., yyy 2023
@@ -538,6 +540,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Bimanual In-hand Manipulation using Dual Limit Surfaces](https://arxiv.org/pdf/2409.14698), Dang et al., arxiv 2024
 
+- [Extremum Seeking Controlled Wiggling for Tactile Insertion](https://arxiv.org/pdf/2410.02595), Burner et al., arxiv 2024
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
@@ -585,6 +589,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Octopi: Object Property Reasoning with Large Tactile-Language Models](https://arxiv.org/pdf/2405.02794), Yu et al., arxiv 2024
 
 - [Dynamic Layer Detection of a Thin Silk Cloth using DenseTact Optical Tactile Sensors](https://arxiv.org/pdf/2409.09849), Chungyoun et al., arxiv 2024
+
 
 
 ### Mapping/Localization
@@ -758,7 +763,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Low-Cost Teleoperation with Haptic Feedback through Vision-based Tactile Sensors for Rigid and Soft Object Manipulation](https://arxiv.org/pdf/2403.16764), Lippi et al., arxiv 2024
 
-
+- [FeelAnyForce: Estimating Contact Force Feedback from Tactile Sensation for Vision-Based Tactile Sensors](https://arxiv.org/pdf/2410.02048), Shahidzadeh et al., arxiv 2024
 
 ## Software
 
@@ -867,7 +872,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 ### Sensor
 - [DTact](https://github.com/linchangyi1/DTact)
 - [9DTact](https://github.com/linchangyi1/9DTact)
-- [GelSlim](https://github.com/mcubelab/gelslim)
+- [GelSlim 3.0](https://github.com/mcubelab/gelslim)
+- [GelSlim 4.0](https://www.mmintlab.com/research/gelslim-4-0/)
 - [DIGIT](https://github.com/facebookresearch/digit-design)
 - [FingerVision](https://github.com/akihikoy/fingervision)
 - [OmniTact](https://github.com/s-tian/bench-press)
