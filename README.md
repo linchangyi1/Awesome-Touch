@@ -292,6 +292,10 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [GelSlim 4.0: Focusing on Touch and Reproducibility](https://arxiv.org/pdf/2409.19770), Sipos et al., arxiv 2024
 
+- [DTactive: A Vision-Based Tactile Sensor with Active Surface](https://arxiv.org/abs/2410.08337), Xu et al., arxiv 2024
+
+- [HumanFT: A Human-like Fingertip Multimodal Visuo-Tactile Sensor](https://arxiv.org/pdf/2410.10353), Wu et al., arxiv 2024
+
 
 <!---
 - [](), xxx et al., yyy 2023
