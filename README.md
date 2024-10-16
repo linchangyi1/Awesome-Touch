@@ -746,6 +746,9 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Tactile Functasets: Neural Implicit Representations of Tactile Datasets](https://arxiv.org/pdf/2409.14592), Li et al., arxiv 2024
 
+- [Contrastive Touch-to-Touch Pretraining](https://arxiv.org/pdf/2410.11834), Rodriguez et al., arxiv 2024
+
+
 ### Others
 - [Exploiting Distributed Tactile Sensors to Drive a Robot Arm Through Obstacles](https://ieeexplore.ieee.org/abstract/document/9384158), Albini et al., RAL 2021
 
