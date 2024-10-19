@@ -546,6 +546,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Extremum Seeking Controlled Wiggling for Tactile Insertion](https://arxiv.org/pdf/2410.02595), Burner et al., arxiv 2024
 
+- [T-TD3: A Reinforcement Learning Framework for Stable Grasping of Deformable Objects Using Tactile Prior](https://ieeexplore.ieee.org/document/10636851), Zhou et al., TASE 2024
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
