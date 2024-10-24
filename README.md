@@ -714,6 +714,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 ### Dexterous Hand Manipulation
 - [All the Feels: A dexterous hand with large-area tactile sensing](https://arxiv.org/pdf/2210.15658), Bhirangi et al., arxiv 2022
+
+- [Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand](https://arxiv.org/abs/2204.03698), Sievers et al., ICRA 2022
   
 - [Sampling-based Exploration for Reinforcement Learning of Dexterous Manipulation](https://arxiv.org/abs/2303.03486), Khandate et al., arxiv 2023
 
@@ -727,7 +729,14 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [General In-Hand Object Rotation with Vision and Touch](https://arxiv.org/abs/2309.09979), Qi et al., arxiv 2023
 
+- [Dextrous Tactile In-Hand Manipulation Using a Modular Reinforcement Learning Architecture](https://arxiv.org/abs/2303.04705), Pitz et al., ICRA 2023
+
+- [Estimator-Coupled Reinforcement Learning for Robust Purely Tactile In-Hand Manipulation](https://arxiv.org/abs/2311.04060), Röstel et al., Humanoids 2023
+
 - [Tactile SoftHand-A: 3D-Printed, Tactile, Highly-underactuated, Anthropomorphic Robot Hand with an Antagonistic Tendon Mechanism](https://arxiv.org/pdf/2406.12731), Li et al., arxiv 2024
+
+- [Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects](https://arxiv.org/abs/2407.18834), Pitz et al., IROS 2024
+
 
 ### Representation Learning
 - [Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play](https://arxiv.org/abs/2303.12076), Guzey et al., arxiv 2023
