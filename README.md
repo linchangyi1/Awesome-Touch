@@ -857,6 +857,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors from the Signal Processing Perspective](https://arxiv.org/pdf/2406.12226), Li et al., arxiv 2024
 
+- [Artificial Skin Based on Visuo-Tactile Sensing for 3D Shape Reconstruction: Material, Method, and Evaluation](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202411686), Zhang et al., Advanced Functional Materials 2024
+
 
 ## Thesis
 ### Master
