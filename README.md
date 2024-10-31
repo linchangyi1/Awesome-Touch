@@ -296,6 +296,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [HumanFT: A Human-like Fingertip Multimodal Visuo-Tactile Sensor](https://arxiv.org/pdf/2410.10353), Wu et al., arxiv 2024
 
+- [MiniTac: An Ultra-Compact 8 mm Vision-Based Tactile Sensor for Enhanced Palpation in Robot-Assisted Minimally Invasive Surgery](https://arxiv.org/abs/2410.22691), Li et al., RAL 2024
+
 
 <!---
 - [](), xxx et al., yyy 2023
