@@ -298,6 +298,10 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [MiniTac: An Ultra-Compact 8 mm Vision-Based Tactile Sensor for Enhanced Palpation in Robot-Assisted Minimally Invasive Surgery](https://arxiv.org/abs/2410.22691), Li et al., RAL 2024
 
+- [Digitizing Touch with an Artificial Multimodal Fingertip](https://ai.meta.com/research/publications/digitizing-touch-with-an-artificial-multimodal-fingertip/), Lambeta et al., Meta 2024
+
+- [NUSense: Robust Soft Optical Tactile Sensor](https://arxiv.org/pdf/2410.23516), Yergibay et al., arxiv 2024
+
 
 <!---
 - [](), xxx et al., yyy 2023
@@ -552,6 +556,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing](https://arxiv.org/pdf/2410.24091), Huang et al., CoRL 2024
 
+- [Analysing the Interplay of Vision and Touch for Dexterous Insertion Tasks](https://arxiv.org/pdf/2410.23860), Lenz et al., arxiv 2024
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
@@ -762,6 +768,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Tactile Functasets: Neural Implicit Representations of Tactile Datasets](https://arxiv.org/pdf/2409.14592), Li et al., arxiv 2024
 
 - [Contrastive Touch-to-Touch Pretraining](https://arxiv.org/pdf/2410.11834), Rodriguez et al., arxiv 2024
+
+- [Sparsh: Self-supervised touch representations for vision-based tactile sensing](https://arxiv.org/pdf/2410.24090), Higuera et al., arxiv 2024
 
 
 ### Others
