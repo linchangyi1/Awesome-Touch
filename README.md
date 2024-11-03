@@ -795,6 +795,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [FeelAnyForce: Estimating Contact Force Feedback from Tactile Sensation for Vision-Based Tactile Sensors](https://arxiv.org/pdf/2410.02048), Shahidzadeh et al., arxiv 2024
 
+- [Grasping Force Estimation for Markerless Visuotactile Sensors](https://arxiv.org/pdf/2410.22825), Amoros et al., arxiv 2024
+
 ## Software
 
 ### Simulator
