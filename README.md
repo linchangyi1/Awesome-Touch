@@ -298,7 +298,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [MiniTac: An Ultra-Compact 8 mm Vision-Based Tactile Sensor for Enhanced Palpation in Robot-Assisted Minimally Invasive Surgery](https://arxiv.org/abs/2410.22691), Li et al., RAL 2024
 
-- [Digitizing Touch with an Artificial Multimodal Fingertip](https://ai.meta.com/research/publications/digitizing-touch-with-an-artificial-multimodal-fingertip/), Lambeta et al., Meta 2024
+- [Digitizing Touch with an Artificial Multimodal Fingertip](https://arxiv.org/pdf/2411.02479), Lambeta et al., Meta 2024
 
 - [NUSense: Robust Soft Optical Tactile Sensor](https://arxiv.org/pdf/2410.23516), Yergibay et al., arxiv 2024
 
@@ -770,6 +770,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Contrastive Touch-to-Touch Pretraining](https://arxiv.org/pdf/2410.11834), Rodriguez et al., arxiv 2024
 
 - [Sparsh: Self-supervised touch representations for vision-based tactile sensing](https://arxiv.org/pdf/2410.24090), Higuera et al., arxiv 2024
+
+- [Touch-to-Touch Translation - Learning the Mapping Between Heterogeneous Tactile Sensing Technologies](https://arxiv.org/pdf/2411.02187), Grella et al., arxiv 2024
 
 
 ### Others
