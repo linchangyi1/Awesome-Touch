@@ -534,8 +534,6 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [SimPLE, a visuotactile method learned in simulation to precisely pick, localize, regrasp, and place objects](https://www.science.org/doi/10.1126/scirobotics.adi8808#:~:text=SimPLE%20learns%20to%20pick%2C%20regrasp,visuotactile%20perception%2C%20and%20regrasp%20planning.), Bauza et al., Science Robotics 2024
 
-- [T3: Transferable Tactile Transformers](https://arxiv.org/abs/2406.13640), Zhao et al., arxiv 2024
-
 - [RoTipBot: Robotic Handling of Thin and Flexible Objects using Rotatable Tactile Sensors](https://arxiv.org/abs/2406.09332), Jiang et al., arxiv 2024
 
 - [RoboPack: Learning Tactile-Informed Dynamics Models for Dense Packing](https://arxiv.org/abs/2407.01418), Ai et al., RSS 2024
@@ -751,6 +749,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 
 ### Representation Learning
+- [Touch and Go: Learning from Human-Collected Vision and Touch](https://openreview.net/forum?id=ZZ3FeSSPPblo), Yang et al., NeurIPS 2022
+
 - [Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play](https://arxiv.org/abs/2303.12076), Guzey et al., arxiv 2023
 
 - [Investigating Vision Foundational Models for Tactile Representation Learning](https://arxiv.org/abs/2305.00596), Zandonati et al., arxiv 2023
@@ -771,6 +771,10 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Contrastive Touch-to-Touch Pretraining](https://arxiv.org/pdf/2410.11834), Rodriguez et al., arxiv 2024
 
+- [T3: Transferable Tactile Transformers](https://arxiv.org/abs/2406.13640), Zhao et al., arxiv 2024
+
+- [UniT: Unified Tactile Representation for Robot Learning](https://arxiv.org/pdf/2408.06481), Xu et al., arxiv 2024
+
 - [Sparsh: Self-supervised touch representations for vision-based tactile sensing](https://arxiv.org/pdf/2410.24090), Higuera et al., arxiv 2024
 
 - [Touch-to-Touch Translation - Learning the Mapping Between Heterogeneous Tactile Sensing Technologies](https://arxiv.org/pdf/2411.02187), Grella et al., arxiv 2024
@@ -788,8 +792,6 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Learning to Synthesize Volumetric Meshes from Vision-based Tactile Imprints](https://arxiv.org/abs/2203.15155v1), Zhu et al., arxiv 2022
 
 - [Going In Blind: Object Motion Classification using Distributed Tactile Sensing for Safe Reaching in Clutter](https://arxiv.org/abs/2210.00137), Thomasson et al., arxiv 2022
-
-- [Touch and Go: Learning from Human-Collected Vision and Touch](https://openreview.net/forum?id=ZZ3FeSSPPblo), Yang et al., NeurIPS 2022
 
 - [Development and Evaluation of a Learning-based Model for Real-time Haptic Texture Rendering](https://arxiv.org/abs/2212.13332), Heravi et al., arxiv 2022
 
