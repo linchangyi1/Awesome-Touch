@@ -14,8 +14,10 @@ To include your papers, please submit a new issue with the titles and necessary 
   - [Mapping/Localization](#mappinglocalization)
   - [Extrinsic Contact Sensing](#extrinsic-contact-sensing)
   - [Image Generation](#image-generation)
-  - [Dexterous Hand Manipulation](#dexterous-hand-manipulation)
   - [Representation Learnig](#representation-learning)
+  - [Force Estimation](#force-estimation)
+  - [LLM/VLM](#llmvlm)
+  - [Dexterous Hand Manipulation](#dexterous-hand-manipulation)
   - [Others](#others)
 - [Software](#software)
   - [Simulator](#simulator)
@@ -71,8 +73,6 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Design, Motivation and Evaluation of a Full-Resolution Optical Tactile Sensor](https://www.mdpi.com/1424-8220/19/4/928), Sferrazza et al., MDPI Sensors 2019
 
 - [Transfer learning for vision-based tactile sensing](https://ieeexplore.ieee.org/abstract/document/8967571), Sferrazza et al., IROS 2019
-
-- [Dense Tactile Force Estimation using GelSlim and inverse FEM](https://ieeexplore.ieee.org/abstract/document/8794113), Ma et al., ICRA 2019
 
 - [An Elastomer-based Flexible Optical Force and Tactile Sensor](https://ieeexplore.ieee.org/abstract/document/8722793), Li et al., RoboSoft 2019
 
@@ -248,8 +248,6 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Towards Design and Development of an ArUco Markers-Based Quantitative Surface Tactile Sensor](https://arxiv.org/abs/2310.08398), Kara et al., arxiv 2023
 
-- [3D Force and Contact Estimation for a Soft-Bubble Visuotactile Sensor Using FEM](https://arxiv.org/abs/2310.11372), Peng et al., arxiv 2023
-
 - [Dynamic Focusing (DF) Cone-Based Omnidirectional Fingertip Pressure Sensor with High Sensitivity in a Wide Pressure Range](https://www.mdpi.com/1424-8220/23/20/8450), Seo et al., MDPI Sensors 2023
 
 - [MC-Tac: Modular Camera-Based Tactile Sensor for Robot Gripper](https://link.springer.com/chapter/10.1007/978-981-99-6495-6_15), Ren et al., ICIRA 2023
@@ -400,8 +398,6 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Maintaining Grasps within Slipping Bounds by Monitoring Incipient Slip](https://ieeexplore.ieee.org/abstract/document/8794219), Dong et al., ICRA 2019
 
 - [Manipulation by feel: Touch-based control with deep predictive models](https://ieeexplore.ieee.org/abstract/document/8793538), Tian et al., ICRA 2019
-
-- [Sensing Shear Forces During Food Manipulation: Resolving the Trade-Off Between Range and Sensitivity](https://ieeexplore.ieee.org/document/8794350), Song et al., ICRA 2019
 
 - [Building a Library of Tactile Skills Based on FingerVision](https://ieeexplore.ieee.org/abstract/document/9035000), Belousov et al., Humanoids 2019
 
@@ -598,12 +594,6 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors](https://arxiv.org/abs/2311.0380), Caddeo et al., arxiv 2023
 
-- [A Predictive Model for Tactile Force Estimation using Audio-Tactile Data](https://ieeexplore.ieee.org/abstract/document/10347357), Niederhauser et al., RAL 2023
-
-- [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://arxiv.org/abs/2402.13232), Fu et al., arxiv 2024
-
-- [Octopi: Object Property Reasoning with Large Tactile-Language Models](https://arxiv.org/pdf/2405.02794), Yu et al., arxiv 2024
-
 - [Dynamic Layer Detection of a Thin Silk Cloth using DenseTact Optical Tactile Sensors](https://arxiv.org/pdf/2409.09849), Chungyoun et al., arxiv 2024
 
 
@@ -722,32 +712,6 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Touch2Touch: Cross-Modal Tactile Generation for Object Manipulation](https://arxiv.org/pdf/2409.08269), Rodriguez et al., arxiv 2024
 
 
-### Dexterous Hand Manipulation
-- [All the Feels: A dexterous hand with large-area tactile sensing](https://arxiv.org/pdf/2210.15658), Bhirangi et al., arxiv 2022
-
-- [Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand](https://arxiv.org/abs/2204.03698), Sievers et al., ICRA 2022
-  
-- [Sampling-based Exploration for Reinforcement Learning of Dexterous Manipulation](https://arxiv.org/abs/2303.03486), Khandate et al., arxiv 2023
-
-- [Rotating without Seeing: Towards In-hand Dexterity through Touch](https://arxiv.org/abs/2303.10880), Yin et al., arxiv 2023
-
-- [Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play](https://arxiv.org/abs/2303.12076), Guzey et al., arxiv 2023
-  
-- [See to Touch: Learning Tactile Dexterity through Visual Incentives](https://arxiv.org/abs/2309.12300), Guzey et al., arxiv 2023
-
-- [TacGNN: Learning Tactile-based In-hand Manipulation with a Blind Robot using Hierarchical Graph Neural Network](https://arxiv.org/pdf/2304.00736.pdf), Yang et al., arxiv 2023
-
-- [General In-Hand Object Rotation with Vision and Touch](https://arxiv.org/abs/2309.09979), Qi et al., arxiv 2023
-
-- [Dextrous Tactile In-Hand Manipulation Using a Modular Reinforcement Learning Architecture](https://arxiv.org/abs/2303.04705), Pitz et al., ICRA 2023
-
-- [Estimator-Coupled Reinforcement Learning for Robust Purely Tactile In-Hand Manipulation](https://arxiv.org/abs/2311.04060), Röstel et al., Humanoids 2023
-
-- [Tactile SoftHand-A: 3D-Printed, Tactile, Highly-underactuated, Anthropomorphic Robot Hand with an Antagonistic Tendon Mechanism](https://arxiv.org/pdf/2406.12731), Li et al., arxiv 2024
-
-- [Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects](https://arxiv.org/abs/2407.18834), Pitz et al., IROS 2024
-
-
 ### Representation Learning
 - [Touch and Go: Learning from Human-Collected Vision and Touch](https://openreview.net/forum?id=ZZ3FeSSPPblo), Yang et al., NeurIPS 2022
 
@@ -761,11 +725,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Touch100k: A Large-Scale Touch-Language-Vision Dataset for Touch-Centric Multimodal Representation](https://arxiv.org/pdf/2406.03813), Cheng et al., arxiv 2024
 
-- [Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors](https://arxiv.org/pdf/2407.14380), Chen et al., arxiv 2024
-
 - [Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks](https://arxiv.org/pdf/2408.08276), Ou et al., arxiv 2024
-
-- [TransForce: Transferable Force Prediction for Vision-based Tactile Sensors with Sequential Image Translation](https://arxiv.org/pdf/2409.09870), Chen et al., arxiv 2024
 
 - [Tactile Functasets: Neural Implicit Representations of Tactile Datasets](https://arxiv.org/pdf/2409.14592), Li et al., arxiv 2024
 
@@ -779,6 +739,59 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Touch-to-Touch Translation - Learning the Mapping Between Heterogeneous Tactile Sensing Technologies](https://arxiv.org/pdf/2411.02187), Grella et al., arxiv 2024
 
+### Force Estimation
+- [Dense Tactile Force Estimation using GelSlim and inverse FEM](https://ieeexplore.ieee.org/abstract/document/8794113), Ma et al., ICRA 2019
+
+- [Sensing Shear Forces During Food Manipulation: Resolving the Trade-Off Between Range and Sensitivity](https://ieeexplore.ieee.org/document/8794350), Song et al., ICRA 2019
+
+- [3D Force and Contact Estimation for a Soft-Bubble Visuotactile Sensor Using FEM](https://arxiv.org/abs/2310.11372), Peng et al., arxiv 2023
+
+- [A Predictive Model for Tactile Force Estimation using Audio-Tactile Data](https://ieeexplore.ieee.org/abstract/document/10347357), Niederhauser et al., RAL 2023
+
+- [Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors](https://arxiv.org/pdf/2407.14380), Chen et al., arxiv 2024
+
+- [FeelAnyForce: Estimating Contact Force Feedback from Tactile Sensation for Vision-Based Tactile Sensors](https://arxiv.org/pdf/2410.02048), Shahidzadeh et al., arxiv 2024
+
+- [TransForce: Transferable Force Prediction for Vision-based Tactile Sensors with Sequential Image Translation](https://arxiv.org/pdf/2409.09870), Chen et al., arxiv 2024
+
+- [Grasping Force Estimation for Markerless Visuotactile Sensors](https://arxiv.org/pdf/2410.22825), Amoros et al., arxiv 2024
+
+
+### LLM/VLM
+- [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://arxiv.org/abs/2402.13232), Fu et al., arxiv 2024
+
+- [Binding Touch to Everything: Learning Unified Multimodal Tactile Representations](https://arxiv.org/abs/2401.18084), Yang et al., CVPR 2024
+
+- [Octopi: Object Property Reasoning with Large Tactile-Language Models](https://arxiv.org/pdf/2405.02794), Yu et al., RSS 2024
+
+- [Touch100k: A Large-Scale Touch-Language-Vision Dataset for Touch-Centric Multimodal Representation](https://arxiv.org/pdf/2406.03813), Cheng et al., arxiv 2024
+
+
+
+### Dexterous Hand Manipulation
+- [All the Feels: A dexterous hand with large-area tactile sensing](https://arxiv.org/pdf/2210.15658), Bhirangi et al., arxiv 2022
+
+- [Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand](https://arxiv.org/abs/2204.03698), Sievers et al., ICRA 2022
+  
+- [Sampling-based Exploration for Reinment Learning of Dexterous Manipulation](https://arxiv.org/abs/2303.03486), Khandate et al., arxiv 2023
+
+- [Rotating without Seeing: Towards In-hand Dexterity through Touch](https://arxiv.org/abs/2303.10880), Yin et al., arxiv 2023
+
+- [Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play](https://arxiv.org/abs/2303.12076), Guzey et al., arxiv 2023
+  
+- [See to Touch: Learning Tactile Dexterity through Visual Incentives](https://arxiv.org/abs/2309.12300), Guzey et al., arxiv 2023
+
+- [TacGNN: Learning Tactile-based In-hand Manipulation with a Blind Robot using Hierarchical Graph Neural Network](https://arxiv.org/pdf/2304.00736.pdf), Yang et al., arxiv 2023
+
+- [General In-Hand Object Rotation with Vision and Touch](https://arxiv.org/abs/2309.09979), Qi et al., arxiv 2023
+
+- [Dextrous Tactile In-Hand Manipulation Using a Modular Reinment Learning Architecture](https://arxiv.org/abs/2303.04705), Pitz et al., ICRA 2023
+
+- [Estimator-Coupled Reinforcement Learning for Robust Purely Tactile In-Hand Manipulation](https://arxiv.org/abs/2311.04060), Röstel et al., Humanoids 2023
+
+- [Tactile SoftHand-A: 3D-Printed, Tactile, Highly-underactuated, Anthropomorphic Robot Hand with an Antagonistic Tendon Mechanism](https://arxiv.org/pdf/2406.12731), Li et al., arxiv 2024
+
+- [Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects](https://arxiv.org/abs/2407.18834), Pitz et al., IROS 2024
 
 ### Others
 - [Exploiting Distributed Tactile Sensors to Drive a Robot Arm Through Obstacles](https://ieeexplore.ieee.org/abstract/document/9384158), Albini et al., RAL 2021
@@ -798,10 +811,6 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [In-situ Mechanical Calibration for Vision-based Tactile Sensors](https://ieeexplore.ieee.org/document/10161153), Zhao et al., ICRA 2023
 
 - [Low-Cost Teleoperation with Haptic Feedback through Vision-based Tactile Sensors for Rigid and Soft Object Manipulation](https://arxiv.org/pdf/2403.16764), Lippi et al., arxiv 2024
-
-- [FeelAnyForce: Estimating Contact Force Feedback from Tactile Sensation for Vision-Based Tactile Sensors](https://arxiv.org/pdf/2410.02048), Shahidzadeh et al., arxiv 2024
-
-- [Grasping Force Estimation for Markerless Visuotactile Sensors](https://arxiv.org/pdf/2410.22825), Amoros et al., arxiv 2024
 
 ## Software
 
