@@ -302,6 +302,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [NUSense: Robust Soft Optical Tactile Sensor](https://arxiv.org/pdf/2410.23516), Yergibay et al., arxiv 2024
 
+- [Behavioral biometric optical tactile sensor for instantaneous decoupling of dynamic touch signals in real time](https://www.nature.com/articles/s41467-024-52331-4#Sec9), Son et al., Nature Communications 2024
+
 
 <!---
 - [](), xxx et al., yyy 2023
