@@ -859,6 +859,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [DIFFTACTILE: A Physics-based Differentiable Tactile Simulator for Contact-rich Robotic Manipulation](https://arxiv.org/abs/2403.08716), Si et al., ICLR 2024
 
+- [TacEx: GelSight Tactile Simulation in Isaac Sim – Combining Soft-Body and Visuotactile Simulators](https://arxiv.org/pdf/2411.04776), Nguyen et al., CoRL 2024
+
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
 
