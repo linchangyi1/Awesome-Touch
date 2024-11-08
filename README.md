@@ -999,10 +999,10 @@ To include your papers, please submit a new issue with the titles and necessary 
 ## Laboratory
 - [MIT - Ted Adelson](https://www.csail.mit.edu/person/ted-adelson)
 - [MIT - Alberto Rodriguez - Mcube Lab](https://mcube.mit.edu/)
+- [Meta - Mustafa Mukadam - Manipulation and Tactile Sensing Group](https://www.mustafamukadam.com/)
 - [UIUC - Wenzhen Yuan](https://cs.illinois.edu/about/people/adjunct-faculty/yuanwz)
 - [SJTU - Daolin Ma - MPI Lab](https://mpi.sjtu.edu.cn/index.html)
 - [KCL - Shan LUo](https://shanluo.github.io/)
-- [KCL - Hongbin Liu - HaMMeR Lab](https://kclhammerlab.com/)
 - [Bristol - Nathan F. Lepora](https://lepora.com/)
 - [TU Dresden - Roberto Calandra - LASR Lab](https://lasr.org/)
 - [Tsinghua - Huazhe Xu](http://hxu.rocks/)
@@ -1019,3 +1019,5 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Oxford - Perla Maiolino - Soft Robotics Lab](https://www.ori.ox.ac.uk/labs/srl/)
 - [Peking University - Huanbo Sun - Haptic Sensing Lab](https://hapticsensinglab.com/)
 - [QMUL - Kaspar Althoefer](https://www.sems.qmul.ac.uk/staff/k.althoefer)
+- [KCL - Hongbin Liu - HaMMeR Lab](https://kclhammerlab.com/)
+
