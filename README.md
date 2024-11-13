@@ -711,6 +711,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Touch2Touch: Cross-Modal Tactile Generation for Object Manipulation](https://arxiv.org/pdf/2409.08269), Rodriguez et al., arxiv 2024
 
+- [Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation](https://openreview.net/pdf?id=fA3RMMl8ii), Gao et al., NeurIPS 2024
+
 
 ### Representation Learning
 - [Touch and Go: Learning from Human-Collected Vision and Touch](https://openreview.net/forum?id=ZZ3FeSSPPblo), Yang et al., NeurIPS 2022
