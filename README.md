@@ -302,6 +302,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Behavioral biometric optical tactile sensor for instantaneous decoupling of dynamic touch signals in real time](https://www.nature.com/articles/s41467-024-52331-4#Sec9), Son et al., Nature Communications 2024
 
+- [Virtual prototyping of vision-based tactile sensors design for robotic-assisted precision machining](https://www.sciencedirect.com/science/article/pii/S0924424724004631), Zaid et al., Sensors and Actuators: A. Physical 2024
+
 
 <!---
 - [](), xxx et al., yyy 2023
