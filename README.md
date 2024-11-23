@@ -760,6 +760,10 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Grasping Force Estimation for Markerless Visuotactile Sensors](https://arxiv.org/pdf/2410.22825), Amoros et al., arxiv 2024
 
+- [Interaction force estimation for tactile sensor arrays: Toward tactile-based interaction control for robotic fingers](https://arxiv.org/pdf/2411.13335), Chelly et al., arxiv 2024
+
+- [iFEM2.0: Dense 3D Contact Force Field Reconstruction and Assessment for Vision-Based Tactile Sensors](https://ieeexplore.ieee.org/abstract/document/10758225), Zhao et al., TRO 2024
+
 
 ### LLM/VLM
 - [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://arxiv.org/abs/2402.13232), Fu et al., arxiv 2024
