@@ -168,6 +168,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [3D Contact Point Cloud Reconstruction From Vision-Based Tactile Flow](https://ieeexplore.ieee.org/document/9919353), Du et al., RAL 2022
 
+- [Elastomer-Based Visuotactile Sensor for Normality of Robotic Manufacturing Systems](https://www.mdpi.com/2073-4360/14/23/5097), Zaid et al., Polymers 2022
+
 - [TacRot: A Parallel-Jaw Gripper with Rotatable Tactile Sensors for In-Hand Manipulation](https://ieeexplore.ieee.org/abstract/document/9945388), Zhang et al., SMC 2022
 
 - [Real-Time Marker Localization Learning for GelStereo Tactile Sensing](https://ieeexplore.ieee.org/abstract/document/10011997), Liu et al., ROBIO 2022
@@ -303,6 +305,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Behavioral biometric optical tactile sensor for instantaneous decoupling of dynamic touch signals in real time](https://www.nature.com/articles/s41467-024-52331-4#Sec9), Son et al., Nature Communications 2024
 
 - [Virtual prototyping of vision-based tactile sensors design for robotic-assisted precision machining](https://www.sciencedirect.com/science/article/pii/S0924424724004631), Zaid et al., Sensors and Actuators: A. Physical 2024
+
 
 
 <!---
@@ -871,6 +874,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [DIFFTACTILE: A Physics-based Differentiable Tactile Simulator for Contact-rich Robotic Manipulation](https://arxiv.org/abs/2403.08716), Si et al., ICLR 2024
 
 - [TacEx: GelSight Tactile Simulation in Isaac Sim – Combining Soft-Body and Visuotactile Simulators](https://arxiv.org/pdf/2411.04776), Nguyen et al., CoRL 2024
+
+- [Zero-Shot Sim2Real Measurement for Neuromorphic Vision-Based Tactile Sensors](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10680346&tag=1), Salah et al., Transactions on Instrumentation and Measurement 2024
 
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
