@@ -686,6 +686,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [HyperTaxel: Hyper-Resolution for Taxel-Based Tactile Signals Through Contrastive Learning](https://arxiv.org/pdf/2408.08312), Li et al., arxiv 2024
 
+- [NormalFlow: Fast, Robust, and Accurate Contact-based Object 6DoF Pose Tracking with Vision-based Tactile Sensors](https://ieeexplore.ieee.org/abstract/document/10766628), Huang et al., RAL 2024
+
 
 ### Extrinsic Contact Sensing
 - [Extrinsic Contact Sensing with Relative-Motion Tracking from Distributed Tactile Measurements](https://ieeexplore.ieee.org/abstract/document/9561781), Ma et al., ICRA 2021
