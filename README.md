@@ -306,6 +306,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Virtual prototyping of vision-based tactile sensors design for robotic-assisted precision machining](https://www.sciencedirect.com/science/article/pii/S0924424724004631), Zaid et al., Sensors and Actuators: A. Physical 2024
 
+- [GelSight FlexiRay: Breaking Planar Limits by Harnessing Large Deformations for Flexible, Full-Coverage Multimodal Sensing](https://arxiv.org/pdf/2411.18979), Wang et al., arxiv 2024
+
 
 
 <!---
