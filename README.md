@@ -808,6 +808,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects](https://arxiv.org/abs/2407.18834), Pitz et al., IROS 2024
 
+- [Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation](http://arxiv.org/abs/2411.13148), Pitz et al., Humanoids 2024
+
 ### Others
 - [Exploiting Distributed Tactile Sensors to Drive a Robot Arm Through Obstacles](https://ieeexplore.ieee.org/abstract/document/9384158), Albini et al., RAL 2021
 
