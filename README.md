@@ -561,6 +561,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Analysing the Interplay of Vision and Touch for Dexterous Insertion Tasks](https://arxiv.org/pdf/2410.23860), Lenz et al., arxiv 2024
 
+- [TARS: Tactile Affordance in Robot Synesthesia for Dexterous Manipulation](https://ieeexplore.ieee.org/abstract/document/10766612), Wu et al., RAL 2024
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
