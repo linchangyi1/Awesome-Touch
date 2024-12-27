@@ -1024,7 +1024,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [MIT - Ted Adelson](https://www.csail.mit.edu/person/ted-adelson)
 - [MIT - Alberto Rodriguez - Mcube Lab](https://mcube.mit.edu/)
 - [Meta - Mustafa Mukadam - Manipulation and Tactile Sensing Group](https://www.mustafamukadam.com/)
-- [UIUC - Wenzhen Yuan](https://cs.illinois.edu/about/people/adjunct-faculty/yuanwz)
+- [UIUC - Wenzhen Yuan - RoboTouch Lab](https://robotouchlab.web.illinois.edu/)
 - [SJTU - Daolin Ma - MPI Lab](https://mpi.sjtu.edu.cn/index.html)
 - [KCL - Shan LUo](https://shanluo.github.io/)
 - [Bristol - Nathan F. Lepora](https://lepora.com/)
