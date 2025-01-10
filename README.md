@@ -387,6 +387,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [AnySkin: Plug-and-play Skin Sensing for Robotic Touch](https://arxiv.org/pdf/2409.08276), Bhirangi et al., arxiv 2024
 
+- [Design and Benchmarking of A Multi-Modality Sensor for Robotic Manipulation with GAN-Based Cross-Modality Interpretation](https://arxiv.org/abs/2501.02303), Zhang et al., TRO 2025
+
 
 ## Applications
 <!---
@@ -751,6 +753,9 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Sparsh: Self-supervised touch representations for vision-based tactile sensing](https://arxiv.org/pdf/2410.24090), Higuera et al., arxiv 2024
 
 - [Touch-to-Touch Translation - Learning the Mapping Between Heterogeneous Tactile Sensing Technologies](https://arxiv.org/pdf/2411.02187), Grella et al., arxiv 2024
+
+- [Reducing Cross-Sensor Domain Gaps in Tactile Sensing via Few-Sample-Driven Style-to-Content Unsupervised Domain Adaptation](https://www.mdpi.com/1424-8220/25/1/2567), Jing et al., MDPI Sensors 2025
+
 
 ### Force Estimation
 - [Dense Tactile Force Estimation using GelSlim and inverse FEM](https://ieeexplore.ieee.org/abstract/document/8794113), Ma et al., ICRA 2019
