@@ -308,6 +308,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [GelSight FlexiRay: Breaking Planar Limits by Harnessing Large Deformations for Flexible, Full-Coverage Multimodal Sensing](https://arxiv.org/pdf/2411.18979), Wang et al., arxiv 2024
 
+- [GelBelt: A Vision-based Tactile Sensor for Continuous Sensing of Large Surfaces](https://ieeexplore.ieee.org/document/10833742), Mirzaee et al., RAL 2025
 
 
 <!---
