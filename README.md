@@ -757,6 +757,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Reducing Cross-Sensor Domain Gaps in Tactile Sensing via Few-Sample-Driven Style-to-Content Unsupervised Domain Adaptation](https://www.mdpi.com/1424-8220/25/1/2567), Jing et al., MDPI Sensors 2025
 
+- [Canonical Representation and Force-Based Pretraining of 3D Tactile for Dexterous Visuo-Tactile Policy Learning](https://arxiv.org/pdf/2409.17549), Wu et al., arxiv 2024
 
 ### Force Estimation
 - [Dense Tactile Force Estimation using GelSlim and inverse FEM](https://ieeexplore.ieee.org/abstract/document/8794113), Ma et al., ICRA 2019
