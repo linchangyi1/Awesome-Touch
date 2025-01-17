@@ -310,6 +310,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [GelBelt: A Vision-based Tactile Sensor for Continuous Sensing of Large Surfaces](https://ieeexplore.ieee.org/document/10833742), Mirzaee et al., RAL 2025
 
+- [ThinTact:Thin Vision-Based Tactile Sensor by Lensless Imaging](https://arxiv.org/abs/2501.09273), Xu et al., arxiv 2025
+
 
 <!---
 - [](), xxx et al., yyy 2023
