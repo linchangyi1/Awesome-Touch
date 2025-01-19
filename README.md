@@ -821,6 +821,10 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation](http://arxiv.org/abs/2411.13148), Pitz et al., Humanoids 2024
 
+- [Visuotactile-Based Learning for Insertion with Compliant Hands](https://arxiv.org/pdf/2411.06408), Azulay et al., arxiv 2024
+
+
+
 ### Others
 - [Exploiting Distributed Tactile Sensors to Drive a Robot Arm Through Obstacles](https://ieeexplore.ieee.org/abstract/document/9384158), Albini et al., RAL 2021
 
