@@ -610,6 +610,7 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Dynamic Layer Detection of a Thin Silk Cloth using DenseTact Optical Tactile Sensors](https://arxiv.org/pdf/2409.09849), Chungyoun et al., arxiv 2024
 
+- [Sim2Surf: a Sim2Real Surface Classifier for Vision-Based Tactile Sensors with a Bilevel Adaptation Pipeline](https://ieeexplore.ieee.org/abstract/document/10851808), Caddeo et al., IEEE Sensors 2025
 
 
 ### Mapping/Localization
@@ -897,6 +898,9 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [TacEx: GelSight Tactile Simulation in Isaac Sim – Combining Soft-Body and Visuotactile Simulators](https://arxiv.org/pdf/2411.04776), Nguyen et al., CoRL 2024
 
 - [Zero-Shot Sim2Real Measurement for Neuromorphic Vision-Based Tactile Sensors](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10680346&tag=1), Salah et al., Transactions on Instrumentation and Measurement 2024
+
+- [Image-Based Tactile Deformation Simulation and Pose Estimation for Robot Skill Learning](https://www.mdpi.com/2076-3417/15/3/1099), Fu et al., Apply Sciences 2025
+
 
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
