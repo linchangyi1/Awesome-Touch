@@ -310,7 +310,9 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [GelBelt: A Vision-based Tactile Sensor for Continuous Sensing of Large Surfaces](https://ieeexplore.ieee.org/document/10833742), Mirzaee et al., RAL 2025
 
-- [ThinTact:Thin Vision-Based Tactile Sensor by Lensless Imaging](https://arxiv.org/abs/2501.09273), Xu et al., arxiv 2025
+- [ThinTact:Thin Vision-Based Tactile Sensor by Lensless Imaging](https://arxiv.org/abs/2501.09273), Xu et al., TRO 2025
+
+- [GelPoLight: A Novel Visual Tactile Sensor Based on Photometric Stereo with Point Lighting](https://ieeexplore.ieee.org/abstract/document/10870064), Lu et al., IEEE Sensors 2025
 
 
 <!---
@@ -567,6 +569,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Analysing the Interplay of Vision and Touch for Dexterous Insertion Tasks](https://arxiv.org/pdf/2410.23860), Lenz et al., arxiv 2024
 
 - [TARS: Tactile Affordance in Robot Synesthesia for Dexterous Manipulation](https://ieeexplore.ieee.org/abstract/document/10766612), Wu et al., RAL 2024
+
+- [Image-Based Tactile Deformation Simulation and Pose Estimation for Robot Skill Learning](https://www.mdpi.com/2076-3417/15/3/1099), Fu et al., Applied Sciences 2025
 
 
 ### Classification/Recognition
