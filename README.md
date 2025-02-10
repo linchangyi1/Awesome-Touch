@@ -572,6 +572,9 @@ To include your papers, please submit a new issue with the titles and necessary 
 
 - [Image-Based Tactile Deformation Simulation and Pose Estimation for Robot Skill Learning](https://www.mdpi.com/2076-3417/15/3/1099), Fu et al., Applied Sciences 2025
 
+- [Multimodal and Force-Matched Imitation Learning With a See-Through Visuotactile Sensor](https://ieeexplore.ieee.org/document/10814647), Ablett et al., TRO 2024
+
+
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
