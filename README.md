@@ -1,7 +1,5 @@
 # Awesome Touch [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-To include your papers, please submit a new issue with the titles and necessary details. Thank you.
-
 ## Table of Contents
 
 - [Sensors](#sensors)
@@ -573,6 +571,8 @@ To include your papers, please submit a new issue with the titles and necessary 
 - [Image-Based Tactile Deformation Simulation and Pose Estimation for Robot Skill Learning](https://www.mdpi.com/2076-3417/15/3/1099), Fu et al., Applied Sciences 2025
 
 - [Multimodal and Force-Matched Imitation Learning With a See-Through Visuotactile Sensor](https://ieeexplore.ieee.org/document/10814647), Ablett et al., TRO 2024
+
+- [DIH-Tele: Dexterous In-Hand Teleoperation Framework for Learning Multiobjects Manipulation With Tactile Sensing](https://ieeexplore.ieee.org/document/10898061), Huang et al., TRANSACTIONS ON MECHATRONICS 2025
 
 
 
