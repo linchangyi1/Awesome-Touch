@@ -574,6 +574,8 @@
 
 - [DIH-Tele: Dexterous In-Hand Teleoperation Framework for Learning Multiobjects Manipulation With Tactile Sensing](https://ieeexplore.ieee.org/document/10898061), Huang et al., TRANSACTIONS ON MECHATRONICS 2025
 
+- [Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation](https://arxiv.org/abs/2503.02881), Xue et al., arxiv 2025
+
 
 
 ### Classification/Recognition
