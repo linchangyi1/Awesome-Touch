@@ -312,6 +312,7 @@
 
 - [GelPoLight: A Novel Visual Tactile Sensor Based on Photometric Stereo with Point Lighting](https://ieeexplore.ieee.org/abstract/document/10870064), Lu et al., IEEE Sensors 2025
 
+- [VET: A Visual-Electronic Tactile System for Immersive Human-Machine Interaction](https://arxiv.org/pdf/2503.23440), Zhang et al., arxiv 2025
 
 <!---
 - [](), xxx et al., yyy 2023
