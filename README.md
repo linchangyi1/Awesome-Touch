@@ -943,6 +943,8 @@
 
 - [Artificial Skin Based on Visuo-Tactile Sensing for 3D Shape Reconstruction: Material, Method, and Evaluation](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202411686), Zhang et al., Advanced Functional Materials 2024
 
+- [Tactile Data Generation and Applications Based on Visuo-tactile Sensors: A Review](https://www.sciencedirect.com/science/article/pii/S1566253525002350), Sun et al., Information Fusion 2025
+
 
 ## Thesis
 ### Master
