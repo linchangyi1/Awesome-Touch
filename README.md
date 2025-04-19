@@ -314,6 +314,9 @@
 
 - [VET: A Visual-Electronic Tactile System for Immersive Human-Machine Interaction](https://arxiv.org/pdf/2503.23440), Zhang et al., arxiv 2025
 
+- [VibTac: A High-Resolution High-Bandwidth Tactile Sensing Finger for Multi-Modal Perception in Robotic Manipulation](https://ieeexplore.ieee.org/document/10965524), Athar et al., ToH 2025
+
+
 <!---
 - [](), xxx et al., yyy 2023
 -->
