@@ -316,6 +316,8 @@
 
 - [VibTac: A High-Resolution High-Bandwidth Tactile Sensing Finger for Multi-Modal Perception in Robotic Manipulation](https://ieeexplore.ieee.org/document/10965524), Athar et al., ToH 2025
 
+- [A Modularized Design Approach for Gelsight Family of Vision-based Tactile Sensors](https://arxiv.org/pdf/2504.14739), Arpit et al., IJRR 2025
+
 
 <!---
 - [](), xxx et al., yyy 2023
