@@ -318,6 +318,10 @@
 
 - [A Modularized Design Approach for Gelsight Family of Vision-based Tactile Sensors](https://arxiv.org/pdf/2504.14739), Arpit et al., IJRR 2025
 
+- [PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands](https://arxiv.org/abs/2504.16649), Lin et al., RSS 2025
+
+- [AllTact Fin Ray: A Compliant Robot Gripper with Omni-Directional Tactile Sensing](https://arxiv.org/pdf/2504.18064), Liang et al., arxiv 2025
+
 
 <!---
 - [](), xxx et al., yyy 2023
@@ -840,6 +844,8 @@
 - [Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation](http://arxiv.org/abs/2411.13148), Pitz et al., Humanoids 2024
 
 - [Visuotactile-Based Learning for Insertion with Compliant Hands](https://arxiv.org/pdf/2411.06408), Azulay et al., arxiv 2024
+
+- [PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands](https://arxiv.org/abs/2504.16649), Lin et al., RSS 2025
 
 
 
