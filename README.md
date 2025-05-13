@@ -586,6 +586,8 @@
 
 - [Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation](https://arxiv.org/abs/2503.02881), Xue et al., arxiv 2025
 
+- [GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion](https://arxiv.org/pdf/2505.07455), Jiang et al., arxiv 2025
+
 
 
 ### Classification/Recognition
