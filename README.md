@@ -322,6 +322,8 @@
 
 - [AllTact Fin Ray: A Compliant Robot Gripper with Omni-Directional Tactile Sensing](https://arxiv.org/pdf/2504.18064), Liang et al., arxiv 2025
 
+- [Grasp EveryThing (GET): 1-DoF, 3-Fingered Gripper with Tactile Sensing for Robust Grasping](https://arxiv.org/pdf/2505.09771), Burgess et al., arxiv 2025
+
 
 <!---
 - [](), xxx et al., yyy 2023
