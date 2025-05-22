@@ -590,6 +590,8 @@
 
 - [GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion](https://arxiv.org/pdf/2505.07455), Jiang et al., arxiv 2025
 
+- [PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-rich Manipulation Using Tactile-Diffusion Policies](https://arxiv.org/abs/2504.19341), Zhao et al., ICRA 2025
+
 
 
 ### Classification/Recognition
