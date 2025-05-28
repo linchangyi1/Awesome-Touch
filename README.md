@@ -755,6 +755,8 @@
 
 - [Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation](https://openreview.net/pdf?id=fA3RMMl8ii), Gao et al., NeurIPS 2024
 
+- [CONTROLTAC: Force- and Position-Controlled Tactile Data Augmentation with a Single Reference Image](https://arxiv.org/pdf/2505.20498), Luo et al., arxiv 2025
+
 
 ### Representation Learning
 - [Touch and Go: Learning from Human-Collected Vision and Touch](https://openreview.net/forum?id=ZZ3FeSSPPblo), Yang et al., NeurIPS 2022
