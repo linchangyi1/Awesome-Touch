@@ -6,7 +6,7 @@
   - [Vision-Based](#vision-based)
   - [Visual-Tactile (Multimodal)](#visual-tactile)
   - [Non-Vision-Based](#non-vision-based)
-- [Applications](#applications)
+- [Robotics Applications](#robotics-applications)
   - [Manipulation/Grasping](#manipulationgrasping)
   - [Classification/Recognition](#classificationrecognition)
   - [Mapping/Localization](#mappinglocalization)
@@ -405,7 +405,7 @@
 - [Design and Benchmarking of A Multi-Modality Sensor for Robotic Manipulation with GAN-Based Cross-Modality Interpretation](https://arxiv.org/abs/2501.02303), Zhang et al., TRO 2025
 
 
-## Applications
+## Robotics Applications
 <!---
 - [](), xxx et al., yyy 2023
 -->
@@ -591,6 +591,8 @@
 - [GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion](https://arxiv.org/pdf/2505.07455), Jiang et al., arxiv 2025
 
 - [PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-rich Manipulation Using Tactile-Diffusion Policies](https://arxiv.org/abs/2504.19341), Zhao et al., ICRA 2025
+
+- [FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation](https://arxiv.org/pdf/2506.01941), Wu et al., arxiv 2025
 
 
 
