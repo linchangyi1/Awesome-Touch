@@ -814,6 +814,7 @@
 
 - [iFEM2.0: Dense 3D Contact Force Field Reconstruction and Assessment for Vision-Based Tactile Sensors](https://ieeexplore.ieee.org/abstract/document/10758225), Zhao et al., TRO 2024
 
+- [TensorTouch: Calibration of Tactile Sensors for High Resolution Stress Tensor and Deformation for Dexterous Manipulation](https://arxiv.org/pdf/2506.08291), Do et al., arxiv 2025
 
 ### LLM/VLM
 - [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://arxiv.org/abs/2402.13232), Fu et al., arxiv 2024
