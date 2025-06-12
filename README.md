@@ -882,6 +882,8 @@
 
 - [Real-Time Reconstruction of 3-D Tactile Motion Field via Multitask Learning](https://ieeexplore.ieee.org/document/10522992), Liu et al., Transactions on Instrumentation and Measurement 2024
 
+- [Tactile Elastography](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11027485), Xiang et al., TRO 2025
+
 
 ## Software
 
@@ -935,6 +937,8 @@
 - [Zero-Shot Sim2Real Measurement for Neuromorphic Vision-Based Tactile Sensors](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10680346&tag=1), Salah et al., Transactions on Instrumentation and Measurement 2024
 
 - [Image-Based Tactile Deformation Simulation and Pose Estimation for Robot Skill Learning](https://www.mdpi.com/2076-3417/15/3/1099), Fu et al., Apply Sciences 2025
+
+- [TacFlex: Multi-Mode Tactile Imprints Simulation for Visuotactile Sensors with Coating Patterns](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11024236), Zhang et al., TRO 2025
 
 
 ### Library
@@ -999,8 +1003,8 @@
 
 ## Open-Source
 ### Sensor
-- [DTact](https://github.com/linchangyi1/DTact)
 - [9DTact](https://github.com/linchangyi1/9DTact)
+- [DTact](https://github.com/linchangyi1/DTact)
 - [GelSlim 3.0](https://github.com/mcubelab/gelslim)
 - [GelSlim 4.0](https://www.mmintlab.com/research/gelslim-4-0/)
 - [DIGIT](https://github.com/facebookresearch/digit-design)
