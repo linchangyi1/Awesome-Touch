@@ -741,6 +741,8 @@
 
 - [Visual-auditory Extrinsic Contact Estimation](https://arxiv.org/pdf/2409.14608), Yi et al., arxiv 2024
 
+- [ViTaSCOPE: Visuo-tactile Implicit Representation for In-hand Pose and Extrinsic Contact Estimation](https://arxiv.org/pdf/2506.12239), Lee et al., RSS 2025
+
 
 ### Image Generation
 - [Deep Tactile Experience: Estimating Tactile Sensor Output from Depth Sensor Data](https://ieeexplore.ieee.org/abstract/document/9341596), Patel et al., IROS 2020
