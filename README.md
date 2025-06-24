@@ -326,6 +326,8 @@
 
 - [3D Vision-tactile Reconstruction from Infrared and Visible Images for Robotic Fine-grained Tactile Perception](https://arxiv.org/pdf/2506.15087), Lin et al., arxiv 2025
 
+- [StereoTacTip: Vision-based Tactile Sensing with Biomimetic Skin-Marker Arrangements](https://arxiv.org/pdf/2506.18040), Lu et al., arxiv 2025
+
 
 <!---
 - [](), xxx et al., yyy 2023
