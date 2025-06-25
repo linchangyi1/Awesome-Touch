@@ -799,6 +799,10 @@
 
 - [AnyTouch: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors](https://arxiv.org/abs/2502.12191), Feng et al., ICLR 2025
 
+- [UniTac-NV: A Unified Tactile Representation For Non-Vision-Based Tactile Sensors](https://arxiv.org/pdf/2506.19699), Hou et al., arxiv 2025
+
+
+
 ### Force Estimation
 - [Dense Tactile Force Estimation using GelSlim and inverse FEM](https://ieeexplore.ieee.org/abstract/document/8794113), Ma et al., ICRA 2019
 
