@@ -801,6 +801,7 @@
 
 - [UniTac-NV: A Unified Tactile Representation For Non-Vision-Based Tactile Sensors](https://arxiv.org/pdf/2506.19699), Hou et al., arxiv 2025
 
+- [ConViTac: Aligning Visual-Tactile Fusion with Contrastive Representations](https://arxiv.org/pdf/2506.20757), Wu et al., arxiv 2025
 
 
 ### Force Estimation
