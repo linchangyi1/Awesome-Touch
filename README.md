@@ -895,6 +895,11 @@
 
 - [Tactile Elastography](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11027485), Xiang et al., TRO 2025
 
+- [Active Perception for Tactile Sensing: A Task-Agnostic Attention-Based Approach](https://arxiv.org/pdf/2505.06182), Schneider et al., arxiv 2025
+
+- [Tactile MNIST: Benchmarking Active Tactile Perception](https://arxiv.org/pdf/2506.06361), Schneider et al., arxiv 2025
+
+
 
 ## Software
 
