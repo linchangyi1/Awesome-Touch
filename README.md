@@ -598,6 +598,8 @@
 
 - [FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation](https://arxiv.org/pdf/2506.01941), Wu et al., arxiv 2025
 
+- [TactileAloha: Learning Bimanual Manipulation with Tactile Sensing](https://ieeexplore.ieee.org/document/11063285), Gu et al., RAL 2025
+
 
 
 ### Classification/Recognition
