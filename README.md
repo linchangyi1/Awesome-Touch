@@ -840,6 +840,10 @@
 
 - [CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding](https://arxiv.org/pdf/2505.08194), Ma et al., arxiv 2025
 
+- [Demonstrating the Octopi-1.5 Visual-Tactile-Language Model](https://arxiv.org/pdf/2507.09985), Yu et al., RSS 2025
+
+- [Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization](https://arxiv.org/pdf/2507.09160), Huange et al., arxiv 2025
+
 
 ### Dexterous Hand Manipulation
 - [All the Feels: A dexterous hand with large-area tactile sensing](https://arxiv.org/pdf/2210.15658), Bhirangi et al., arxiv 2022
