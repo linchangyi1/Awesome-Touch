@@ -844,6 +844,8 @@
 
 - [Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization](https://arxiv.org/pdf/2507.09160), Huange et al., arxiv 2025
 
+- [Universal Visuo-Tactile Video Understanding for Embodied Interaction](https://arxiv.org/pdf/2505.22566), Xie et al., arxiv 2025
+
 
 ### Dexterous Hand Manipulation
 - [All the Feels: A dexterous hand with large-area tactile sensing](https://arxiv.org/pdf/2210.15658), Bhirangi et al., arxiv 2022
