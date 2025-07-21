@@ -645,6 +645,8 @@
 
 - [Sim2Surf: a Sim2Real Surface Classifier for Vision-Based Tactile Sensors with a Bilevel Adaptation Pipeline](https://ieeexplore.ieee.org/abstract/document/10851808), Caddeo et al., IEEE Sensors 2025
 
+- [RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data](https://arxiv.org/pdf/2505.14270), Cho et al., ACM MM 2025
+
 
 ### Mapping/Localization
 - [Tracking objects with point clouds from vision and touch](https://ieeexplore.ieee.org/abstract/document/7989460), Izatt et al., ICRA 2017
