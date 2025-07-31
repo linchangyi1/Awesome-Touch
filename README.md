@@ -328,6 +328,8 @@
 
 - [StereoTacTip: Vision-based Tactile Sensing with Biomimetic Skin-Marker Arrangements](https://arxiv.org/pdf/2506.18040), Lu et al., arxiv 2025
 
+- [UTact: Underwater Vision-Based Tactile Sensor with Geometry Reconstruction and Contact Force Estimation](https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adrr.202500091), Zhang et al., Advanced Robotics Research 2025
+
 
 <!---
 - [](), xxx et al., yyy 2023
@@ -908,6 +910,8 @@
 - [Active Perception for Tactile Sensing: A Task-Agnostic Attention-Based Approach](https://arxiv.org/pdf/2505.06182), Schneider et al., arxiv 2025
 
 - [Tactile MNIST: Benchmarking Active Tactile Perception](https://arxiv.org/pdf/2506.06361), Schneider et al., arxiv 2025
+
+- [SuperMag: Vision-based Tactile Data Guided High-resolution Tactile Shape Reconstruction for Magnetic Tactile Sensors](https://arxiv.org/pdf/2507.20002), Hou et al., arxiv 2025
 
 
 
