@@ -331,6 +331,7 @@
 - [UTact: Underwater Vision-Based Tactile Sensor with Geometry Reconstruction and Contact Force Estimation](https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adrr.202500091), Zhang et al., Advanced Robotics Research 2025
 
 
+
 <!---
 - [](), xxx et al., yyy 2023
 -->
@@ -355,6 +356,8 @@
 - [VisTac Toward a Unified Multimodal Sensing Finger for Robotic Manipulation](https://ieeexplore.ieee.org/document/10242327), Athar et al., IEEE Sensors 2023
 
 - [CompdVision: Combining Near-Field 3D Visual and Tactile Sensing Using a Compact Compound-Eye Imaging System](https://arxiv.org/pdf/2312.07146.pdf), Luo et al., arxiv 2023
+
+- [Vision-based Proximity and Tactile Sensing for Robot Arms: Design, Perception, and Control](https://ieeexplore.ieee.org/abstract/document/11097357), Luu et al., TRO 2025
 
 
 ### Non-Vision-Based
