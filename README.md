@@ -999,13 +999,15 @@
 
 - [Hardware Technology of Vision-Based Tactile Sensor: A Review](https://ieeexplore.ieee.org/abstract/document/9911183), Zhang et al., IEEE Sensors 2022
 
--[Marker Displacement MethodUsedinVision-Based Tactile Sensors—From 2D to 3D: A Review](https://www.techrxiv.org/articles/preprint/Marker_Displacement_Method_Used_in_Vision-Based_Tactile_Sensors_From_2D_to_3D_A_Review/22122596), LI et al., IEEE Sensors 2023
+- [Marker Displacement MethodUsedinVision-Based Tactile Sensors—From 2D to 3D: A Review](https://www.techrxiv.org/articles/preprint/Marker_Displacement_Method_Used_in_Vision-Based_Tactile_Sensors_From_2D_to_3D_A_Review/22122596), LI et al., IEEE Sensors 2023
 
 - [When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors from the Signal Processing Perspective](https://arxiv.org/pdf/2406.12226), Li et al., arxiv 2024
 
 - [Artificial Skin Based on Visuo-Tactile Sensing for 3D Shape Reconstruction: Material, Method, and Evaluation](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202411686), Zhang et al., Advanced Functional Materials 2024
 
 - [Tactile Data Generation and Applications Based on Visuo-tactile Sensors: A Review](https://www.sciencedirect.com/science/article/pii/S1566253525002350), Sun et al., Information Fusion 2025
+
+- [Tactile Robotics: An Outlook](https://arxiv.org/pdf/2508.11261), Luo et al., TRO 2025
 
 
 ## Thesis
