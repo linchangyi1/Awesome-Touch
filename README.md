@@ -738,6 +738,8 @@
 
 - [NormalFlow: Fast, Robust, and Accurate Contact-based Object 6DoF Pose Tracking with Vision-based Tactile Sensors](https://ieeexplore.ieee.org/abstract/document/10766628), Huang et al., RAL 2024
 
+- [GelSLAM: A Real-time, High-Fidelity, and Robust 3D Tactile SLAM System](https://arxiv.org/pdf/2508.15990), Huang et al., arxiv 2025
+
 
 ### Extrinsic Contact Sensing
 - [Extrinsic Contact Sensing with Relative-Motion Tracking from Distributed Tactile Measurements](https://ieeexplore.ieee.org/abstract/document/9561781), Ma et al., ICRA 2021
