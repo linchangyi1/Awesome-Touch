@@ -345,6 +345,8 @@
 
 - [Seeing Through your Skin: Recognizing Objects with a Novel Visuotactile Sensor](https://openaccess.thecvf.com/content/WACV2021/papers/Hogan_Seeing_Through_Your_Skin_Recognizing_Objects_With_a_Novel_Visuotactile_WACV_2021_paper.pdf), Hogan et al., WACV 2021
 
+- [UVtac: Switchable UV Marker-Based Tactile Sensing Finger for Effective Force Estimation and Object Localization](https://ieeexplore.ieee.org/document/9745352), Kim et al., RAL 2022
+
 - [Finger-STS: Combined Proximity and Tactile Sensing for Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/9832483), Hogan et al., RAL 2022
 
 - [SpecTac: A Visual-Tactile Dual-Modality Sensor Using UV Illumination](https://ieeexplore.ieee.org/abstract/document/9812348), Wang et al., ICRA 2022
@@ -768,6 +770,8 @@
 
 - [Learning to Read Braille: Bridging the Tactile Reality Gap with Diffusion Models](https://arxiv.org/abs/2304.01182.pdf), Higuera et al., ICRA 2023
 
+- [Marker-Embedded Tactile Image Generation via Generative Adversarial Networks](https://ieeexplore.ieee.org/document/10146407), Kim et al., RAL 2023
+
 - [Generating Visual Scenes from Touch](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Generating_Visual_Scenes_from_Touch_ICCV_2023_paper.html), Yang et al., ICCV 2023
 
 - [Touch2Touch: Cross-Modal Tactile Generation for Object Manipulation](https://arxiv.org/pdf/2409.08269), Rodriguez et al., arxiv 2024
@@ -1010,6 +1014,8 @@
 - [Tactile Data Generation and Applications Based on Visuo-tactile Sensors: A Review](https://www.sciencedirect.com/science/article/pii/S1566253525002350), Sun et al., Information Fusion 2025
 
 - [Tactile Robotics: An Outlook](https://arxiv.org/pdf/2508.11261), Luo et al., TRO 2025
+
+- [Classification of Vision-Based Tactile Sensors: A Review](https://ieeexplore.ieee.org/abstract/document/11134134), Li et al., IEEE Sensors 2025
 
 
 ## Thesis
