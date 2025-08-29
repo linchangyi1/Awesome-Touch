@@ -330,6 +330,7 @@
 
 - [UTact: Underwater Vision-Based Tactile Sensor with Geometry Reconstruction and Contact Force Estimation](https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adrr.202500091), Zhang et al., Advanced Robotics Research 2025
 
+- [UltraTac: Integrated Ultrasound-Augmented Visuotactile Sensor for Enhanced Robotic Perception](https://arxiv.org/pdf/2508.20982), Gong et al., arxiv 2025
 
 
 <!---
@@ -606,6 +607,8 @@
 - [FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation](https://arxiv.org/pdf/2506.01941), Wu et al., arxiv 2025
 
 - [TactileAloha: Learning Bimanual Manipulation with Tactile Sensing](https://ieeexplore.ieee.org/document/11063285), Gu et al., RAL 2025
+
+- [SimShear: Sim-to-Real Shear-based Tactile Servoing](https://arxiv.org/pdf/2508.20561), Freud et al., arxiv 2025
 
 
 
