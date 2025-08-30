@@ -990,6 +990,7 @@
 
 - [TacSL: A Library for Visuotactile Sensor Simulation and Learning](https://arxiv.org/pdf/2408.06506), Akinola et al., arxiv 2024
 
+- [PneuGelSight: Soft Robotic Vision-Based Proprioception and Tactile Sensing](https://arxiv.org/pdf/2508.18443), Zhang et al., arxiv 2025
 
 ## Review
 - [Artificial Sense of Slip—A Review](https://ieeexplore.ieee.org/document/6479676), Francomano et al., IEEE Sensors 2013
