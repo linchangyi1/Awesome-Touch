@@ -612,6 +612,8 @@
 
 - [SimShear: Sim-to-Real Shear-based Tactile Servoing](https://arxiv.org/pdf/2508.20561), Freud et al., arxiv 2025
 
+- [Reactive In-Air Clothing Manipulation with Confidence-Aware Dense Correspondence and Visuotactile Affordance](https://arxiv.org/pdf/2509.03889), Sunil et al., CoRL 2025
+
 
 
 ### Classification/Recognition
