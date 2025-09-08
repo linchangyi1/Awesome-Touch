@@ -15,7 +15,9 @@
   - [Representation Learnig](#representation-learning)
   - [Force Estimation](#force-estimation)
   - [LLM/VLM/VLA](#llmvlmvla)
-  - [Dexterous Hand Manipulation](#dexterous-hand-manipulation)
+  - [Dexterous Manipulation](#dexterous-manipulation)
+  - [Data Collection](#data-collection)
+  - [Tactile Policies for Legged Robots](#tactile-policies-for-legged-robots)
   - [Others](#others)
 - [Software](#software)
   - [Simulator](#simulator)
@@ -865,7 +867,7 @@
 - [OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing](https://arxiv.org/pdf/2508.08706), Cheng et al., arxiv 2025
 
 
-### Dexterous Hand Manipulation
+### Dexterous Manipulation
 - [All the Feels: A dexterous hand with large-area tactile sensing](https://arxiv.org/pdf/2210.15658), Bhirangi et al., arxiv 2022
 
 - [Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand](https://arxiv.org/abs/2204.03698), Sievers et al., ICRA 2022
@@ -896,6 +898,49 @@
 
 - [PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands](https://arxiv.org/abs/2504.16649), Lin et al., RSS 2025
 
+
+### Data Collection
+- [MimicTouch: Leveraging Multi-modal Human Tactile Demonstrations for Contact-rich Manipulation](https://arxiv.org/pdf/2310.16917), Yu et al., CoRL 2024
+
+- [Learning Visuotactile Skills with Two Multifingered Hands](https://arxiv.org/pdf/2404.16823), Lin et al., arxiv 2024
+
+- [ManiWAV: Learning Robot Manipulation from In-the-Wild Audio-Visual Data](https://arxiv.org/pdf/2406.19464?), Liu et al., CoRL 2024
+
+- [3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing](https://arxiv.org/pdf/2410.24091), Huang et al., CoRL 2024
+
+- [Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning](https://arxiv.org/pdf/2407.03162), Ding et al., arxiv 2024
+
+- [Learning Precise, Contact-Rich Manipulation through Uncalibrated Tactile Skins](https://arxiv.org/pdf/2410.17246), Pattabiraman et al., arxiv 2024
+
+- [Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation](https://arxiv.org/pdf/2503.02881), Xue et al., RSS 2025
+
+- [DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove](https://arxiv.org/pdf/2502.07730), Zhang et al., RSS 2025
+
+- [FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning](https://arxiv.org/pdf/2502.17432), Liu et al., RSS 2025
+
+- [TacCap: A Wearable FBG-Based Tactile Sensor for Seamless Human-to-Robot Skill Transfer](https://arxiv.org/pdf/2503.01789), Xing et al., arxiv 2025
+
+- [ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface](https://arxiv.org/pdf/2504.06156), Liu et al., arxiv 2025
+
+- [TactileAloha: Learning Bimanual Manipulation With Tactile Sensing](https://ieeexplore.ieee.org/document/11063285), Gu et al., RAL 2025
+
+- [PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-rich Manipulation Using Tactile-Diffusion Policies](https://arxiv.org/pdf/2504.19341), Zhao et al., ICRA 2025
+
+- [GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion](https://arxiv.org/pdf/2505.07455), Jiang et al., arxiv 2025
+
+- [FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation](https://arxiv.org/pdf/2506.01941), Wu et al., arxiv 2025
+
+- [DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation](https://arxiv.org/pdf/2509.04441), Fang et al., arxiv 2025
+
+- [ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation](https://arxiv.org/pdf/2506.15953), Heng et al., arxiv 2025
+
+- [DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation](https://arxiv.org/pdf/2505.21864), Xu et al., CoRL 2025
+
+- [DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation](https://arxiv.org/pdf/2509.04441), Fang et al., arxiv 2025
+
+
+### Tactile Policies for Legged Robots
+- [LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing](https://arxiv.org/abs/2505.23175), Lin et al., CoRL 2025
 
 
 ### Others
@@ -1020,6 +1065,8 @@
 - [Tactile Robotics: An Outlook](https://arxiv.org/pdf/2508.11261), Luo et al., TRO 2025
 
 - [Classification of Vision-Based Tactile Sensors: A Review](https://ieeexplore.ieee.org/abstract/document/11134134), Li et al., IEEE Sensors 2025
+
+- [A Survey of Vision-Based Tactile Sensors: Hardware, Algorithm, Application and Future Direction](https://ieeexplore.ieee.org/abstract/document/11146862), He et al., IEEE Transactions on Instrumentation and Measurement 2025
 
 
 ## Thesis
