@@ -614,6 +614,8 @@
 
 - [Reactive In-Air Clothing Manipulation with Confidence-Aware Dense Correspondence and Visuotactile Affordance](https://arxiv.org/pdf/2509.03889), Sunil et al., CoRL 2025
 
+- [Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions](https://arxiv.org/pdf/2509.07445), Field et al., arxiv 2025
+
 
 
 ### Classification/Recognition
@@ -867,6 +869,8 @@
 - [Universal Visuo-Tactile Video Understanding for Embodied Interaction](https://arxiv.org/pdf/2505.22566), Xie et al., arxiv 2025
 
 - [OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing](https://arxiv.org/pdf/2508.08706), Cheng et al., arxiv 2025
+
+- [Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions](https://arxiv.org/pdf/2509.07445), Field et al., arxiv 2025
 
 
 ### Dexterous Manipulation
