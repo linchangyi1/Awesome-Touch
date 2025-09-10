@@ -28,6 +28,7 @@
 - [Products](#products)
 - [Open Source](#open-source)
 - [Laboratory](#laboratory)
+- [Citation](#citation)
 
 
 
@@ -1204,4 +1205,18 @@
 - [Peking University - Huanbo Sun - Haptic Sensing Lab](https://hapticsensinglab.com/)
 - [QMUL - Kaspar Althoefer](https://www.sems.qmul.ac.uk/staff/k.althoefer)
 - [KCL - Hongbin Liu - HaMMeR Lab](https://kclhammerlab.com/)
+
+
+
+## Citation
+If you find this repository useful, please cite:
+```bibtex
+@misc{Awesome_Touch_2022,
+  title  = {Awesome-Touch},
+  author = {Changyi Lin},
+  year   = {2022},
+  url    = {https://github.com/linchangyi1/Awesome-Touch},
+  note   = {GitHub repository}
+}
+```
 
