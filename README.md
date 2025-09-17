@@ -419,6 +419,8 @@
 
 - [Design and Benchmarking of A Multi-Modality Sensor for Robotic Manipulation with GAN-Based Cross-Modality Interpretation](https://arxiv.org/abs/2501.02303), Zhang et al., TRO 2025
 
+- [DexSkin: High-Coverage Conformable Robotic Skin for Learning Contact-Rich Manipulation](https://openreview.net/attachment?id=CNPCSuwxJw&name=pdf), Wistreich et al., CoRL 2025
+
 
 ## Robotics Applications
 <!---
@@ -617,6 +619,8 @@
 
 - [Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions](https://arxiv.org/pdf/2509.07445), Field et al., arxiv 2025
 
+- [exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation](https://openreview.net/attachment?id=b86nyIOJWq&name=pdf), Xu et al., CoRL 2025
+
 
 
 ### Classification/Recognition
@@ -752,6 +756,9 @@
 
 - [GelSLAM: A Real-time, High-Fidelity, and Robust 3D Tactile SLAM System](https://arxiv.org/pdf/2508.15990), Huang et al., arxiv 2025
 
+- [UniTac2Pose: A Unified Approach Learned in Simulation for Category-level Visuotactile In-hand Pose Estimation](https://openreview.net/attachment?id=DiyLz91PKF&name=pdf), Wu et al., CoRL 2025
+
+
 
 ### Extrinsic Contact Sensing
 - [Extrinsic Contact Sensing with Relative-Motion Tracking from Distributed Tactile Measurements](https://ieeexplore.ieee.org/abstract/document/9561781), Ma et al., ICRA 2021
@@ -789,6 +796,8 @@
 - [Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation](https://openreview.net/pdf?id=fA3RMMl8ii), Gao et al., NeurIPS 2024
 
 - [CONTROLTAC: Force- and Position-Controlled Tactile Data Augmentation with a Single Reference Image](https://arxiv.org/pdf/2505.20498), Luo et al., arxiv 2025
+
+- [Cross-Sensor Touch Generation](https://openreview.net/attachment?id=oGcC8nMOit&name=pdf), Rodriguez et al., CoRL 2025
 
 
 ### Representation Learning
@@ -944,6 +953,8 @@
 - [DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation](https://arxiv.org/pdf/2505.21864), Xu et al., CoRL 2025
 
 - [DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation](https://arxiv.org/pdf/2509.04441), Fang et al., arxiv 2025
+
+- [exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation](https://openreview.net/attachment?id=b86nyIOJWq&name=pdf), Xu et al., CoRL 2025
 
 
 ### Tactile Policies for Legged Robots
