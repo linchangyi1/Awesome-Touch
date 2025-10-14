@@ -1108,12 +1108,14 @@
 
 
 ## Products
+- [9DTact](e.tb.cn/h.hJlaI3aoyO30DGk?tk=K9Vm4iYdHwj)
 - [DIGIT](https://www.gelsight.com/product/digit-tactile-sensor/)
 - [GelSight Mini](https://www.gelsight.com/product/gelsight-mini-system/)
 - [FingerVision](https://www.fingervision.jp/en/service-product)
 - [BioTac](https://syntouchinc.com/robotics/)
 - [uSkin](https://www.xelarobotics.com/tactile-sensors)
 - [Paxini](https://paxini.com/product/sensorax)
+- [AIDIA Tiny FT Sensor](https://www.aidinrobotics.co.kr/en/miniature-6-axis-ft-sensor)
 
 ## Open-Source
 ### Sensor
