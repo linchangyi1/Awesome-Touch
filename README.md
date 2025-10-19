@@ -335,6 +335,8 @@
 
 - [UltraTac: Integrated Ultrasound-Augmented Visuotactile Sensor for Enhanced Robotic Perception](https://arxiv.org/pdf/2508.20982), Gong et al., arxiv 2025
 
+- [TacScope: A Miniaturized Vision-Based Tactile Sensor for Surgical Applications](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adrr.202500117), Prince et al., Advanced Robotics Research 2025
+
 
 <!---
 - [](), xxx et al., yyy 2023
