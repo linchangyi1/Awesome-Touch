@@ -1049,6 +1049,8 @@
 
 - [TacFlex: Multi-Mode Tactile Imprints Simulation for Visuotactile Sensors with Coating Patterns](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11024236), Zhang et al., TRO 2025
 
+- [Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation](https://arxiv.org/abs/2504.12908), Li et al., NeurIPS 2025
+
 
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
@@ -1172,6 +1174,7 @@
 - [BioTac](https://github.com/wzaielamri/optimizing_biotac_simulation)
 - [M3L](https://github.com/carlosferrazza/tactile_envs)
 - [AllSight](https://github.com/osheraz/allsight_sim)
+- [Taccel](https://github.com/Taccel-Simulator/Taccel)
   
 ### Dataset
 - [Visual-Tactile_Dataset](https://github.com/tsinghua-rll/Visual-Tactile_Dataset)
