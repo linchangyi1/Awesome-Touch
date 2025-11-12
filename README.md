@@ -1053,6 +1053,7 @@
 
 - [Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation](https://arxiv.org/abs/2504.12908), Li et al., NeurIPS 2025
 
+- [ACROSS: A Deformation-Based Cross-Modal Representation for Robotic Tactile Perception](https://arxiv.org/abs/2411.08533), Zai El Amri et al., ICRA 2025
 
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
