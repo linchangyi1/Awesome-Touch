@@ -994,6 +994,8 @@
 
 - [SuperMag: Vision-based Tactile Data Guided High-resolution Tactile Shape Reconstruction for Magnetic Tactile Sensors](https://arxiv.org/pdf/2507.20002), Hou et al., arxiv 2025
 
+- [Benchmarking Resilience and Sensitivity of Polyurethane-Based Vision-Based Tactile Sensors](https://arxiv.org/pdf/2511.07797), Davis et al., arxiv 2025
+
 
 
 ## Software
