@@ -623,6 +623,8 @@
 
 - [exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation](https://openreview.net/attachment?id=b86nyIOJWq&name=pdf), Xu et al., CoRL 2025
 
+- [Touch begins where vision ends: Generalizable policies for contact-rich manipulation](https://arxiv.org/pdf/2506.13762),  Zhao et al., arxiv 2025
+
 
 
 ### Classification/Recognition
