@@ -337,6 +337,10 @@
 
 - [TacScope: A Miniaturized Vision-Based Tactile Sensor for Surgical Applications](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adrr.202500117), Prince et al., Advanced Robotics Research 2025
 
+- [MagicSkin: Balancing Marker and Markerless Modes in Vision-Based Tactile Sensors with a Translucent Skin](https://arxiv.org/pdf/2512.06829), Tijani et al., arxiv 2025
+
+- [TacFinRay: Soft Tactile Fin-Ray Finger with Indirect Tactile Sensing for Robust Grasping](https://arxiv.org/pdf/2512.06524), Nam et al., arxiv 2025
+
 
 <!---
 - [](), xxx et al., yyy 2023
