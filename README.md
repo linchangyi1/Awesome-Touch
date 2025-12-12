@@ -371,6 +371,7 @@
 
 - [Vision-based Proximity and Tactile Sensing for Robot Arms: Design, Perception, and Control](https://ieeexplore.ieee.org/abstract/document/11097357), Luu et al., TRO 2025
 
+- [Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation](https://arxiv.org/pdf/2512.09851), Li et al., arxiv 2025
 
 ### Non-Vision-Based
 
@@ -965,6 +966,8 @@
 - [exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation](https://openreview.net/attachment?id=b86nyIOJWq&name=pdf), Xu et al., CoRL 2025
 
 - [ViTaMIn-B: A Reliable and Efficient Visuo-Tactile Bimanual Manipulation Interface](https://arxiv.org/pdf/2511.05858), Li et al., arxiv 2025
+
+- [Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation](https://arxiv.org/pdf/2512.09851), Li et al., arxiv 2025
 
 
 ### Tactile Policies for Legged Robots
