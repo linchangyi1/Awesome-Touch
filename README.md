@@ -373,6 +373,8 @@
 
 - [Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation](https://arxiv.org/pdf/2512.09851), Li et al., arxiv 2025
 
+- [Biomimetic multimodal tactile sensing enables human-like robotic perception](https://www.nature.com/articles/s44460-025-00006-y), Li et al., nature sensors 2026
+
 ### Non-Vision-Based
 
 - [Magnetic Resonance-Compatible Tactile Force Sensor Using Fiber Optics and Vision Sensor](https://ieeexplore.ieee.org/abstract/document/6600735), Xie et al.,  IEEE Sensors 2014
