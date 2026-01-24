@@ -341,6 +341,8 @@
 
 - [TacFinRay: Soft Tactile Fin-Ray Finger with Indirect Tactile Sensing for Robust Grasping](https://arxiv.org/pdf/2512.06524), Nam et al., arxiv 2025
 
+- [High-Precision RGB-NIR Vision-Tactile Sensor via Neural Inverse Rendering for Robotic Perception](https://arxiv.org/pdf/2512.06524), Lin et al., Transactions on Mechatronics 2026
+
 
 <!---
 - [](), xxx et al., yyy 2023
