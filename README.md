@@ -808,6 +808,8 @@
 
 - [Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation](https://openreview.net/pdf?id=fA3RMMl8ii), Gao et al., NeurIPS 2024
 
+- [TactGen: Tactile Sensory Data Generation via Zero-Shot Sim-to-Real Transfer](https://ieeexplore.ieee.org/document/10815063), Zhong et al., TRO 2024
+
 - [CONTROLTAC: Force- and Position-Controlled Tactile Data Augmentation with a Single Reference Image](https://arxiv.org/pdf/2505.20498), Luo et al., arxiv 2025
 
 - [Cross-Sensor Touch Generation](https://openreview.net/attachment?id=oGcC8nMOit&name=pdf), Rodriguez et al., CoRL 2025
