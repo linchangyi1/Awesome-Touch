@@ -377,6 +377,10 @@
 
 - [Biomimetic multimodal tactile sensing enables human-like robotic perception](https://www.nature.com/articles/s44460-025-00006-y), Li et al., nature sensors 2026
 
+- [Design and application of multimodal visual-tactile sensor for object information perception](https://www.sciencedirect.com/science/article/pii/S0924424726000804?via%3Dihub), Wang et al., Sensors and Actuators 2026
+
+
+
 ### Non-Vision-Based
 
 - [Magnetic Resonance-Compatible Tactile Force Sensor Using Fiber Optics and Vision Sensor](https://ieeexplore.ieee.org/abstract/document/6600735), Xie et al.,  IEEE Sensors 2014
@@ -976,6 +980,8 @@
 - [Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation](https://arxiv.org/pdf/2512.09851), Li et al., arxiv 2025
 
 - [TacUMI: A Multi-Modal Universal Manipulation Interface for Contact-Rich Tasks](https://arxiv.org/pdf/2601.14550), Cheng et al., arxiv 2026
+
+- [TouchGuide: Inference-Time Steering of Visuomotor Policies via Touch Guidance](https://arxiv.org/pdf/2601.20239), Zhang et al., arxiv 2026
 
 
 ### Tactile Policies for Legged Robots
