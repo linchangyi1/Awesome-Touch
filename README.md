@@ -379,6 +379,8 @@
 
 - [Design and application of multimodal visual-tactile sensor for object information perception](https://www.sciencedirect.com/science/article/pii/S0924424726000804?via%3Dihub), Wang et al., Sensors and Actuators 2026
 
+- [A Low-Cost Vision-Based Tactile Gripper with Pretraining Learning for Contact-Rich Manipulation](https://arxiv.org/pdf/2602.00514), Liu et al., arxiv 2026
+
 
 
 ### Non-Vision-Based
