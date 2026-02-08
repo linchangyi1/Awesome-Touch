@@ -14,7 +14,7 @@
   - [Image Generation](#image-generation)
   - [Representation Learnig](#representation-learning)
   - [Force Estimation](#force-estimation)
-  - [LLM/VLM/VLA](#llmvlmvla)
+  - [LLM/VLM/VLA/WM](#llmvlmvlawm)
   - [Dexterous Manipulation](#dexterous-manipulation)
   - [Data Collection](#data-collection)
   - [Tactile Policies for Legged Robots](#tactile-policies-for-legged-robots)
@@ -882,7 +882,7 @@
 
 - [TensorTouch: Calibration of Tactile Sensors for High Resolution Stress Tensor and Deformation for Dexterous Manipulation](https://arxiv.org/pdf/2506.08291), Do et al., arxiv 2025
 
-### LLM/VLM/VLA
+### LLM/VLM/VLA/WM
 - [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://arxiv.org/abs/2402.13232), Fu et al., arxiv 2024
 
 - [Binding Touch to Everything: Learning Unified Multimodal Tactile Representations](https://arxiv.org/abs/2401.18084), Yang et al., CVPR 2024
@@ -902,6 +902,8 @@
 - [OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing](https://arxiv.org/pdf/2508.08706), Cheng et al., arxiv 2025
 
 - [Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions](https://arxiv.org/pdf/2509.07445), Field et al., arxiv 2025
+
+- [Visuo-Tactile World Models](https://arxiv.org/pdf/2602.06001), Higuera et al., arxiv 2026
 
 
 ### Dexterous Manipulation
