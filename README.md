@@ -640,6 +640,8 @@
 
 - [Touch begins where vision ends: Generalizable policies for contact-rich manipulation](https://arxiv.org/pdf/2506.13762),  Zhao et al., arxiv 2025
 
+- [Learning Force-Regulated Manipulation with a Low-Cost Tactile-Force-Controlled Gripper](https://arxiv.org/pdf/2602.10013),  Kang et al., arxiv 2026
+
 
 
 ### Classification/Recognition
@@ -857,6 +859,8 @@
 - [UniTac-NV: A Unified Tactile Representation For Non-Vision-Based Tactile Sensors](https://arxiv.org/pdf/2506.19699), Hou et al., arxiv 2025
 
 - [ConViTac: Aligning Visual-Tactile Fusion with Contrastive Representations](https://arxiv.org/pdf/2506.20757), Wu et al., arxiv 2025
+
+- [AnyTouch 2: General Optical Tactile Representation Learning For Dynamic Tactile Perception](https://arxiv.org/pdf/2602.09617), Feng et al., arxiv 2026
 
 
 ### Force Estimation
@@ -1083,6 +1087,10 @@
 - [Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation](https://arxiv.org/abs/2504.12908), Li et al., NeurIPS 2025
 
 - [ACROSS: A Deformation-Based Cross-Modal Representation for Robotic Tactile Perception](https://arxiv.org/abs/2411.08533), Zai El Amri et al., ICRA 2025
+
+- [UniVTAC: A Unified Simulation Platform for Visuo-Tactile Manipulation Data Generation, Learning, and Benchmarking](https://arxiv.org/pdf/2602.10093), Chen et al., arxiv 2026
+
+
 
 ### Library
 - [PyTouch: A Machine Learning Library for Touch Processing](https://ieeexplore.ieee.org/abstract/document/9561084), Lambeta et al., ICRA 2021
