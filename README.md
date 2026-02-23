@@ -779,6 +779,8 @@
 
 - [UniTac2Pose: A Unified Approach Learned in Simulation for Category-level Visuotactile In-hand Pose Estimation](https://openreview.net/attachment?id=DiyLz91PKF&name=pdf), Wu et al., CoRL 2025
 
+- [Estimating High-Resolution Neural Stiffness Fields using Visuotactile Sensors](https://ieeexplore.ieee.org/document/11128319/), Han et al., ICRA 2025
+
 
 
 ### Extrinsic Contact Sensing
