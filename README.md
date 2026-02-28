@@ -381,6 +381,8 @@
 
 - [A Low-Cost Vision-Based Tactile Gripper with Pretraining Learning for Contact-Rich Manipulation](https://arxiv.org/pdf/2602.00514), Liu et al., arxiv 2026
 
+- [FruitTouch: A Perceptive Gripper for Gentle and Scalable Fruit Harvesting](https://arxiv.org/pdf/2602.18991), Zhang et al., arxiv 2026
+
 
 
 ### Non-Vision-Based
