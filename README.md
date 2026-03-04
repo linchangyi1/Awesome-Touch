@@ -343,6 +343,8 @@
 
 - [High-Precision RGB-NIR Vision-Tactile Sensor via Neural Inverse Rendering for Robotic Perception](https://arxiv.org/pdf/2512.06524), Lin et al., Transactions on Mechatronics 2026
 
+- [SpikingTac: A Miniaturized Neuromorphic Visuotactile Sensor for High-Precision Dynamic Tactile Imprint Tracking](https://arxiv.org/pdf/2602.23654), Jiang et al., arxiv 2026
+
 
 <!---
 - [](), xxx et al., yyy 2023
