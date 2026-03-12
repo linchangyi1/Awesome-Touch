@@ -947,6 +947,8 @@
 
 - [PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands](https://arxiv.org/abs/2504.16649), Lin et al., RSS 2025
 
+- [Contact-Grounded Policy: Dexterous Visuotactile Policy with Generative Contact Grounding](https://arxiv.org/pdf/2603.05687), Xu et al., arxiv 2026
+
 
 ### Data Collection
 - [MimicTouch: Leveraging Multi-modal Human Tactile Demonstrations for Contact-rich Manipulation](https://arxiv.org/pdf/2310.16917), Yu et al., CoRL 2024
