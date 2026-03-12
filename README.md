@@ -345,6 +345,8 @@
 
 - [SpikingTac: A Miniaturized Neuromorphic Visuotactile Sensor for High-Precision Dynamic Tactile Imprint Tracking](https://arxiv.org/pdf/2602.23654), Jiang et al., arxiv 2026
 
+- [NLiPsCalib: An Efficient Calibration Framework for High-Fidelity 3D Reconstruction of Curved Visuotactile Sensors](https://arxiv.org/pdf/2603.09319), Qin et al., arxiv 2026
+
 
 <!---
 - [](), xxx et al., yyy 2023
