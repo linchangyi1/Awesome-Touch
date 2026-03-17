@@ -917,6 +917,13 @@
 
 - [Visuo-Tactile World Models](https://arxiv.org/pdf/2602.06001), Higuera et al., arxiv 2026
 
+- [HapticVLA: Contact-Rich Manipulation via Vision-Language-Action Model without Inference-Time Tactile Sensing](https://arxiv.org/pdf/2603.15257), Gubernatorov et al., arxiv 2026
+
+- [ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation](https://arxiv.org/pdf/2603.15169), Li et al., arxiv 2026
+
+- [Tactile Modality Fusion for Vision-Language-Action Models](https://arxiv.org/pdf/2603.14604), Morissette et al., arxiv 2026
+
+
 
 ### Dexterous Manipulation
 - [All the Feels: A dexterous hand with large-area tactile sensing](https://arxiv.org/pdf/2210.15658), Bhirangi et al., arxiv 2022
