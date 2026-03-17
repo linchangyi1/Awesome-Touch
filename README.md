@@ -1107,6 +1107,8 @@
 
 - [UniVTAC: A Unified Simulation Platform for Visuo-Tactile Manipulation Data Generation, Learning, and Benchmarking](https://arxiv.org/pdf/2602.10093), Chen et al., arxiv 2026
 
+- [Tacmap: Bridging the Tactile Sim-to-Real Gap via Geometry-Consistent Penetration Depth Map](https://arxiv.org/pdf/2602.21625v1), Su et al., arxiv 2026
+
 
 
 ### Library
