@@ -923,6 +923,8 @@
 
 - [Tactile Modality Fusion for Vision-Language-Action Models](https://arxiv.org/pdf/2603.14604), Morissette et al., arxiv 2026
 
+- [Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation](https://arxiv.org/pdf/2512.23864), Ye et al., arxiv 2026
+
 
 
 ### Dexterous Manipulation
