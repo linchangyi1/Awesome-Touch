@@ -7,16 +7,16 @@
   - [Visual-Tactile (Multimodal)](#visual-tactile)
   - [Non-Vision-Based](#non-vision-based)
 - [Robotics Applications](#robotics-applications)
+  - [Data Collection](#data-collection)
+  - [LLM/VLM/VLA/WM](#llmvlmvlawm)
+  - [Dexterous Manipulation](#dexterous-manipulation)
+  - [Representation Learnig](#representation-learning)
   - [Manipulation/Grasping](#manipulationgrasping)
   - [Classification/Recognition](#classificationrecognition)
   - [Mapping/Localization](#mappinglocalization)
   - [Extrinsic Contact Sensing](#extrinsic-contact-sensing)
   - [Image Generation](#image-generation)
-  - [Representation Learnig](#representation-learning)
   - [Force Estimation](#force-estimation)
-  - [LLM/VLM/VLA/WM](#llmvlmvlawm)
-  - [Dexterous Manipulation](#dexterous-manipulation)
-  - [Data Collection](#data-collection)
   - [Tactile Policies for Legged Robots](#tactile-policies-for-legged-robots)
   - [Others](#others)
 - [Software](#software)
@@ -450,6 +450,163 @@
 - [](), xxx et al., yyy 2023
 -->
 
+### Data Collection
+- [MimicTouch: Leveraging Multi-modal Human Tactile Demonstrations for Contact-rich Manipulation](https://arxiv.org/pdf/2310.16917), Yu et al., CoRL 2024
+
+- [Learning Visuotactile Skills with Two Multifingered Hands](https://arxiv.org/pdf/2404.16823), Lin et al., arxiv 2024
+
+- [ManiWAV: Learning Robot Manipulation from In-the-Wild Audio-Visual Data](https://arxiv.org/pdf/2406.19464?), Liu et al., CoRL 2024
+
+- [3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing](https://arxiv.org/pdf/2410.24091), Huang et al., CoRL 2024
+
+- [Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning](https://arxiv.org/pdf/2407.03162), Ding et al., arxiv 2024
+
+- [Learning Precise, Contact-Rich Manipulation through Uncalibrated Tactile Skins](https://arxiv.org/pdf/2410.17246), Pattabiraman et al., arxiv 2024
+
+- [Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation](https://arxiv.org/pdf/2503.02881), Xue et al., RSS 2025
+
+- [DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove](https://arxiv.org/pdf/2502.07730), Zhang et al., RSS 2025
+
+- [FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning](https://arxiv.org/pdf/2502.17432), Liu et al., RSS 2025
+
+- [TacCap: A Wearable FBG-Based Tactile Sensor for Seamless Human-to-Robot Skill Transfer](https://arxiv.org/pdf/2503.01789), Xing et al., arxiv 2025
+
+- [ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface](https://arxiv.org/pdf/2504.06156), Liu et al., arxiv 2025
+
+- [TactileAloha: Learning Bimanual Manipulation With Tactile Sensing](https://ieeexplore.ieee.org/document/11063285), Gu et al., RAL 2025
+
+- [PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-rich Manipulation Using Tactile-Diffusion Policies](https://arxiv.org/pdf/2504.19341), Zhao et al., ICRA 2025
+
+- [GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion](https://arxiv.org/pdf/2505.07455), Jiang et al., arxiv 2025
+
+- [FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation](https://arxiv.org/pdf/2506.01941), Wu et al., arxiv 2025
+
+- [DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation](https://arxiv.org/pdf/2509.04441), Fang et al., arxiv 2025
+
+- [ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation](https://arxiv.org/pdf/2506.15953), Heng et al., arxiv 2025
+
+- [DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation](https://arxiv.org/pdf/2505.21864), Xu et al., CoRL 2025
+
+- [DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation](https://arxiv.org/pdf/2509.04441), Fang et al., arxiv 2025
+
+- [exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation](https://openreview.net/attachment?id=b86nyIOJWq&name=pdf), Xu et al., CoRL 2025
+
+- [ViTaMIn-B: A Reliable and Efficient Visuo-Tactile Bimanual Manipulation Interface](https://arxiv.org/pdf/2511.05858), Li et al., arxiv 2025
+
+- [Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation](https://arxiv.org/pdf/2512.09851), Li et al., arxiv 2025
+
+- [TacUMI: A Multi-Modal Universal Manipulation Interface for Contact-Rich Tasks](https://arxiv.org/pdf/2601.14550), Cheng et al., arxiv 2026
+
+- [TouchGuide: Inference-Time Steering of Visuomotor Policies via Touch Guidance](https://arxiv.org/pdf/2601.20239), Zhang et al., arxiv 2026
+
+### LLM/VLM/VLA/WM
+- [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://arxiv.org/abs/2402.13232), Fu et al., arxiv 2024
+
+- [Binding Touch to Everything: Learning Unified Multimodal Tactile Representations](https://arxiv.org/abs/2401.18084), Yang et al., CVPR 2024
+
+- [Octopi: Object Property Reasoning with Large Tactile-Language Models](https://arxiv.org/pdf/2405.02794), Yu et al., RSS 2024
+
+- [Touch100k: A Large-Scale Touch-Language-Vision Dataset for Touch-Centric Multimodal Representation](https://arxiv.org/pdf/2406.03813), Cheng et al., arxiv 2024
+
+- [CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding](https://arxiv.org/pdf/2505.08194), Ma et al., arxiv 2025
+
+- [Demonstrating the Octopi-1.5 Visual-Tactile-Language Model](https://arxiv.org/pdf/2507.09985), Yu et al., RSS 2025
+
+- [Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization](https://arxiv.org/pdf/2507.09160), Huange et al., arxiv 2025
+
+- [Universal Visuo-Tactile Video Understanding for Embodied Interaction](https://arxiv.org/pdf/2505.22566), Xie et al., arxiv 2025
+
+- [OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing](https://arxiv.org/pdf/2508.08706), Cheng et al., arxiv 2025
+
+- [Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions](https://arxiv.org/pdf/2509.07445), Field et al., arxiv 2025
+
+- [Visuo-Tactile World Models](https://arxiv.org/pdf/2602.06001), Higuera et al., arxiv 2026
+
+- [HapticVLA: Contact-Rich Manipulation via Vision-Language-Action Model without Inference-Time Tactile Sensing](https://arxiv.org/pdf/2603.15257), Gubernatorov et al., arxiv 2026
+
+- [ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation](https://arxiv.org/pdf/2603.15169), Li et al., arxiv 2026
+
+- [Tactile Modality Fusion for Vision-Language-Action Models](https://arxiv.org/pdf/2603.14604), Morissette et al., arxiv 2026
+
+- [Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation](https://arxiv.org/pdf/2512.23864), Ye et al., arxiv 2026
+
+- [OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation](https://arxiv.org/pdf/2603.19201), Zheng et al., arxiv 2026
+
+
+
+### Dexterous Manipulation
+- [All the Feels: A dexterous hand with large-area tactile sensing](https://arxiv.org/pdf/2210.15658), Bhirangi et al., arxiv 2022
+
+- [Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand](https://arxiv.org/abs/2204.03698), Sievers et al., ICRA 2022
+  
+- [Sampling-based Exploration for Reinment Learning of Dexterous Manipulation](https://arxiv.org/abs/2303.03486), Khandate et al., arxiv 2023
+
+- [Rotating without Seeing: Towards In-hand Dexterity through Touch](https://arxiv.org/abs/2303.10880), Yin et al., arxiv 2023
+
+- [Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play](https://arxiv.org/abs/2303.12076), Guzey et al., arxiv 2023
+  
+- [See to Touch: Learning Tactile Dexterity through Visual Incentives](https://arxiv.org/abs/2309.12300), Guzey et al., arxiv 2023
+
+- [TacGNN: Learning Tactile-based In-hand Manipulation with a Blind Robot using Hierarchical Graph Neural Network](https://arxiv.org/pdf/2304.00736.pdf), Yang et al., arxiv 2023
+
+- [General In-Hand Object Rotation with Vision and Touch](https://arxiv.org/abs/2309.09979), Qi et al., arxiv 2023
+
+- [Dextrous Tactile In-Hand Manipulation Using a Modular Reinment Learning Architecture](https://arxiv.org/abs/2303.04705), Pitz et al., ICRA 2023
+
+- [Estimator-Coupled Reinforcement Learning for Robust Purely Tactile In-Hand Manipulation](https://arxiv.org/abs/2311.04060), Röstel et al., Humanoids 2023
+
+- [Tactile SoftHand-A: 3D-Printed, Tactile, Highly-underactuated, Anthropomorphic Robot Hand with an Antagonistic Tendon Mechanism](https://arxiv.org/pdf/2406.12731), Li et al., arxiv 2024
+
+- [Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects](https://arxiv.org/abs/2407.18834), Pitz et al., IROS 2024
+
+- [Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation](http://arxiv.org/abs/2411.13148), Pitz et al., Humanoids 2024
+
+- [Visuotactile-Based Learning for Insertion with Compliant Hands](https://arxiv.org/pdf/2411.06408), Azulay et al., arxiv 2024
+
+- [PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands](https://arxiv.org/abs/2504.16649), Lin et al., RSS 2025
+
+- [Contact-Grounded Policy: Dexterous Visuotactile Policy with Generative Contact Grounding](https://arxiv.org/pdf/2603.05687), Xu et al., arxiv 2026
+
+### Representation Learning
+- [Touch and Go: Learning from Human-Collected Vision and Touch](https://openreview.net/forum?id=ZZ3FeSSPPblo), Yang et al., NeurIPS 2022
+
+- [Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play](https://arxiv.org/abs/2303.12076), Guzey et al., arxiv 2023
+
+- [Investigating Vision Foundational Models for Tactile Representation Learning](https://arxiv.org/abs/2305.00596), Zandonati et al., arxiv 2023
+
+- [Binding Touch to Everything: Learning Unified Multimodal Tactile Representations](https://arxiv.org/abs/2401.18084), Yang et al., CVPR 2024
+
+- [Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training](https://arxiv.org/abs/2401.12024), Dave et al., arxiv 2024
+
+- [Touch100k: A Large-Scale Touch-Language-Vision Dataset for Touch-Centric Multimodal Representation](https://arxiv.org/pdf/2406.03813), Cheng et al., arxiv 2024
+
+- [Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks](https://arxiv.org/pdf/2408.08276), Ou et al., arxiv 2024
+
+- [Tactile Functasets: Neural Implicit Representations of Tactile Datasets](https://arxiv.org/pdf/2409.14592), Li et al., arxiv 2024
+
+- [Contrastive Touch-to-Touch Pretraining](https://arxiv.org/pdf/2410.11834), Rodriguez et al., arxiv 2024
+
+- [T3: Transferable Tactile Transformers](https://arxiv.org/abs/2406.13640), Zhao et al., arxiv 2024
+
+- [UniT: Unified Tactile Representation for Robot Learning](https://arxiv.org/pdf/2408.06481), Xu et al., arxiv 2024
+
+- [Sparsh: Self-supervised touch representations for vision-based tactile sensing](https://arxiv.org/pdf/2410.24090), Higuera et al., arxiv 2024
+
+- [Touch-to-Touch Translation - Learning the Mapping Between Heterogeneous Tactile Sensing Technologies](https://arxiv.org/pdf/2411.02187), Grella et al., arxiv 2024
+
+- [Reducing Cross-Sensor Domain Gaps in Tactile Sensing via Few-Sample-Driven Style-to-Content Unsupervised Domain Adaptation](https://www.mdpi.com/1424-8220/25/1/2567), Jing et al., MDPI Sensors 2025
+
+- [Canonical Representation and Force-Based Pretraining of 3D Tactile for Dexterous Visuo-Tactile Policy Learning](https://arxiv.org/pdf/2409.17549), Wu et al., arxiv 2024
+
+- [AnyTouch: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors](https://arxiv.org/abs/2502.12191), Feng et al., ICLR 2025
+
+- [UniTac-NV: A Unified Tactile Representation For Non-Vision-Based Tactile Sensors](https://arxiv.org/pdf/2506.19699), Hou et al., arxiv 2025
+
+- [ConViTac: Aligning Visual-Tactile Fusion with Contrastive Representations](https://arxiv.org/pdf/2506.20757), Wu et al., arxiv 2025
+
+- [AnyTouch 2: General Optical Tactile Representation Learning For Dynamic Tactile Perception](https://arxiv.org/pdf/2602.09617), Feng et al., arxiv 2026
+
+
 ### Manipulation/Grasping
 - [Localization and manipulation of small parts using GelSight tactile sensing](https://ieeexplore.ieee.org/abstract/document/6943123), Li et al., IROS 2014
   
@@ -648,6 +805,8 @@
 
 - [Learning Force-Regulated Manipulation with a Low-Cost Tactile-Force-Controlled Gripper](https://arxiv.org/pdf/2602.10013),  Kang et al., arxiv 2026
 
+- [ViTac-Tracing: Visual-Tactile Imitation Learning of Deformable Object Tracing](https://arxiv.org/pdf/2603.18784),  Zhao et al., arxiv 2026
+
 
 
 ### Classification/Recognition
@@ -831,46 +990,6 @@
 - [Cross-Sensor Touch Generation](https://openreview.net/attachment?id=oGcC8nMOit&name=pdf), Rodriguez et al., CoRL 2025
 
 
-### Representation Learning
-- [Touch and Go: Learning from Human-Collected Vision and Touch](https://openreview.net/forum?id=ZZ3FeSSPPblo), Yang et al., NeurIPS 2022
-
-- [Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play](https://arxiv.org/abs/2303.12076), Guzey et al., arxiv 2023
-
-- [Investigating Vision Foundational Models for Tactile Representation Learning](https://arxiv.org/abs/2305.00596), Zandonati et al., arxiv 2023
-
-- [Binding Touch to Everything: Learning Unified Multimodal Tactile Representations](https://arxiv.org/abs/2401.18084), Yang et al., CVPR 2024
-
-- [Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training](https://arxiv.org/abs/2401.12024), Dave et al., arxiv 2024
-
-- [Touch100k: A Large-Scale Touch-Language-Vision Dataset for Touch-Centric Multimodal Representation](https://arxiv.org/pdf/2406.03813), Cheng et al., arxiv 2024
-
-- [Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks](https://arxiv.org/pdf/2408.08276), Ou et al., arxiv 2024
-
-- [Tactile Functasets: Neural Implicit Representations of Tactile Datasets](https://arxiv.org/pdf/2409.14592), Li et al., arxiv 2024
-
-- [Contrastive Touch-to-Touch Pretraining](https://arxiv.org/pdf/2410.11834), Rodriguez et al., arxiv 2024
-
-- [T3: Transferable Tactile Transformers](https://arxiv.org/abs/2406.13640), Zhao et al., arxiv 2024
-
-- [UniT: Unified Tactile Representation for Robot Learning](https://arxiv.org/pdf/2408.06481), Xu et al., arxiv 2024
-
-- [Sparsh: Self-supervised touch representations for vision-based tactile sensing](https://arxiv.org/pdf/2410.24090), Higuera et al., arxiv 2024
-
-- [Touch-to-Touch Translation - Learning the Mapping Between Heterogeneous Tactile Sensing Technologies](https://arxiv.org/pdf/2411.02187), Grella et al., arxiv 2024
-
-- [Reducing Cross-Sensor Domain Gaps in Tactile Sensing via Few-Sample-Driven Style-to-Content Unsupervised Domain Adaptation](https://www.mdpi.com/1424-8220/25/1/2567), Jing et al., MDPI Sensors 2025
-
-- [Canonical Representation and Force-Based Pretraining of 3D Tactile for Dexterous Visuo-Tactile Policy Learning](https://arxiv.org/pdf/2409.17549), Wu et al., arxiv 2024
-
-- [AnyTouch: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors](https://arxiv.org/abs/2502.12191), Feng et al., ICLR 2025
-
-- [UniTac-NV: A Unified Tactile Representation For Non-Vision-Based Tactile Sensors](https://arxiv.org/pdf/2506.19699), Hou et al., arxiv 2025
-
-- [ConViTac: Aligning Visual-Tactile Fusion with Contrastive Representations](https://arxiv.org/pdf/2506.20757), Wu et al., arxiv 2025
-
-- [AnyTouch 2: General Optical Tactile Representation Learning For Dynamic Tactile Perception](https://arxiv.org/pdf/2602.09617), Feng et al., arxiv 2026
-
-
 ### Force Estimation
 - [Dense Tactile Force Estimation using GelSlim and inverse FEM](https://ieeexplore.ieee.org/abstract/document/8794113), Ma et al., ICRA 2019
 
@@ -893,122 +1012,6 @@
 - [iFEM2.0: Dense 3D Contact Force Field Reconstruction and Assessment for Vision-Based Tactile Sensors](https://ieeexplore.ieee.org/abstract/document/10758225), Zhao et al., TRO 2024
 
 - [TensorTouch: Calibration of Tactile Sensors for High Resolution Stress Tensor and Deformation for Dexterous Manipulation](https://arxiv.org/pdf/2506.08291), Do et al., arxiv 2025
-
-### LLM/VLM/VLA/WM
-- [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://arxiv.org/abs/2402.13232), Fu et al., arxiv 2024
-
-- [Binding Touch to Everything: Learning Unified Multimodal Tactile Representations](https://arxiv.org/abs/2401.18084), Yang et al., CVPR 2024
-
-- [Octopi: Object Property Reasoning with Large Tactile-Language Models](https://arxiv.org/pdf/2405.02794), Yu et al., RSS 2024
-
-- [Touch100k: A Large-Scale Touch-Language-Vision Dataset for Touch-Centric Multimodal Representation](https://arxiv.org/pdf/2406.03813), Cheng et al., arxiv 2024
-
-- [CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding](https://arxiv.org/pdf/2505.08194), Ma et al., arxiv 2025
-
-- [Demonstrating the Octopi-1.5 Visual-Tactile-Language Model](https://arxiv.org/pdf/2507.09985), Yu et al., RSS 2025
-
-- [Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization](https://arxiv.org/pdf/2507.09160), Huange et al., arxiv 2025
-
-- [Universal Visuo-Tactile Video Understanding for Embodied Interaction](https://arxiv.org/pdf/2505.22566), Xie et al., arxiv 2025
-
-- [OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing](https://arxiv.org/pdf/2508.08706), Cheng et al., arxiv 2025
-
-- [Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions](https://arxiv.org/pdf/2509.07445), Field et al., arxiv 2025
-
-- [Visuo-Tactile World Models](https://arxiv.org/pdf/2602.06001), Higuera et al., arxiv 2026
-
-- [HapticVLA: Contact-Rich Manipulation via Vision-Language-Action Model without Inference-Time Tactile Sensing](https://arxiv.org/pdf/2603.15257), Gubernatorov et al., arxiv 2026
-
-- [ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation](https://arxiv.org/pdf/2603.15169), Li et al., arxiv 2026
-
-- [Tactile Modality Fusion for Vision-Language-Action Models](https://arxiv.org/pdf/2603.14604), Morissette et al., arxiv 2026
-
-- [Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation](https://arxiv.org/pdf/2512.23864), Ye et al., arxiv 2026
-
-
-
-### Dexterous Manipulation
-- [All the Feels: A dexterous hand with large-area tactile sensing](https://arxiv.org/pdf/2210.15658), Bhirangi et al., arxiv 2022
-
-- [Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand](https://arxiv.org/abs/2204.03698), Sievers et al., ICRA 2022
-  
-- [Sampling-based Exploration for Reinment Learning of Dexterous Manipulation](https://arxiv.org/abs/2303.03486), Khandate et al., arxiv 2023
-
-- [Rotating without Seeing: Towards In-hand Dexterity through Touch](https://arxiv.org/abs/2303.10880), Yin et al., arxiv 2023
-
-- [Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play](https://arxiv.org/abs/2303.12076), Guzey et al., arxiv 2023
-  
-- [See to Touch: Learning Tactile Dexterity through Visual Incentives](https://arxiv.org/abs/2309.12300), Guzey et al., arxiv 2023
-
-- [TacGNN: Learning Tactile-based In-hand Manipulation with a Blind Robot using Hierarchical Graph Neural Network](https://arxiv.org/pdf/2304.00736.pdf), Yang et al., arxiv 2023
-
-- [General In-Hand Object Rotation with Vision and Touch](https://arxiv.org/abs/2309.09979), Qi et al., arxiv 2023
-
-- [Dextrous Tactile In-Hand Manipulation Using a Modular Reinment Learning Architecture](https://arxiv.org/abs/2303.04705), Pitz et al., ICRA 2023
-
-- [Estimator-Coupled Reinforcement Learning for Robust Purely Tactile In-Hand Manipulation](https://arxiv.org/abs/2311.04060), Röstel et al., Humanoids 2023
-
-- [Tactile SoftHand-A: 3D-Printed, Tactile, Highly-underactuated, Anthropomorphic Robot Hand with an Antagonistic Tendon Mechanism](https://arxiv.org/pdf/2406.12731), Li et al., arxiv 2024
-
-- [Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects](https://arxiv.org/abs/2407.18834), Pitz et al., IROS 2024
-
-- [Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation](http://arxiv.org/abs/2411.13148), Pitz et al., Humanoids 2024
-
-- [Visuotactile-Based Learning for Insertion with Compliant Hands](https://arxiv.org/pdf/2411.06408), Azulay et al., arxiv 2024
-
-- [PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands](https://arxiv.org/abs/2504.16649), Lin et al., RSS 2025
-
-- [Contact-Grounded Policy: Dexterous Visuotactile Policy with Generative Contact Grounding](https://arxiv.org/pdf/2603.05687), Xu et al., arxiv 2026
-
-
-### Data Collection
-- [MimicTouch: Leveraging Multi-modal Human Tactile Demonstrations for Contact-rich Manipulation](https://arxiv.org/pdf/2310.16917), Yu et al., CoRL 2024
-
-- [Learning Visuotactile Skills with Two Multifingered Hands](https://arxiv.org/pdf/2404.16823), Lin et al., arxiv 2024
-
-- [ManiWAV: Learning Robot Manipulation from In-the-Wild Audio-Visual Data](https://arxiv.org/pdf/2406.19464?), Liu et al., CoRL 2024
-
-- [3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing](https://arxiv.org/pdf/2410.24091), Huang et al., CoRL 2024
-
-- [Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning](https://arxiv.org/pdf/2407.03162), Ding et al., arxiv 2024
-
-- [Learning Precise, Contact-Rich Manipulation through Uncalibrated Tactile Skins](https://arxiv.org/pdf/2410.17246), Pattabiraman et al., arxiv 2024
-
-- [Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation](https://arxiv.org/pdf/2503.02881), Xue et al., RSS 2025
-
-- [DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove](https://arxiv.org/pdf/2502.07730), Zhang et al., RSS 2025
-
-- [FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning](https://arxiv.org/pdf/2502.17432), Liu et al., RSS 2025
-
-- [TacCap: A Wearable FBG-Based Tactile Sensor for Seamless Human-to-Robot Skill Transfer](https://arxiv.org/pdf/2503.01789), Xing et al., arxiv 2025
-
-- [ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface](https://arxiv.org/pdf/2504.06156), Liu et al., arxiv 2025
-
-- [TactileAloha: Learning Bimanual Manipulation With Tactile Sensing](https://ieeexplore.ieee.org/document/11063285), Gu et al., RAL 2025
-
-- [PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-rich Manipulation Using Tactile-Diffusion Policies](https://arxiv.org/pdf/2504.19341), Zhao et al., ICRA 2025
-
-- [GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion](https://arxiv.org/pdf/2505.07455), Jiang et al., arxiv 2025
-
-- [FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation](https://arxiv.org/pdf/2506.01941), Wu et al., arxiv 2025
-
-- [DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation](https://arxiv.org/pdf/2509.04441), Fang et al., arxiv 2025
-
-- [ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation](https://arxiv.org/pdf/2506.15953), Heng et al., arxiv 2025
-
-- [DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation](https://arxiv.org/pdf/2505.21864), Xu et al., CoRL 2025
-
-- [DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation](https://arxiv.org/pdf/2509.04441), Fang et al., arxiv 2025
-
-- [exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation](https://openreview.net/attachment?id=b86nyIOJWq&name=pdf), Xu et al., CoRL 2025
-
-- [ViTaMIn-B: A Reliable and Efficient Visuo-Tactile Bimanual Manipulation Interface](https://arxiv.org/pdf/2511.05858), Li et al., arxiv 2025
-
-- [Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation](https://arxiv.org/pdf/2512.09851), Li et al., arxiv 2025
-
-- [TacUMI: A Multi-Modal Universal Manipulation Interface for Contact-Rich Tasks](https://arxiv.org/pdf/2601.14550), Cheng et al., arxiv 2026
-
-- [TouchGuide: Inference-Time Steering of Visuomotor Policies via Touch Guidance](https://arxiv.org/pdf/2601.20239), Zhang et al., arxiv 2026
 
 
 ### Tactile Policies for Legged Robots
