@@ -534,6 +534,8 @@
 
 - [VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs](https://arxiv.org/pdf/2603.23481), Yuan et al., arxiv 2026
 
+- [VitaTouch: Property-Aware Vision–Tactile–Language Model for Robotic Quality Inspection in Manufacturing](https://arxiv.org/pdf/2604.03322), Zong et al., arxiv 2026
+
 
 
 ### Dexterous Manipulation
