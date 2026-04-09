@@ -499,6 +499,9 @@
 
 - [TouchGuide: Inference-Time Steering of Visuomotor Policies via Touch Guidance](https://arxiv.org/pdf/2601.20239), Zhang et al., arxiv 2026
 
+- [TAMEn: Tactile-Aware Manipulation Engine  for Closed-Loop Data Collection in Contact-Rich Tasks](https://arxiv.org/pdf/2604.07335), Wu et al., arxiv 2026
+
+
 ### LLM/VLM/VLA/WM
 - [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://arxiv.org/abs/2402.13232), Fu et al., arxiv 2024
 
