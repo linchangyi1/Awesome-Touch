@@ -953,6 +953,8 @@
 
 - [Estimating High-Resolution Neural Stiffness Fields using Visuotactile Sensors](https://ieeexplore.ieee.org/document/11128319/), Han et al., ICRA 2025
 
+- [TacLoc: Global Tactile Localization on Objects from a Registration Perspective](https://arxiv.org/abs/2603.10565), Zhang et al., arxiv 2026
+
 
 
 ### Extrinsic Contact Sensing
