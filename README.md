@@ -347,8 +347,6 @@
 
 - [NLiPsCalib: An Efficient Calibration Framework for High-Fidelity 3D Reconstruction of Curved Visuotactile Sensors](https://arxiv.org/pdf/2603.09319), Qin et al., arxiv 2026
 
-- [FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation](https://arxiv.org/pdf/2604.20689), Xu et al., arxiv 2026
-
 
 <!---
 - [](), xxx et al., yyy 2023
@@ -381,6 +379,8 @@
 
 - [Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation](https://arxiv.org/pdf/2512.09851), Li et al., arxiv 2025
 
+- [LightTact: A Visual–Tactile Fingertip Sensor for Deformation-Independent Contact Sensing](https://arxiv.org/pdf/2512.09851), Lin et al., arxiv 2025
+
 - [Biomimetic multimodal tactile sensing enables human-like robotic perception](https://www.nature.com/articles/s44460-025-00006-y), Li et al., nature sensors 2026
 
 - [Design and application of multimodal visual-tactile sensor for object information perception](https://www.sciencedirect.com/science/article/pii/S0924424726000804?via%3Dihub), Wang et al., Sensors and Actuators 2026
@@ -388,6 +388,8 @@
 - [A Low-Cost Vision-Based Tactile Gripper with Pretraining Learning for Contact-Rich Manipulation](https://arxiv.org/pdf/2602.00514), Liu et al., arxiv 2026
 
 - [FruitTouch: A Perceptive Gripper for Gentle and Scalable Fruit Harvesting](https://arxiv.org/pdf/2602.18991), Zhang et al., arxiv 2026
+
+- [FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation](https://arxiv.org/pdf/2604.20689), Xu et al., arxiv 2026
 
 
 
