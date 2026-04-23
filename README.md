@@ -347,6 +347,8 @@
 
 - [NLiPsCalib: An Efficient Calibration Framework for High-Fidelity 3D Reconstruction of Curved Visuotactile Sensors](https://arxiv.org/pdf/2603.09319), Qin et al., arxiv 2026
 
+- [FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation](https://arxiv.org/pdf/2604.20689), Xu et al., arxiv 2026
+
 
 <!---
 - [](), xxx et al., yyy 2023
