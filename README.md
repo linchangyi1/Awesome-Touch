@@ -1172,6 +1172,8 @@
 
 - [A Survey of Vision-Based Tactile Sensors: Hardware, Algorithm, Application and Future Direction](https://ieeexplore.ieee.org/abstract/document/11146862), He et al., IEEE Transactions on Instrumentation and Measurement 2025
 
+- [Co-evolution of Vision-Based Tactile Sensors: From structure-dominated design to task-based system integration—A Review](https://ieeexplore.ieee.org/document/11498615), Wang et al., IEEE Sensors 2026
+
 
 ## Thesis
 ### Master
