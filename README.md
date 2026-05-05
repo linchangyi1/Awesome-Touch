@@ -1030,6 +1030,8 @@
 ### Tactile Policies for Legged Robots
 - [LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing](https://arxiv.org/abs/2505.23175), Lin et al., CoRL 2025
 
+- [Learning Tactile-Aware Quadrupedal Loco-Manipulation Policies](https://arxiv.org/pdf/2604.27224), Zhou et al., arxiv 2026
+
 
 ### Others
 - [Exploiting Distributed Tactile Sensors to Drive a Robot Arm Through Obstacles](https://ieeexplore.ieee.org/abstract/document/9384158), Albini et al., RAL 2021
@@ -1173,6 +1175,8 @@
 - [A Survey of Vision-Based Tactile Sensors: Hardware, Algorithm, Application and Future Direction](https://ieeexplore.ieee.org/abstract/document/11146862), He et al., IEEE Transactions on Instrumentation and Measurement 2025
 
 - [Co-evolution of Vision-Based Tactile Sensors: From structure-dominated design to task-based system integration—A Review](https://ieeexplore.ieee.org/document/11498615), Wang et al., IEEE Sensors 2026
+
+- [Tactile-based Multimodal Fusion in Embodied Intelligence: A Survey of Vision, Language, and Contact-Driven Paradigms](https://www.researchgate.net/publication/403306640_Tactile-based_Multimodal_Fusion_in_Embodied_Intelligence_A_Survey_of_Vision_Language_and_Contact-Driven_Paradigms), Cao et al., arxiv 2026
 
 
 ## Thesis
