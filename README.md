@@ -867,6 +867,8 @@
 
 
 ### Mapping/Localization
+- [Global Localization of Objects via Touch](https://ieeexplore.ieee.org/document/5784199/), Petrovskaya et al., TRO 2011
+
 - [Tracking objects with point clouds from vision and touch](https://ieeexplore.ieee.org/abstract/document/7989460), Izatt et al., ICRA 2017
 
 - [3D Shape Perception from Monocular Vision, Touch, and Shape Priors](https://ieeexplore.ieee.org/abstract/document/8593430), Wang et al., IROS 2018
