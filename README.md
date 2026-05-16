@@ -347,6 +347,8 @@
 
 - [NLiPsCalib: An Efficient Calibration Framework for High-Fidelity 3D Reconstruction of Curved Visuotactile Sensors](https://arxiv.org/pdf/2603.09319), Qin et al., arxiv 2026
 
+- [FlickerTac: Flickering LED Driven Photometric Stereo for Event Vision-Based Tactile Sensors](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11515073), Halwani et al., RAL 2026
+
 
 <!---
 - [](), xxx et al., yyy 2023
