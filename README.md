@@ -349,6 +349,8 @@
 
 - [FlickerTac: Flickering LED Driven Photometric Stereo for Event Vision-Based Tactile Sensors](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11515073), Halwani et al., RAL 2026
 
+- [OcTac: An Octopus Sucker-Inspired Vision-Based Tactile Sensor with Self-Adaptive Adhesion](https://mniyix1025.github.io/yixiong.github.io/OcTac/), xiong et al., ICRA 2026
+
 
 <!---
 - [](), xxx et al., yyy 2023
