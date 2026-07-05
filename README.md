@@ -349,7 +349,9 @@
 
 - [FlickerTac: Flickering LED Driven Photometric Stereo for Event Vision-Based Tactile Sensors](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11515073), Halwani et al., RAL 2026
 
-- [OcTac: An Octopus Sucker-Inspired Vision-Based Tactile Sensor with Self-Adaptive Adhesion](https://mniyix1025.github.io/yixiong.github.io/OcTac/), xiong et al., ICRA 2026
+- [OcTac: An Octopus Sucker-Inspired Vision-Based Tactile Sensor with Self-Adaptive Adhesion](https://mniyix1025.github.io/yixiong.github.io/OcTac/), Xiong et al., ICRA 2026
+
+- [High- resolution real- time mechanochromictactile sensors](https://www.science.org/doi/10.1126/sciadv.aee5236), Sasso et al., Science Advances 2026
 
 
 <!---
@@ -595,6 +597,7 @@
 
 - [Contact-Grounded Policy: Dexterous Visuotactile Policy with Generative Contact Grounding](https://arxiv.org/pdf/2603.05687), Xu et al., arxiv 2026
 
+
 ### Representation Learning
 - [Touch and Go: Learning from Human-Collected Vision and Touch](https://openreview.net/forum?id=ZZ3FeSSPPblo), Yang et al., NeurIPS 2022
 
@@ -633,6 +636,10 @@
 - [ConViTac: Aligning Visual-Tactile Fusion with Contrastive Representations](https://arxiv.org/pdf/2506.20757), Wu et al., arxiv 2025
 
 - [AnyTouch 2: General Optical Tactile Representation Learning For Dynamic Tactile Perception](https://arxiv.org/pdf/2602.09617), Feng et al., arxiv 2026
+
+- [Heterogeneous Tactile Transformer](https://arxiv.org/pdf/2606.29948), Bi et al., arxiv 2026
+
+
 
 
 ### Manipulation/Grasping
