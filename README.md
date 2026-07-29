@@ -1295,7 +1295,7 @@
 - [M3L](https://github.com/carlosferrazza/tactile_envs)
 - [AllSight](https://github.com/osheraz/allsight_sim)
 - [Taccel](https://github.com/Taccel-Simulator/Taccel)
-- [Genesis World](https://github.com/Genesis-Embodied-AI/genesis-world)
+- [Genesis World](https://github.com/Genesis-Embodied-AI/genesis-world) ([docs](https://genesis-world.readthedocs.io/en/latest/user_guide/sensing/tactile.html))
   
 ### Dataset
 - [Visual-Tactile_Dataset](https://github.com/tsinghua-rll/Visual-Tactile_Dataset)
