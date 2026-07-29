@@ -1159,6 +1159,7 @@
 
 - [TaCauchy: An Extensible FEM Framework for Vision-Based Tactile Simulation](https://arxiv.org/pdf/2606.20426), Zhao et al., arxiv 2026
 
+- [Tactile Genesis: Exploring Tactile Sensors at Scale for Learning Dexterous Tasks](https://arxiv.org/abs/2606.22332), Chung et al., arxiv 2026
 
 
 
@@ -1294,6 +1295,7 @@
 - [M3L](https://github.com/carlosferrazza/tactile_envs)
 - [AllSight](https://github.com/osheraz/allsight_sim)
 - [Taccel](https://github.com/Taccel-Simulator/Taccel)
+- [Genesis World](https://github.com/Genesis-Embodied-AI/genesis-world)
   
 ### Dataset
 - [Visual-Tactile_Dataset](https://github.com/tsinghua-rll/Visual-Tactile_Dataset)
