@@ -456,6 +456,8 @@
 
 - [DexSkin: High-Coverage Conformable Robotic Skin for Learning Contact-Rich Manipulation](https://openreview.net/attachment?id=CNPCSuwxJw&name=pdf), Wistreich et al., CoRL 2025
 
+- [A Self-powered Minimal-Channel Addressable Textile-Based Artificial Skin for Wearable Human–Robot Interfaces](https://doi.org/10.1016/j.nanoen.2026.112233), Zhou et al., Nano Energy 2026 — [source-linked editorial brief](https://roboskin.ai/news/self-powered-textile-artificial-skin-three-channel-robot-control-2026)
+
 
 ## Robotics Applications
 <!---
