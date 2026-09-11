@@ -562,7 +562,7 @@
 
 - [VitaTouch: Property-Aware Vision–Tactile–Language Model for Robotic Quality Inspection in Manufacturing](https://arxiv.org/pdf/2604.03322), Zong et al., arxiv 2026
 
-- [Modular Sensory Stream for Integrating Physical Feedback in Vision-Language-Action Models](https://arxiv.org/pdf/2604.23272), Lee et al., arxiv 2026
+- [Modular Sensory Stream for Integrating Physical Feedback in Vision-Language-Action Models](https://arxiv.org/pdf/2604.23272), Lee et al., CoRL 2026
 
 - [HapTile: A Haptic-Informed Vision-Tactile-Language-Action Dataset for Contact-Rich Imitation Learning](https://arxiv.org/pdf/2606.04825), Alian et al., arxiv 2026
 
