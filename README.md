@@ -523,6 +523,12 @@
 
 - [ViHaTeleop: A Low-Cost, Lightweight Visual-Haptic Teleoperation System for Dexterous Manipulation Learning](https://arxiv.org/pdf/2608.16572), Zhu et al., arxiv 2026
 
+- [GIFT: Glove-Inferred Force Transfer: Force-Aware Human-to-Robot Skill Transfer from a Wearable Sensing Glove to a Robot Hand Without Tactile Sensors](https://arxiv.org/abs/2609.14173), Sarusi, arxiv 2026
+
+- [Touch2Robot: Robot Touch in the Human Demonstration Loop](https://arxiv.org/abs/2609.24660), Luo et al., arxiv 2026
+
+- [VisTacAlign: Co-Training Dexterous Policies on Tactile Human and Robot Demonstrations](https://arxiv.org/abs/2609.30959), Poffet et al., arxiv 2026
+
 
 
 ### VLA/WM/LLM/VLM
@@ -572,6 +578,14 @@
 
 - [ViTaR: Visuo-Tactile Residual Adaptation for Foundation VLA Manipulation](https://arxiv.org/pdf/2608.15816), Wang et al., arxiv 2026
 
+- [STAR: Sparse Tactile Representation Learning in Vision-Tactile-Language-Action Models for Dexterous Manipulation](https://arxiv.org/abs/2609.12549), Liu et al., arxiv 2026
+
+- [DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation](https://arxiv.org/abs/2609.20649), Qin et al., IROS Workshop 2026
+
+- [ForeTac-VLA: A Forecasting-Based Tactile-Vision-Language-Action Model for Contact-Rich Robotic Manipulation](https://arxiv.org/abs/2609.20980), Tao et al., arxiv 2026
+
+- [HapticWAM: Distilling Imagined Touch into a World-Action Model without Inference-Time Tactile Sensing](https://arxiv.org/abs/2609.23888), Sannikov et al., arxiv 2026
+
 
 
 ### Dexterous Manipulation
@@ -606,6 +620,11 @@
 - [PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands](https://arxiv.org/abs/2504.16649), Lin et al., RSS 2025
 
 - [Contact-Grounded Policy: Dexterous Visuotactile Policy with Generative Contact Grounding](https://arxiv.org/pdf/2603.05687), Xu et al., arxiv 2026
+
+- [Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands](https://arxiv.org/abs/2609.15726), Yang et al., arxiv 2026
+
+- [Touch2Trace: Tactile-Driven Imitation Learning for Dexterous Cable Tracing](https://arxiv.org/abs/2609.15921), Grimaldi et al., CoRL 2026
+
 
 
 ### Representation Learning
@@ -649,6 +668,11 @@
 
 - [Heterogeneous Tactile Transformer](https://arxiv.org/pdf/2606.29948), Bi et al., arxiv 2026
 
+- [Tactile-JEPA: Topology-Aware Self-Supervised Representation Learning for Distributed Tactile Sensors](https://arxiv.org/abs/2609.24385), Kovtun et al., arxiv 2026
+
+- [Self-Supervised Anchoring of Fingertip Sensing to Proprioception and Proactive Actions for Robot Imitation Learning](https://arxiv.org/abs/2609.29822), Motoda et al., arxiv 2026
+
+- [TACTIC: Understanding Tactile Encoders and Conditioning for Contact-rich Robot Manipulation Policies](https://arxiv.org/abs/2609.30969), Bien et al., arxiv 2026
 
 
 
@@ -851,6 +875,12 @@
 - [Learning Force-Regulated Manipulation with a Low-Cost Tactile-Force-Controlled Gripper](https://arxiv.org/pdf/2602.10013),  Kang et al., arxiv 2026
 
 - [ViTac-Tracing: Visual-Tactile Imitation Learning of Deformable Object Tracing](https://arxiv.org/pdf/2603.18784),  Zhao et al., arxiv 2026
+
+- [SlipSense: Multimodal Tactile Learning for Low-Latency and Generalized Slip Detection](https://arxiv.org/abs/2609.15910), Jian et al., CoRL 2026
+
+- [DA-GRD: Decision-Aware Grasp-Relevant Disambiguation for tactile recovery under perception-to-execution mismatches](https://arxiv.org/abs/2609.29065), Wang et al., arxiv 2026
+
+- [PHASE: Compliance-Enabled Tactile Phase Retrieval for Few-Shot Insertion Learning](https://arxiv.org/abs/2609.30889), Siburian et al., IROS 2026
 
 
 
