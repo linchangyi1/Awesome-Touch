@@ -538,6 +538,8 @@
 
 - [Octopi: Object Property Reasoning with Large Tactile-Language Models](https://arxiv.org/pdf/2405.02794), Yu et al., RSS 2024
 
+- [TextToucher: Fine-Grained Text-to-Touch Generation](https://arxiv.org/pdf/2409.05427), Tu et al., arxiv 2024
+
 - [Touch100k: A Large-Scale Touch-Language-Vision Dataset for Touch-Centric Multimodal Representation](https://arxiv.org/pdf/2406.03813), Cheng et al., arxiv 2024
 
 - [CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding](https://arxiv.org/pdf/2505.08194), Ma et al., arxiv 2025
