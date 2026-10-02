@@ -529,6 +529,8 @@
 
 - [VisTacAlign: Co-Training Dexterous Policies on Tactile Human and Robot Demonstrations](https://arxiv.org/abs/2609.30959), Poffet et al., arxiv 2026
 
+- [DITTO-X: Forward and Reverse Teleoperation for Dexterous Manipulation and Human Intervention](https://arxiv.org/abs/2610.00781), He et al., arxiv 2026 ([project](https://tml.stanford.edu/ditto-x/))
+
 
 
 ### VLA/WM/LLM/VLM
@@ -588,6 +590,8 @@
 
 - [HapticWAM: Distilling Imagined Touch into a World-Action Model without Inference-Time Tactile Sensing](https://arxiv.org/abs/2609.23888), Sannikov et al., arxiv 2026
 
+- [TacDyn-WAM: Learning Implicit Tactile Dynamics in a Heterogeneous Visuo-Tactile World Action Model](https://arxiv.org/abs/2610.00638), Wang et al., arxiv 2026 ([project](https://enyi-bean.github.io/TacDyn-WAM-Page/))
+
 
 
 ### Dexterous Manipulation
@@ -626,6 +630,8 @@
 - [Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands](https://arxiv.org/abs/2609.15726), Yang et al., arxiv 2026
 
 - [Touch2Trace: Tactile-Driven Imitation Learning for Dexterous Cable Tracing](https://arxiv.org/abs/2609.15921), Grimaldi et al., CoRL 2026
+
+- [FlashDexRetarget: Accelerating Dexterous Manipulation Data Generation through Multi-Motion Retargeting](https://arxiv.org/abs/2610.01849), Lee et al., arxiv 2026 ([project](https://davian-robotics.github.io/FlashDexRetarget/))
 
 
 
