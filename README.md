@@ -890,7 +890,7 @@
 
 - [PHASE: Compliance-Enabled Tactile Phase Retrieval for Few-Shot Insertion Learning](https://arxiv.org/abs/2609.30889), Siburian et al., IROS 2026
 
-
+- [Equivariant Visual-Tactile Diffusion Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2610.03333), Wong et al., CoRL 2026 ([project](https://vista-paper.github.io/)) ([code](https://github.com/Kenn3o3/Vista))
 
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
