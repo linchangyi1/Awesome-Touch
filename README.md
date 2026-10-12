@@ -1,7 +1,5 @@
 # Awesome Touch [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-[Search and browse the research website](https://linchangyi1.github.io/Awesome-Touch/) · [Website maintenance](docs/website.md)
-
 ## Table of Contents
 
 - [Sensors](#sensors)
