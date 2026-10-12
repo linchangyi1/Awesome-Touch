@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "items": {
+    "arxiv:2609.32471": {
+      "summary": "GlowTact introduces a compact optical tactile sensor whose images directly encode contact pressure. A nitrile membrane couples to gel under pressure, changing observed light intensity. Experiments demonstrate light-contact detection, normal-force estimation, and fine contact geometry with simple illumination and camera hardware.",
+      "authors": "Yuxiang Ma, Megha Tippur, Pengfei Ye, Sandra Q. Liu, Haonan Chen, Francis Richard Cottrell, Edward Adelson",
+      "keywords": ["Vision-based tactile sensing", "Optical sensing", "Contact pressure", "Force estimation", "Humanoid fingertips"],
+      "sensorTechnology": ["Vision-based optical"],
+      "sensorHardware": "Pressure-responsive nitrile membrane and gel interface, single-color illumination, monochrome camera",
+      "links": [
+        { "label": "Project", "url": "https://glowtact.github.io/", "kind": "project", "status": "linked" }
+      ],
+      "availabilityNotes": ["The project page promises code and a hardware guide; release links are not yet listed."],
+      "sources": [
+        { "label": "arXiv paper", "url": "https://arxiv.org/abs/2609.32471" },
+        { "label": "Official project", "url": "https://glowtact.github.io/" }
+      ]
+    },
+    "arxiv:2610.10288": {
+      "summary": "TouchScale introduces a 500-hour collection of synchronized human vision and touch captured with one wearable setup. It combines egocentric RGB-D, wrist RGB, and full-hand bimanual pressure measurements. Experiments examine data scaling for tactile prediction, visual recognition, and contact-rich robot manipulation.",
+      "authors": "Dayou Li, Hao Wang, Qianqian Yang, Zihao Zhu, Haoquan Fang, Ziyao Zeng, Yan Han, Zihan Wang, Yan Wang, Baoru Huang, Dilin Wang, Kenji Shimada, Yiyue Luo, Manling Li, Teresa Lv, Mustafa Mukadam, Rakesh Ranjan, Ruohan Zhang, Qi He, Changliu Liu, Xu Chen, Marco Pavone, Bangya Liu, Jiachen Li, Masayoshi Tomizuka, Zhiwen Fan",
+      "keywords": ["Visual-tactile learning", "Egocentric dataset", "Robotic manipulation", "Tactile prediction", "Bimanual sensing"],
+      "sensorHardware": "Tachin Glove; 880 normal-pressure sensing taxels per glove across fingers and palm",
+      "links": [
+        { "label": "Project", "url": "https://touch-scale.github.io/", "kind": "project", "status": "linked" },
+        { "label": "Code", "url": "https://github.com/phai-lab/touchscale", "kind": "code", "status": "linked" },
+        { "label": "Data", "url": "https://huggingface.co/datasets/2077AIDataFoundation/TouchScale", "kind": "data", "status": "linked", "note": "100 hours currently released with gated access; the full 500-hour collection is planned for release." }
+      ],
+      "availabilityNotes": ["The linked dataset currently releases 100 hours with gated access. The full 500-hour collection is planned for release."],
+      "sources": [
+        { "label": "arXiv paper", "url": "https://arxiv.org/abs/2610.10288" },
+        { "label": "Full paper", "url": "https://arxiv.org/html/2610.10288v2" },
+        { "label": "Official project", "url": "https://touch-scale.github.io/" },
+        { "label": "Official code", "url": "https://github.com/phai-lab/touchscale" },
+        { "label": "Dataset release card", "url": "https://huggingface.co/datasets/2077AIDataFoundation/TouchScale" }
+      ]
+    },
+    "arxiv:2610.11945": {
+      "summary": "TACROSS transfers human touch demonstrations to robot learning by aligning contact events across heterogeneous tactile sensors. Its low-cost piezoresistive glove supports human data collection, while sensor-specific mappings create shared tactile representations. Robot demonstrations supervise actions; human demonstrations contribute representation learning and auxiliary supervision.",
+      "authors": "Bo Chen, Huanzhang Hu, Junyang Ma, Bo Yue, Fangdi Yu, Haijier Chen, Xianxin Lai, Shuyu Pan, Zhen Yang, Xiaoquan Sun, Wenze Cui, Zhongliang Jiang, Shaopeng Liu, Jiayu Chen",
+      "keywords": ["Human-to-robot transfer", "Cross-sensor alignment", "Tactile representation learning", "Dexterous manipulation", "Tactile glove"],
+      "sensorTechnology": ["Piezoresistive", "Capacitive"],
+      "sensorHardware": "Five-layer piezoresistive human glove with 285 sensing locations; capacitive Revo2 robot hand",
+      "links": [
+        { "label": "Project", "url": "https://tacross-touch-project.github.io/", "kind": "project", "status": "linked" }
+      ],
+      "availabilityNotes": ["The project page promises hardware designs, software, and a dataset; release links are not yet listed."],
+      "sources": [
+        { "label": "arXiv paper", "url": "https://arxiv.org/abs/2610.11945" },
+        { "label": "Official project", "url": "https://tacross-touch-project.github.io/" }
+      ]
+    },
+    "arxiv:2610.04363": {
+      "summary": "TacOT uses action and tactile dynamics to match human and robot demonstrations for dexterous manipulation. Dynamic time warping identifies compatible interaction sequences that guide optimal-transport alignment during policy learning. It avoids predefined frame-level pairings and is evaluated on four real-world tasks.",
+      "authors": "Xingting Li, Yifan Han, Zijian Lin, Wei Hou, Chuqiao Lyu, Shoujie Li, Wenbo Ding",
+      "keywords": ["Human-to-robot transfer", "Optimal transport", "Dynamic time warping", "Imitation learning", "Dexterous manipulation"],
+      "sensorHardware": "Five three-axis Paxini fingertip force sensors on a Manus glove; fingertip tactile sensors integrated into an XHand robot hand",
+      "sources": [
+        { "label": "arXiv paper", "url": "https://arxiv.org/abs/2610.04363" },
+        { "label": "Full paper", "url": "https://arxiv.org/html/2610.04363v1" }
+      ]
+    }
+  }
+}

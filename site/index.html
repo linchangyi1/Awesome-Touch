@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f7f2">
+  <meta name="description" content="Explore tactile research, from sensor hardware to robot learning. Search the full Awesome-Touch collection of papers, datasets, software, and resources.">
+  <title>Awesome-Touch — A field guide to tactile research</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.mjs"></script>
+</head>
+<body>
+  <a class="skip-link" href="#results">Skip to research</a>
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="Awesome-Touch home"><svg viewBox="0 0 36 36" aria-hidden="true"><circle cx="18" cy="18" r="15"/><circle cx="18" cy="18" r="10"/><circle cx="18" cy="18" r="5"/><path d="M18 0v9M18 27v9M0 18h9M27 18h9"/></svg><span>Awesome<span class="brand-dash">—</span>Touch<span class="brand-dot">.</span></span></a>
+    <nav aria-label="Main navigation"><a class="nav-current" href="#results">Explore</a><a href="#topics" id="topics-nav">Topics</a><button class="nav-button" id="about-button">About</button></nav>
+    <a class="github-link" href="https://github.com/linchangyi1/Awesome-Touch" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
+  </header>
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-content"><div class="eyebrow"><span class="status-dot"></span> AN OPEN FIELD GUIDE TO TACTILE RESEARCH</div>
+        <h1 id="hero-title">Intelligence begins<br>with <span>a touch.</span></h1>
+        <p class="hero-description">Discover the sensors, ideas, and tools bringing a sense of touch to machines.</p>
+        <form role="search" id="search-form" class="search-box"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg><label class="sr-only" for="search">Search titles, authors, topics, and keywords</label><input id="search" type="search" placeholder="Search papers, authors, topics…" autocomplete="off"><kbd aria-hidden="true">/</kbd><button type="submit" aria-label="Search collection">↗</button></form>
+        <div class="search-suggestions"><span>Explore</span><button data-shortcut="Sensors">Sensors</button><button data-shortcut="Dexterous Manipulation">Dexterous manipulation</button><button data-shortcut="Data Collection">Data collection</button><button data-shortcut="Simulator">Simulation</button></div>
+      </div>
+      <div class="hero-art" aria-hidden="true"><svg viewBox="0 0 360 280" fill="none"><defs><pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#c9ccc3"/></pattern></defs><path fill="url(#dots)" d="M0 0h360v280H0z"/><g stroke="#c7cbbf" stroke-width="1"><path d="M180 0v280M0 140h360"/><circle cx="180" cy="140" r="108"/><circle cx="180" cy="140" r="88"/><circle cx="180" cy="140" r="68"/></g><g stroke="#cd4a29" stroke-width="2" stroke-linecap="round"><path d="M117 160v-48a63 63 0 0 1 126 0v48c0 36-10 66-24 88"/><path d="M130 181v-69a50 50 0 0 1 100 0v52c0 24-7 47-18 68"/><path d="M143 206v-94a37 37 0 0 1 74 0v52c0 28-10 55-25 78"/><path d="M156 214V112a24 24 0 0 1 48 0v52c0 26-10 50-24 69"/><path d="M169 208v-96a11 11 0 0 1 22 0v52c0 21-7 40-17 55"/><path d="M182 128v36c0 12-3 23-7 33M104 147v-35a76 76 0 0 1 152 0v30"/></g><circle cx="180" cy="140" r="4" fill="#243e31"/><path d="M180 140h91v-31h49" stroke="#243e31"/><circle cx="271" cy="140" r="3" fill="#243e31"/><text x="276" y="100" font-size="9" fill="#4c5e51" font-family="monospace">CONTACT / 01</text><text x="22" y="263" font-size="9" fill="#4c5e51" font-family="monospace">SENSING → UNDERSTANDING → ACTION</text></svg><div class="art-caption">A new dimension of perception.</div></div>
+    </section>
+    <div class="collection-strip"><span><strong id="total-count">—</strong> curated resources</span><span><strong id="topic-count">—</strong> research topics</span><span class="strip-note"><span class="status-dot"></span> Community curated · README synchronized</span></div>
+    <section class="collection-layout" aria-label="Research collection">
+      <aside class="sidebar" id="topics"><div class="sidebar-heading"><h2>Browse topics</h2><span aria-hidden="true">↙</span></div><button id="all-topics" class="category-button active">All research <span id="all-count">—</span></button><div id="category-tree"></div><div class="contribute-box"><span class="eyebrow">BUILD THIS TOGETHER</span><h3>Something missing?</h3><p>Help map the world of touch.</p><a href="https://github.com/linchangyi1/Awesome-Touch/issues/new" target="_blank" rel="noopener noreferrer">Suggest a resource <span aria-hidden="true">↗</span></a></div></aside>
+      <div class="research-main" id="results" tabindex="-1"><div class="results-heading"><div><div class="eyebrow">THE COLLECTION</div><h2 id="results-title">Recently added</h2><p id="result-count" role="status" aria-live="polite">Loading the collection…</p></div><div class="view-switch" role="group" aria-label="Results view"><button id="card-view" aria-label="Card view" aria-pressed="true"><svg viewBox="0 0 20 20" aria-hidden="true"><rect x="3" y="3" width="5" height="5"/><rect x="12" y="3" width="5" height="5"/><rect x="3" y="12" width="5" height="5"/><rect x="12" y="12" width="5" height="5"/></svg></button><button id="list-view" aria-label="List view" aria-pressed="false"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M6 5h11M6 10h11M6 15h11M2 5h1M2 10h1M2 15h1"/></svg></button></div></div>
+        <div class="filter-bar"><div class="filter-left"><label class="sr-only" for="category-select">Category</label><select id="category-select" class="mobile-category"><option value="">All topics</option></select><label class="sr-only" for="year">Publication year</label><select id="year"><option value="">All years</option></select><div class="resource-filters" role="group" aria-label="Available resource links"><button data-resource="code" aria-pressed="false"><span aria-hidden="true">⌘</span> Code</button><button data-resource="data" aria-pressed="false"><span aria-hidden="true">▤</span> Data</button><button data-resource="project" aria-pressed="false"><span aria-hidden="true">↗</span> Project</button></div></div><label class="sort-label" for="sort">Sort <select id="sort"><option value="added">Recently added</option><option value="newest">Publication: newest</option><option value="oldest">Publication: oldest</option><option value="title">Title: A–Z</option></select></label></div>
+        <div class="secondary-filters"><label for="kind">Resource type <select id="kind"><option value="">Everything</option></select></label><label for="sensor" id="sensor-label" hidden>Sensor technology <select id="sensor"><option value="">Any technology</option></select></label><button id="reset" hidden>Clear filters ×</button></div>
+        <div id="active-filters" class="active-filters" aria-label="Active filters"></div>
+        <div id="paper-grid" class="paper-grid"></div><div class="load-area"><button id="load-more" hidden>Show more resources <span aria-hidden="true">↓</span></button><p id="showing-count"></p></div>
+        <noscript><p class="empty-state">This browser-side search needs JavaScript. The <a href="https://github.com/linchangyi1/Awesome-Touch">full collection is also available in the README</a>.</p></noscript>
+      </div>
+    </section>
+  </main>
+  <footer><a class="footer-brand" href="./">Awesome—Touch.</a><p>A community field guide. Curated by <a href="https://github.com/linchangyi1">Changyi Lin</a> and contributors.</p><a href="https://github.com/linchangyi1/Awesome-Touch/blob/main/docs/website.md">How this collection works ↗</a></footer>
+  <dialog id="detail-dialog" aria-labelledby="detail-title"><button class="dialog-close" id="close-detail" aria-label="Close details">×</button><div id="detail-content"></div></dialog>
+  <dialog id="about-dialog" aria-labelledby="about-title"><button class="dialog-close" id="close-about" aria-label="Close about">×</button><div class="eyebrow">ABOUT THE FIELD GUIDE</div><h2 id="about-title">A shared sense of touch.</h2><p>Awesome-Touch is an open collection of tactile sensing research and resources, maintained by Changyi Lin and the research community.</p><p>Explore sensor hardware, tactile gloves and datasets, representations, manipulation, robot learning, simulators, products, and laboratories. Hardware research has a home here in its own right.</p><h3>Curated once. Available everywhere.</h3><p>The website is generated from the repository’s README. Publication years come from its citations; “added” dates record the first appearance in Git history. Available resource filters mean a link is listed in the collection, not that its contents have been independently audited. Promised releases are labeled separately.</p><p>Summaries and sensor technologies appear only with a recorded source. Missing metadata is shown explicitly. All original entries and category memberships are retained through deduplication.</p><a class="primary-link" href="https://github.com/linchangyi1/Awesome-Touch/issues/new">Contribute on GitHub ↗</a></dialog>
+</body>
+</html>
