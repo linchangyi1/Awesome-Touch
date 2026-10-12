@@ -360,6 +360,10 @@
 - [](), xxx et al., yyy 2023
 -->
 
+- [Calibration-Free Surface Normals Estimation in Vision-Based Tactile Sensing using Universal Photometric Stereo](https://arxiv.org/abs/2609.31754), Dugonjic et al., arxiv 2026
+
+- [GlowTact: Simple and Compact Vision-Based Tactile Sensing with High Sensitivity and Spatial Resolution](https://arxiv.org/abs/2609.32471), Ma et al., arxiv 2026
+
 
 ### Visual-Tactile
 
@@ -460,6 +464,10 @@
 
 - [A Self-powered Minimal-Channel Addressable Textile-Based Artificial Skin for Wearable Human–Robot Interfaces](https://doi.org/10.1016/j.nanoen.2026.112233), Zhou et al., Nano Energy 2026 — [source-linked editorial brief](https://roboskin.ai/news/self-powered-textile-artificial-skin-three-channel-robot-control-2026)
 
+- [SoTa: Soft Tactile Skins for Dexterous Manipulation](https://arxiv.org/abs/2610.02338), Yang et al., arxiv 2026 ([project](https://sota-skin.github.io/))
+
+- [MagCilia: A Compact Magnetociliary Tactile Sensor with 3D Force Sensing for Robotic Contact Perception and Grasping Feedback](https://arxiv.org/abs/2610.09536), Feng et al., arxiv 2026
+
 
 ## Robotics Applications
 <!---
@@ -531,6 +539,16 @@
 
 - [DITTO-X: Forward and Reverse Teleoperation for Dexterous Manipulation and Human Intervention](https://arxiv.org/abs/2610.00781), He et al., arxiv 2026 ([project](https://tml.stanford.edu/ditto-x/))
 
+- [VICON: Visual-Inertial-Contact based Hand-Object Tracking for Manipulation Datasets](https://arxiv.org/abs/2610.05180), Jeon et al., arxiv 2026 ([repository](https://github.com/VICON-dataset/dataset); data pending)
+
+- [From Wearable Interfaces to Dexterous Policies: Contact Shifts and Tactile Representations](https://arxiv.org/abs/2610.08870), Tian et al., arxiv 2026
+
+- [TouchScale: 500 Hours of Human Vision and Touch for Visual-Tactile Learning](https://arxiv.org/abs/2610.10288), Li et al., arxiv 2026
+
+- [TACROSS: An Efficient and Low-Cost Scalable Human Touch System Across Heterogeneous Tactile Sensors for Dexterous Robot Learning](https://arxiv.org/abs/2610.11945), Chen et al., arxiv 2026
+
+- [PanTact: Teaching Whole-Body Dexterity with a Wearable Contact Interface](https://arxiv.org/abs/2610.12558), Xu et al., arxiv 2026 ([project](https://pantact.github.io/))
+
 
 
 ### VLA/WM/LLM/VLM
@@ -592,6 +610,10 @@
 
 - [TacDyn-WAM: Learning Implicit Tactile Dynamics in a Heterogeneous Visuo-Tactile World Action Model](https://arxiv.org/abs/2610.00638), Wang et al., arxiv 2026 ([project](https://enyi-bean.github.io/TacDyn-WAM-Page/))
 
+- [Uni-VLaT: Whole-Body Tactile Adaptation of VLA Policies for Humanoid Loco-Manipulation](https://arxiv.org/abs/2609.35450), Wang et al., arxiv 2026
+
+- [SimpleTouch: Can Vision-Language-Action Models Master Contact-Rich Manipulation Without Tactile Policy Pretraining?](https://arxiv.org/abs/2610.02784), Yang et al., arxiv 2026
+
 
 
 ### Dexterous Manipulation
@@ -632,6 +654,10 @@
 - [Touch2Trace: Tactile-Driven Imitation Learning for Dexterous Cable Tracing](https://arxiv.org/abs/2609.15921), Grimaldi et al., CoRL 2026
 
 - [FlashDexRetarget: Accelerating Dexterous Manipulation Data Generation through Multi-Motion Retargeting](https://arxiv.org/abs/2610.01849), Lee et al., arxiv 2026 ([project](https://davian-robotics.github.io/FlashDexRetarget/))
+
+- [TacOT: Learning Contact-Rich Dexterous Manipulation from Human Demonstrations via Tactile-Guided Optimal Transport](https://arxiv.org/abs/2610.04363), Li et al., arxiv 2026
+
+- [Temporal Visuo-Tactile Learning for Dexterous Grasp Stability](https://arxiv.org/abs/2610.10283), Nakahara et al., arxiv 2026
 
 
 
@@ -681,6 +707,10 @@
 - [Self-Supervised Anchoring of Fingertip Sensing to Proprioception and Proactive Actions for Robot Imitation Learning](https://arxiv.org/abs/2609.29822), Motoda et al., arxiv 2026
 
 - [TACTIC: Understanding Tactile Encoders and Conditioning for Contact-rich Robot Manipulation Policies](https://arxiv.org/abs/2609.30969), Bien et al., arxiv 2026
+
+- [Factorized Tactile Representation and Control for Sim-to-Real Manipulation](https://arxiv.org/abs/2610.10510), Shang et al., arxiv 2026
+
+- [A Minimal Optical-Flow Representation for Vision-Based Tactile Rotation Classification in Robotic Manipulation Across Gravity Domains](https://arxiv.org/abs/2610.12073), Martinez-Bernal et al., arxiv 2026
 
 
 
@@ -892,6 +922,20 @@
 
 - [Equivariant Visual-Tactile Diffusion Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2610.03333), Wong et al., CoRL 2026 ([project](https://vista-paper.github.io/)) ([code](https://github.com/Kenn3o3/Vista))
 
+- [Tactile Curiosity Drives Robot Interaction](https://arxiv.org/abs/2609.40134), Iten et al., arxiv 2026
+
+- [Robot Learning with Visual Predicted Force](https://arxiv.org/abs/2610.04741), Chen et al., arxiv 2026
+
+- [Contact-Aware Imitation Learning Through Contact Factorization](https://arxiv.org/abs/2610.09533), Hong et al., arxiv 2026
+
+- [TacHair: Tactile Contact-Distribution Guided Online Correction for Robotic Hair Stroking and Perception](https://arxiv.org/abs/2610.10637), Hu et al., arxiv 2026 ([project](https://tachair.github.io/))
+
+- [OpenViTac: Learning and Benchmarking Visuo-Tactile Policies in a Unified Sim-and-Real Framework](https://arxiv.org/abs/2610.10384), Wu et al., arxiv 2026
+
+- [Tactile Sensing-based Secure and Gentle Grasping of Unknown Objects](https://arxiv.org/abs/2610.12790), Han, arxiv 2026
+
+- [How Firm Should a Grasp Be?](https://arxiv.org/abs/2610.11221), Beveridge et al., arxiv 2026
+
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
@@ -1076,6 +1120,8 @@
 
 - [Cross-Sensor Touch Generation](https://openreview.net/attachment?id=oGcC8nMOit&name=pdf), Rodriguez et al., CoRL 2025
 
+- [PhysTacGen: Physics-Aware Visual-Tactile Sensor Image Generation](https://arxiv.org/abs/2610.08068), Tang et al., arxiv 2026 ([repository](https://github.com/VDIGPKU/PhysTacGen); code pending)
+
 
 ### Force Estimation
 - [Dense Tactile Force Estimation using GelSlim and inverse FEM](https://ieeexplore.ieee.org/abstract/document/8794113), Ma et al., ICRA 2019
@@ -1099,6 +1145,10 @@
 - [iFEM2.0: Dense 3D Contact Force Field Reconstruction and Assessment for Vision-Based Tactile Sensors](https://ieeexplore.ieee.org/abstract/document/10758225), Zhao et al., TRO 2024
 
 - [TensorTouch: Calibration of Tactile Sensors for High Resolution Stress Tensor and Deformation for Dexterous Manipulation](https://arxiv.org/pdf/2506.08291), Do et al., arxiv 2025
+
+- [Tactile Reconstruction of Contact Task Frames and Forces for Hybrid Force/Motion Control](https://arxiv.org/abs/2610.10020), Rapuano et al., arxiv 2026
+
+- [EgoPhys: Estimating Peak Contact Force and Mechanical Work from Egocentric Manipulation Video](https://arxiv.org/abs/2610.11347), Dong et al., arxiv 2026
 
 
 ### Tactile Policies for Legged Robots
@@ -1208,6 +1258,8 @@
 - [TaCauchy: An Extensible FEM Framework for Vision-Based Tactile Simulation](https://arxiv.org/pdf/2606.20426), Zhao et al., arxiv 2026
 
 - [Tactile Genesis: Exploring Tactile Sensors at Scale for Learning Dexterous Tasks](https://arxiv.org/abs/2606.22332), Chung et al., arxiv 2026
+
+- [TouchTherm: Building Multimodal Digital Twins of Objects for Tactile and Thermal Rendering](https://arxiv.org/abs/2610.01943), Zhang et al., arxiv 2026
 
 
 
