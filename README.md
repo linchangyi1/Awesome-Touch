@@ -468,6 +468,8 @@
 
 - [MagCilia: A Compact Magnetociliary Tactile Sensor with 3D Force Sensing for Robotic Contact Perception and Grasping Feedback](https://arxiv.org/abs/2610.09536), Feng et al., arxiv 2026
 
+- [Spontaneous Interfacial Redox Enables Spatiotemporally Registered Visual-Tactile Interfaces](https://doi.org/10.1002/adfm.78819), Zhang et al., Advanced Functional Materials 2026
+
 
 ## Robotics Applications
 <!---
@@ -549,6 +551,16 @@
 
 - [PanTact: Teaching Whole-Body Dexterity with a Wearable Contact Interface](https://arxiv.org/abs/2610.12558), Xu et al., arxiv 2026 ([project](https://pantact.github.io/))
 
+- [TacGELLO: Tactile Contact Feedback for a 3D-Printed Teleoperation Leader](https://arxiv.org/abs/2610.05583), Kim et al., arxiv 2026
+
+- [ExoBridge: Learning a Bare Hand to Hand-Worn Exoskeleton Mapping through Human Limb Coupling](https://arxiv.org/abs/2610.07692), Tian et al., arxiv 2026
+
+- [EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ](https://arxiv.org/abs/2610.18872), Zhou et al., arxiv 2026 ([project](https://internrobotics.github.io/egoexplorer.github.io/); [dataset preview](https://huggingface.co/datasets/InternRobotics/EgoExplorer), approval required; toolkit pending)
+
+- [FOMI: A Force-Feedback Manipulation Interface for Teaching Contact-Rich Manipulation](https://arxiv.org/abs/2610.19839), Shen et al., arxiv 2026 ([project](https://robbyant-research.github.io/FOMI/); hardware, code and data pending)
+
+- [TacClaw-Infinity: A Large-Scale Vision-Tactile-Language-Action Dataset for Dexterous Manipulation](https://arxiv.org/abs/2610.20320), Zhu et al., arxiv 2026 ([repository](https://github.com/daimon-robotics/TacClaw-Infinity); [dataset](https://huggingface.co/datasets/daimonrobotics/Daimon-Infinity))
+
 
 
 ### VLA/WM/LLM/VLM
@@ -613,6 +625,20 @@
 - [Uni-VLaT: Whole-Body Tactile Adaptation of VLA Policies for Humanoid Loco-Manipulation](https://arxiv.org/abs/2609.35450), Wang et al., arxiv 2026
 
 - [SimpleTouch: Can Vision-Language-Action Models Master Contact-Rich Manipulation Without Tactile Policy Pretraining?](https://arxiv.org/abs/2610.02784), Yang et al., arxiv 2026
+
+- [TacZero: Training-Free Peg Insertion Using a General-Purpose Vision-Language Model with Tactile Feedback](https://arxiv.org/abs/2610.07621), Tanaka, arxiv 2026 ([project](https://omron-sinicx.github.io/taczero/))
+
+- [ForeTac: Predictive Contact Guidance for Generative Robot Policies](https://arxiv.org/abs/2610.18118), Chen et al., arxiv 2026 ([project](https://foretac.github.io/); code pending)
+
+- [ForceWAM: Decoupling Future and Response Learning from Demo and Play Data for Contact-Rich Manipulation](https://arxiv.org/abs/2610.18852), Xu et al., arxiv 2026 ([project](https://force-wam.github.io/); code pending)
+
+- [FACT: A Multimodal Force-Action-Track Foundation Model for Human-to-Robot Dexterity](https://arxiv.org/abs/2610.19155), Cao et al., arxiv 2026 ([project](https://fact-1-0.github.io/); code and data pending)
+
+- [ForceBench: Benchmarking Force Integration for Robotic Manipulation](https://arxiv.org/abs/2610.19604), Han et al., arxiv 2026 ([project](https://forcebench-platform.github.io/); code and demonstrations pending)
+
+- [MAIA: Anticipating Interaction Anomalies in Contact-Rich Manipulation via Multimodal World Models](https://arxiv.org/abs/2610.21686), Qiao et al., arxiv 2026
+
+- [Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation](https://arxiv.org/abs/2610.22342), Chen et al., arxiv 2026 ([project](https://xsparkai.com/Spark-0); [code](https://github.com/XsparkAI/Spark-0))
 
 
 
@@ -936,6 +962,8 @@
 
 - [How Firm Should a Grasp Be?](https://arxiv.org/abs/2610.11221), Beveridge et al., arxiv 2026
 
+- [PACE: Temporal-Role Tactile Conditioning for Chunk-Based Insertion Policies](https://arxiv.org/abs/2610.16308), Chen et al., CoRL 2026 ([project](https://pace-insertion.github.io/); code, models and data pending)
+
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
@@ -1077,6 +1105,8 @@
 
 - [TacLoc: Global Tactile Localization on Objects from a Registration Perspective](https://arxiv.org/abs/2603.10565), Zhang et al., arxiv 2026
 
+- [TacSpin: Tactile Tracking of In-Gripper Object Rotation on SO(3) via Axis-Magnitude Estimation](https://arxiv.org/abs/2610.17574), Wu et al., arxiv 2026
+
 
 
 ### Extrinsic Contact Sensing
@@ -1121,6 +1151,8 @@
 - [Cross-Sensor Touch Generation](https://openreview.net/attachment?id=oGcC8nMOit&name=pdf), Rodriguez et al., CoRL 2025
 
 - [PhysTacGen: Physics-Aware Visual-Tactile Sensor Image Generation](https://arxiv.org/abs/2610.08068), Tang et al., arxiv 2026 ([repository](https://github.com/VDIGPKU/PhysTacGen); code pending)
+
+- [DeTac: Dual-branch Decoupling of Texture and Force Signals in Vision-Based Tactile Sensors](https://arxiv.org/abs/2610.16463), Zhang et al., arxiv 2026
 
 
 ### Force Estimation
