@@ -569,6 +569,19 @@
 
 
 
+
+- [High-resolution tactile observation makes hidden racket-control mechanisms learnable](https://arxiv.org/abs/2610.35563), Tian et al., arxiv 2026
+
+- [DEX-PHD: A Dexterous Portable Handheld Device for Multimodal Data Collection](https://arxiv.org/abs/2610.35462), Hong et al., arxiv 2026
+
+- [CARD: Contact-Anchored Retargeting for Dexterous Manipulation](https://arxiv.org/abs/2610.36539), Dai et al., arxiv 2026 ([project](https://card-retargeting.github.io/); code and data not verified)
+
+- [Tactus: Tactile & Pose Sensing Glove for Natural Dexterity Data Collection](https://arxiv.org/abs/2610.39076), Guan et al., arxiv 2026
+
+- [TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation](https://arxiv.org/abs/2610.40349), Zhang et al., arxiv 2026
+
+- [Kinematic-Tactile Aligned Dexterous Retargeting with Contact Wrench Space Alignment](https://arxiv.org/abs/2610.39582), He et al., arxiv 2026
+
 ### VLA/WM/LLM/VLM
 - [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://arxiv.org/abs/2402.13232), Fu et al., arxiv 2024
 
@@ -659,6 +672,11 @@
 - [Embodied Task Agents Can Perform Fine Manipulation through Tactile In-Context Learning](https://arxiv.org/abs/2610.27613), Wang et al., arxiv 2026 ([project](https://no-518.github.io/tactile-eta/); [repository](https://github.com/No-518/Tactile-ETA))
 
 - [Physical Canvas: A Vision Tactile World Model For Robot Policy Evaluation And Learning](https://arxiv.org/abs/2610.28613), Xing et al., arxiv 2026 ([project](https://zebinx.github.io/PhysCanvas_HomePage/); code and models pending)
+
+
+- [Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation](https://arxiv.org/abs/2610.26854), Liu et al., arxiv 2026 ([project](https://nvidia-isaac.github.io/video_to_data/physicalword/); code pending)
+
+- [CW-WAM: A Structured Contact-Wrench World Action Model for Force-Sensitive Manipulation](https://arxiv.org/abs/2610.30117), Ding et al., arxiv 2026 ([project](https://cw-wam-project.github.io/); code and data not verified)
 
 ### Dexterous Manipulation
 - [All the Feels: A dexterous hand with large-area tactile sensing](https://arxiv.org/pdf/2210.15658), Bhirangi et al., arxiv 2022
@@ -767,6 +785,9 @@
 - [Learning Tactile-Aware Hand Representations from Human Hand-Object Interaction Data](https://arxiv.org/abs/2610.27995), Yu et al., arxiv 2026
 
 - [Touch-JEPA: Tactile Representation Learning from Hand-Object Video with Limited Tactile Supervision](https://arxiv.org/abs/2610.28519), Kweon et al., arxiv 2026 ([project](https://touch-jepa.github.io/); code not verified)
+
+
+- [Language-Grounded Force/Torque Pretraining for Extrinsic Contact Perception](https://arxiv.org/abs/2610.39314), Takahashi et al., arxiv 2026
 
 ### Manipulation/Grasping
 - [Localization and manipulation of small parts using GelSight tactile sensing](https://ieeexplore.ieee.org/abstract/document/6943123), Li et al., IROS 2014
@@ -996,6 +1017,11 @@
 
 - [ContactBench 1.0: A Benchmark for Everyday Contact-Rich Robotic Manipulation](https://arxiv.org/abs/2610.24512), Xiang et al., arxiv 2026 ([project](https://jingyi-xiang.github.io/contactbench/); code and assets pending)
 
+
+- [FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation](https://arxiv.org/abs/2610.31841), Tan et al., arxiv 2026 ([project](https://tanoom.github.io/forca/))
+
+- [SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing](https://arxiv.org/abs/2610.40646), Zhang et al., arxiv 2026 ([project](https://personalrobotics.github.io/SwapBot))
+
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
@@ -1221,11 +1247,17 @@
 
 - [DenseHap: Dense Hand Haptic Estimation from Monocular Images](https://arxiv.org/abs/2610.26583), Xue et al., arxiv 2026 (code and models promised upon acceptance)
 
+
+- [TactoHand: Learning Geometry-Based Dense Hand-Surface Interaction Fields from Video](https://arxiv.org/abs/2610.39585), Xi et al., arxiv 2026 (code pending)
+
 ### Tactile Policies for Legged Robots
 - [LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing](https://arxiv.org/abs/2505.23175), Lin et al., CoRL 2025
 
 - [Learning Tactile-Aware Quadrupedal Loco-Manipulation Policies](https://arxiv.org/pdf/2604.27224), Zhou et al., arxiv 2026
 
+
+
+- [Learning Force-Reactive Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.35862), Li et al., arxiv 2026 ([project](https://louis-leee.github.io/FLoRe/); code pending)
 
 ### Others
 - [Exploiting Distributed Tactile Sensors to Drive a Robot Arm Through Obstacles](https://ieeexplore.ieee.org/abstract/document/9384158), Albini et al., RAL 2021
