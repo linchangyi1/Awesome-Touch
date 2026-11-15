@@ -367,6 +367,8 @@
 
 - [GelSlim 5.0: Unifying Vision and Touch with a Single Fingertip Camera](https://arxiv.org/abs/2610.31334), Wang et al., arxiv 2026
 
+- [PCTac: Mechanochromic Photonic-Crystal Tactile Sensor for Dexterous Manipulation](https://arxiv.org/abs/2611.12383), Zhang et al., arxiv 2026 ([project](https://bey0ndt1me.github.io/PCTac-page/); results data available, code not verified)
+
 ### Visual-Tactile
 
 - [Combining Finger Vision and Optical Tactile Sensing: Reducing and Handling Errors While Cutting Vegetables](https://ieeexplore.ieee.org/abstract/document/7803400), Yamaguchi et al., Humanoids 2016
@@ -481,6 +483,10 @@
 
 - [LumiTac: Compact, High-Rate Six-Axis Optical Tactile Sensing for Human-Robot Interaction](https://arxiv.org/abs/2611.05936), Wu et al., arxiv 2026 (code and data not verified)
 
+- [Robust Readout of Cross-Point Resistive Arrays via Time-Domain Optimization](https://arxiv.org/abs/2611.09059), Tako et al., IEEE Sensors 2026 (code and data not verified)
+
+- [Direct-Ink-Writing of Soft Thin Film Force-Sensitive Resistors with Velostat and Printed-Carbon Sensing Elements](https://arxiv.org/abs/2611.16250), Massoud et al., IEEE Sensors 2026 (code and data not verified)
+
 ## Robotics Applications
 <!---
 - [](), xxx et al., yyy 2023
@@ -588,6 +594,10 @@
 
 - [Contact Imitation Interface: Transferring Dexterous Skills by Showing How Contact Unfolds](https://arxiv.org/abs/2610.41028), Xu et al., arxiv 2026 ([project](https://nus-lins-lab.github.io/CIMIWeb/); [code](https://github.com/ariszxxu/CIMI); raw data not released)
 
+- [DexSeed: Expanding Human Hand-Object Interactions into Robot Demonstrations for Dexterous Policy Learning](https://arxiv.org/abs/2611.14092), Pi et al., arxiv 2026 ([project](https://robbyant-research.github.io/DexSeed/); [repository](https://github.com/robbyant-research/DexSeed), code pending)
+
+- [RUMI: A Robotiq-Matched Universal Manipulation Interface for Robot Learning with Augmented Reality and Haptic Feedback](https://arxiv.org/abs/2611.15802), Avdiu et al., arxiv 2026 (code, CAD and data not verified)
+
 ### VLA/WM/LLM/VLM
 - [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://arxiv.org/abs/2402.13232), Fu et al., arxiv 2024
 
@@ -686,6 +696,8 @@
 
 - [$TF^2$-Steering: Action Refinement with Tactile Forecasts and Feedback via Velocity-Field Steering](https://arxiv.org/abs/2611.01483), Chen et al., arxiv 2026 ([project](https://yiming-cc.github.io/tf2-steering/); code and data not verified)
 
+- [BAT-WAM: Bridging Action and Touch in World-Action Models for Dexterous Hands](https://arxiv.org/abs/2611.10967), Fang et al., arxiv 2026 (code and data not verified)
+
 ### Dexterous Manipulation
 - [All the Feels: A dexterous hand with large-area tactile sensing](https://arxiv.org/pdf/2210.15658), Bhirangi et al., arxiv 2022
 
@@ -734,6 +746,8 @@
 - [Force-Modulated Dexterity: Unified Compliance for Contact-Rich Manipulation](https://arxiv.org/abs/2610.17161), Yuan et al., arxiv 2026 ([project](https://yingyuan0414.github.io/fomo-dex/); code pending)
 
 - [Tactile In-Hand Object Rotation: A Comparative Study of Hand Morphology in Simulation and Hardware](https://arxiv.org/abs/2610.26759), He et al., arxiv 2026
+
+- [DexRemo: A Force-Sensing Hand Platform and Task Suite for Contact-Rich Removal Manipulation](https://arxiv.org/abs/2611.15981), Wang et al., TRO 2026 ([project](https://dexremo.github.io/); code, hardware files and data pending)
 
 ### Representation Learning
 - [Touch and Go: Learning from Human-Collected Vision and Touch](https://openreview.net/forum?id=ZZ3FeSSPPblo), Yang et al., NeurIPS 2022
@@ -802,6 +816,8 @@
 - [SomaAlign: Reliability-Aware Multimodal Representation Learning for Soft Robotic Grasping](https://arxiv.org/abs/2611.02794), Wang et al., arxiv 2026 (code and data not verified)
 
 - [Which Physical Tactile Cues Matter for Contact-Rich Imitation Learning? A Controlled Real-Robot Study](https://arxiv.org/abs/2611.06673), Qin et al., ROBIO 2026 ([project](https://xuhaoqin02.github.io/lerobot-tactile/); implementation code not verified)
+
+- [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://arxiv.org/abs/2611.12806), Han et al., arxiv 2026 (LingBot-Touch; [repository](https://github.com/Robbyant/lingbot-touch); [open weights](https://huggingface.co/collections/robbyant/lingbot-touch); inference code and weights available, training data not released)
 
 ### Manipulation/Grasping
 - [Localization and manipulation of small parts using GelSight tactile sensing](https://ieeexplore.ieee.org/abstract/document/6943123), Li et al., IROS 2014
@@ -1269,6 +1285,8 @@
 - [TactoHand: Learning Geometry-Based Dense Hand-Surface Interaction Fields from Video](https://arxiv.org/abs/2610.39585), Xi et al., arxiv 2026 (code pending)
 
 - [HOPE: Hand-Object Pressure Estimation from Monocular Videos](https://arxiv.org/abs/2608.06192), Jeon et al., NeurIPS 2026 ([project](https://subin6.github.io/page-hope/); [code and checkpoint](https://github.com/subin6/hope))
+
+- [Single-View RGB-D Force--Deformation Estimation for Robotic Manipulation of Elasto-Plastic Materials](https://arxiv.org/abs/2611.15650), Sun et al., ROBIO 2026 (code and data not verified)
 
 ### Tactile Policies for Legged Robots
 - [LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing](https://arxiv.org/abs/2505.23175), Lin et al., CoRL 2025
